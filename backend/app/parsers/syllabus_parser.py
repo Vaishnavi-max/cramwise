@@ -5,6 +5,10 @@ from typing import List
 class SyllabusParser:
 
     def extract_text(self, pdf_path: str) -> List[str]:
+        """
+    Extracts text from the syllabus PDF and returns
+    a cleaned list of non-empty lines.
+    """
         document = fitz.open(pdf_path)
 
         text = ""
@@ -22,6 +26,9 @@ class SyllabusParser:
 
         return lines
     def split_into_courses(self, lines):
+        """
+    Splits the syllabus into individual course blocks.
+    """
         courses = []
         start = None
 
@@ -40,6 +47,10 @@ class SyllabusParser:
         courses.append(lines[start:])  
         return courses
     def extract_course_info(self, course_lines):
+        """
+        Extracts course metadata such as course name,
+        course code, semester, category and credits.
+        """
         course = {}
 
         for i, line in enumerate(course_lines):
@@ -54,9 +65,11 @@ class SyllabusParser:
 
         return course
     def extract_units(self, course_lines):
-
+        """
+        Extracts all units and their corresponding topics
+        from a course block.
+        """
         units = []
-
         current_unit = None
         current_topics = []
 
@@ -105,7 +118,9 @@ class SyllabusParser:
 
         return units
     def extract_text_books(self, course_lines):
-
+        """
+        Extracts the list of prescribed textbooks.
+        """
         text_books = []
 
         in_text_books = False
@@ -140,7 +155,9 @@ class SyllabusParser:
 
         return text_books
     def extract_reference_books(self, course_lines):
-
+        """
+        Extracts the list of reference books.
+        """
         reference_books = []
 
         in_reference_books = False
@@ -169,3 +186,25 @@ class SyllabusParser:
             reference_books.append(current_book.strip())
 
         return reference_books
+    def parse(self, pdf_path):
+        """
+        Parses the complete syllabus PDF and returns
+        structured information for all courses.
+        """
+        lines = self.extract_text(pdf_path)
+
+        course_blocks = self.split_into_courses(lines)
+
+        courses = []
+
+        for block in course_blocks:
+
+            info = self.extract_course_info(block)
+
+            info["units"] = self.extract_units(block)
+            info["text_books"] = self.extract_text_books(block)
+            info["reference_books"] = self.extract_reference_books(block)
+
+            courses.append(info)
+
+        return courses
