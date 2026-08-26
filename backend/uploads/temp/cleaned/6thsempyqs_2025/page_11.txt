@@ -1,0 +1,69 @@
+(Please write your Enrollment Number)
+Enrollment No. 01701012022
+
+End-Term Examination
+(CBCS)(SUBJECTIVE TYPE)(OffLine)
+Course Name: B.Tech, Semester: 6th
+(December, 2024)
+
+ Subject Code: HMC 306
+ Subject: Financial Management
+
+ Time :3 Hours
+ Maximum Marks :60
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+ Q1
+ (2.5*8=20)
+
+ a) What do you understand by the rule 72? Explain with examples
+
+ b) Explain the term financial management?
+
+ c) Explain the concept of the Interest Tax Shield?
+
+ d) What do you understand by the term Equity and how it is different from preference share?
+
+ e) What do you understand by the term capital budgeting, and to which type of decision does it belong?
+
+ f) You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment.
+
+ ABPresent Value of Cash Outflows7500068500Present Value of Cash Inflows8550074500
+
+ g) Explain storage and ordering cost in inventory management
+
+ h) Explain the concept of gross and net working capital.
+
+ UNIT I
+
+ Q2
+ (5)
+
+ A. Why is the time value of money important to consider? Explain it with proper examples
+
+ B. Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)
+ (5)
+
+ Q3
+ (5)
+
+ A. Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?
+
+ B. Explain the factors affecting time value of money?
+ (5)
+
+ UNIT II
+
+ Q4
+ (5)
+
+ A. What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.
+ (5)
+
+ Q5
+ (10)
+
+ XYZ ltd has the following capital structureEquity Share Capital (5,000 Shares)30,00,0009% Preference Shares (100 Rs. Each)22,00,00012% Debentures28,00,000• The cost of Equity is 15%• The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.• Debentures are issued at premium of 5%.
+
+1

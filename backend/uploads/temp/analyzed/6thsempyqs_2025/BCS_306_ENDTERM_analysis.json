@@ -1,0 +1,391 @@
+{
+    "source_file": "BCS_306_ENDTERM_questions.json",
+    "question_count": 16,
+    "successful": 16,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What is the purpose of symbol table in compilation? How is it used during lexical analysis?",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T05_S01",
+                "topic": "Lexical Analysis",
+                "subtopic": "Role of Lexical Analyzer",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks about the purpose of the symbol table and its use during lexical analysis, which is addressed in the syllabus topic covering the role of the lexical analyzer."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Differentiate between Syntax analysis and Sematic analysis.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T01_S01",
+                "topic": "Introduction to compilers",
+                "subtopic": "Analysis of the source program",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U1_T06_S01"
+                ],
+                "evidence": "The question asks to compare syntax and semantic analysis, which are both parts of the overall source‑program analysis covered under the 'Analysis of the source program' subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain Predictive parsing.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T01_S02",
+                "topic": "Top-Down Parsing",
+                "subtopic": "Predictive parsing",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U2_T01_S01",
+                    "BCS306_U2_T01_S03"
+                ],
+                "evidence": "The question asks to explain Predictive parsing, directly matching the syllabus subtopic Predictive parsing."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss about different actions possible in Shift Reduce parsing using suitable example.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T02_S01",
+                "topic": "Bottom-Up Parsing",
+                "subtopic": "Shift Reduce parsing – Operator precedence parsing (Concepts only)",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the different actions in Shift Reduce parsing, which directly matches the syllabus entry on Shift Reduce parsing under Bottom‑Up Parsing."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "What is a type system? Give two examples of static type checking.",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U3_T02_S01",
+                "topic": "Type Checking",
+                "subtopic": "Type systems",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for a definition of a type system and examples of static type checking, directly matching the syllabus entry on type systems under the Type Checking topic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "Suppose Σ={a,b} , then what type strings will appear in L(a*b*) .",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U3_T01_S01",
+                "topic": "Syntax directed translation",
+                "subtopic": "Syntax directed definitions",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks about the language generated by the regular expression a*b*, which relates to defining languages via grammatical/formal descriptions—a core aspect of syntax‑directed definitions in compiler design."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain about Abstract Syntax Tree and Directed Acyclic Graph using suitable example.",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U4_T01_S01",
+                "topic": "Intermediate Code Generation (ICG)",
+                "subtopic": "Intermediate languages – Graphical representations",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for explanation of Abstract Syntax Tree and Directed Acyclic Graph, which are graphical representations of intermediate code structures, directly matching the subtopic on graphical representations in intermediate code generation."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Convert the following expression in to equivalent three address code. $(a+b*c)+d+(a+b*c)-d+e$",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U4_T01_S02",
+                "topic": "Intermediate Code Generation (ICG)",
+                "subtopic": "Three Address code",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The task is to translate an arithmetic expression into three‑address code, which directly aligns with the syllabus subtopic 'Three Address code' under Intermediate Code Generation."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": null,
+                "text": "Explain the concept of \"Grouping of Phases\" in compiler design. Discuss how front-end and back-end phases are grouped, along with their significance in compiler construction.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T02_S01",
+                "topic": "Phases of a compiler",
+                "subtopic": "Grouping of phases",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to explain the concept of \"Grouping of Phases\" and how front‑end and back‑end phases are grouped, which directly matches the syllabus entry on Phases of a compiler – Grouping of phases."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": null,
+                "text": "Define regular expression. Let Σ={0,1} then what type of language does regular expression (0+1)* will generate Construct a deterministic finite Automate for (0+1)^* .",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T05_S04",
+                "topic": "Lexical Analysis",
+                "subtopic": "Review of Finite Automata",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U1_T05_S03"
+                ],
+                "evidence": "The question asks for definition of regular expressions, language generated by (0+1)*, and construction of a DFA, which directly aligns with the syllabus topic reviewing finite automata and its connection to regular expressions. Understanding token specification via regular expressions (BCS306_U1_T05_S03) is a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 4,
+                "sub_question": null,
+                "text": "Given the grammar:S→CCC→cC|dConstruct the Canonical LR (CLR) parsing table and parse the input \"cccdcd\".",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T02_S03",
+                "topic": "Bottom-Up Parsing",
+                "subtopic": "Constructing Canonical LR parsing tables",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U2_T02_S02"
+                ],
+                "evidence": "The question asks to build a Canonical LR (CLR) parsing table, which directly matches the syllabus subtopic on constructing Canonical LR tables; understanding LR parsing fundamentals and SLR table construction is needed beforehand."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 5,
+                "sub_question": null,
+                "text": "Given the augmented grammar:S' → SS → L=R | RL → *R | idR → La) Construct the canonical LR(1) item setsb) Construct the LALR(1) parsing table",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T02_S03",
+                "topic": "Bottom-Up Parsing",
+                "subtopic": "Constructing Canonical LR parsing tables",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U2_T02_S02"
+                ],
+                "evidence": "The question asks to build canonical LR(1) item sets and an LALR(1) parsing table, which directly matches the syllabus item on constructing canonical LR parsing tables. Understanding SLR table construction is a prerequisite for grasping LR parsing concepts needed here."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 6,
+                "sub_question": null,
+                "text": "Discuss about different types of attributes? And compare S-attributed and L-attributed grammars with suitable examples.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U3_T01_S01",
+                "topic": "Syntax directed translation",
+                "subtopic": "Syntax directed definitions",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for types of attributes and comparison of S-attributed and L-attributed grammars, which are core concepts covered under syntax directed definitions in syntax directed translation."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 7,
+                "sub_question": null,
+                "text": "How static storage allocation is different from stack-based storage allocation explain with neat diagrams.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U3_T03_S03",
+                "topic": "Run-Time Environments",
+                "subtopic": "Storage allocation strategies",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U3_T03_S02"
+                ],
+                "evidence": "The question asks to compare static and stack‑based storage allocation, which directly matches the syllabus subtopic on storage allocation strategies."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 8,
+                "sub_question": null,
+                "text": "Explain the following optimizations using suitable examples:• Common sub expression elimination• Reduction in strength• Constant folding• Code motion• Dead code elimination",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U4_T02_S01",
+                "topic": "Code Optimization",
+                "subtopic": "Principal sources of optimization",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U4_T02_S02"
+                ],
+                "evidence": "The question asks to explain specific code optimization techniques (common subexpression elimination, strength reduction, constant folding, code motion, dead code elimination), which are core examples of the principal sources of optimization covered under this syllabus item."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_ENDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 9,
+                "sub_question": null,
+                "text": "What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U4_T03_S01",
+                "topic": "Code generation",
+                "subtopic": "Issues in the design of a code generator",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks about lexical, syntactic, and semantic errors and their detection, which are fundamental concepts of the compilation phases covered under code generation design issues."
+            }
+        }
+    ]
+}

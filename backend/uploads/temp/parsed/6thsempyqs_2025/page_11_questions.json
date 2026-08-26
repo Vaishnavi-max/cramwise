@@ -1,0 +1,114 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "a)",
+        "text": "What do you understand by the rule 72? Explain with examples",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "b)",
+        "text": "Explain the term financial management?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "c)",
+        "text": "Explain the concept of the Interest Tax Shield?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "d)",
+        "text": "What do you understand by the term Equity and how it is different from preference share?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "e)",
+        "text": "What do you understand by the term capital budgeting, and to which type of decision does it belong?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "f)",
+        "text": "You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment. ABPresent Value of Cash Outflows7500068500Present Value of Cash Inflows8550074500",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "g)",
+        "text": "Explain storage and ordering cost in inventory management",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "h)",
+        "text": "Explain the concept of gross and net working capital.",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "Why is the time value of money important to consider? Explain it with proper examples",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "B.",
+        "text": "Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "B.",
+        "text": "Explain the factors affecting time value of money?",
+        "co": null
+    },
+    {
+        "question_number": "4",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.",
+        "co": null
+    },
+    {
+        "question_number": "5",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "",
+        "text": "XYZ ltd has the following capital structureEquity Share Capital (5,000 Shares)30,00,0009% Preference Shares (100 Rs. Each)22,00,00012% Debentures28,00,000• The cost of Equity is 15%• The preference shares are issued at floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.• Debentures are issued at premium of 5%.",
+        "co": null
+    }
+]

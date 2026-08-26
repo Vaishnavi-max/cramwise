@@ -1,0 +1,390 @@
+{
+    "source_file": "BCS_302_ENDTERM_questions.json",
+    "question_count": 16,
+    "successful": 16,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Differentiate between IEEE 802.11 and IEEE 802.15 standards.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T06_S01",
+                "topic": "IEEE standards",
+                "subtopic": "802.11",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to compare IEEE 802.11 and 802.15 standards, which are covered under the IEEE standards syllabus; the 802.11 subtopic represents this topic and can be studied without prerequisites."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "What is the role of multicast routing in ad-hoc networks, and provide one routing protocol that support multicast routing?",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S01",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "definition",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the role of multicast routing in ad‑hoc networks and an example protocol, which aligns with defining multicast routing within ad‑hoc networks. The definition subtopic best matches this requirement."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Provide any two issues in designing the transport layer for ad-hoc networks according to infrastructure less setup.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T02_S01",
+                "topic": "Transport Layer",
+                "subtopic": "Issues in designing Transport Layer",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for issues in designing the transport layer for ad‑hoc networks, directly matching the syllabus item on transport layer design issues."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Provide the name of two simulators available for Mesh, adhoc and Wireless sensor networks, and a detailed comparison between them.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T01_S01",
+                "topic": "Network Protocols",
+                "subtopic": "Routing Protocols: Design issues",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for simulators used to evaluate mesh, ad‑hoc and wireless sensor networks, which are primarily concerned with routing protocol design and performance. The syllabus entry on Routing Protocols: Design issues best matches this focus."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "Define Opportunistic Routing with an example.",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U3_T01_S04",
+                "topic": "Wireless Mesh Networks",
+                "subtopic": "Opportunistic Routing",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to define Opportunistic Routing, directly matching the syllabus subtopic 'Opportunistic Routing' under Wireless Mesh Networks."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "How are Vehicular Mesh Networks different from traditional mesh networks?",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U3_T01_S06",
+                "topic": "Wireless Mesh Networks",
+                "subtopic": "Vehicular Mesh Networks",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U3_T01_S01"
+                ],
+                "evidence": "The question asks to differentiate vehicular mesh networks from traditional mesh networks, directly matching the subtopic \"Vehicular Mesh Networks\"; understanding basic concepts of mesh networks (necessity) is required to appreciate the differences."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Define data dissemination and data gathering in WSNs.",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U4_T03",
+                "topic": "Data Dissemination",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for definitions of data dissemination and data gathering in WSNs; the syllabus record 'Data Dissemination' directly covers one of the required definitions and is the primary concept being tested."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "List any two energy-aware routing protocols used in ad-hoc networks.",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U4_T08",
+                "topic": "Energy Efficient Approaches",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for energy-aware routing protocols, which falls under the syllabus topic 'Energy Efficient Approaches' (BCS302_U4_T08). No other listed topics are required to answer this question."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": null,
+                "text": "Define ad-hoc networks and mention two of their key characteristics compare to traditional networks. Also provide a diagram of layer wise architecture of adhoc networks.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S01",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "definition",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T01_S02"
+                ],
+                "evidence": "The question asks for a definition of ad‑hoc networks, which matches the definition subtopic. It also requires two key characteristics, which are covered under the characteristics features subtopic, making that a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": null,
+                "text": "Describe the design goals and issues in MAC protocol design for ad-hoc networks. Elaborate on contention-based MAC protocols and their working principles.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T04_S01",
+                "topic": "MAC protocols",
+                "subtopic": "design issues",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T05"
+                ],
+                "evidence": "The question asks for design goals and issues of MAC protocols for ad‑hoc networks and to elaborate on contention‑based MAC protocols. The syllabus entry on MAC protocols – design issues directly matches the first part, while knowledge of contention‑based protocols (BCS302_U1_T05) is needed to discuss their working principles."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 4,
+                "sub_question": null,
+                "text": "There are 10 end devices in adhoc network. Each node has atleast two immediate neighbors. Find and demonstrate the complete process for the route from source to destination using dynamic source routing (DSR).",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T01_S02",
+                "topic": "Network Protocols",
+                "subtopic": "Proactive Vs reactive routing protocols",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to demonstrate the DSR process, which is a reactive routing protocol for ad hoc networks. The syllabus entry on Proactive vs reactive routing protocols directly covers reactive protocols like DSR."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 5,
+                "sub_question": null,
+                "text": "Describe hybrid routing protocols. How do they combine the benefits of both proactive and reactive approaches?",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T01_S05",
+                "topic": "Network Protocols",
+                "subtopic": "Hybrid routing protocols",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U2_T01_S02"
+                ],
+                "evidence": "The question asks to describe hybrid routing protocols and explain how they merge proactive and reactive benefits, directly matching the syllabus subtopic 'Hybrid routing protocols'. Understanding proactive vs reactive routing (BCS302_U2_T01_S02) is required to explain the combination."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 6,
+                "sub_question": null,
+                "text": "Explain the concept of heterogeneous mesh networks and their use cases in VANETS. How heterogenous networks help in building reliable transportation system compared with traditional wireless networks.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U3_T01_S05",
+                "topic": "Wireless Mesh Networks",
+                "subtopic": "Heterogeneous Mesh Networks",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U3_T01_S06"
+                ],
+                "evidence": "The question asks to explain heterogeneous mesh networks and their VANET use cases, directly matching the 'Heterogeneous Mesh Networks' subtopic, which relies on understanding vehicular mesh networks for the VANET examples."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 7,
+                "sub_question": null,
+                "text": "Consider a network scenario for Mesh networks that contain 20 wireless nodes connected using MESH topology. Client needs to setup a communication between X (Sender) to Y (Receiver). Demonstrate the results after applying the proactive, reactive, and geographic routing to the given scenario.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U3_T01_S03",
+                "topic": "Wireless Mesh Networks",
+                "subtopic": "IEEE 802.11s Architecture",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to apply proactive, reactive, and geographic routing in a mesh network scenario. IEEE 802.11s Architecture defines the mesh routing protocol (HWMP) which includes proactive and reactive mechanisms, making this the primary syllabus record covering those routing concepts."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 8,
+                "sub_question": null,
+                "text": "Why is energy efficiency critical in WSNs? Discuss and compare different approaches to achieve energy efficiency in WSNs.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U4_T08",
+                "topic": "Energy Efficient Approaches",
+                "subtopic": null,
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U4_T01"
+                ],
+                "evidence": "The question asks why energy efficiency is critical and to compare approaches, directly matching the 'Energy Efficient Approaches' syllabus entry. Understanding the importance of energy efficiency relies on basic WSN concepts introduced in the 'Wireless Sensor Networks: Introduction' topic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_ENDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 9,
+                "sub_question": null,
+                "text": "Describe various location discovery techniques in wireless sensor networks. Consider a network scenario of sparse network with best location discovery approach to demonstrate the working with diagrammatical presentation.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U4_T05",
+                "topic": "Location discovery",
+                "subtopic": null,
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U4_T01"
+                ],
+                "evidence": "The question focuses on describing location discovery techniques, directly matching the 'Location discovery' syllabus record. Grasping these techniques requires prior knowledge of basic wireless sensor network concepts provided in the introductory topic."
+            }
+        }
+    ]
+}

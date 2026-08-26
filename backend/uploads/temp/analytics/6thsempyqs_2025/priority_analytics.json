@@ -1,0 +1,1644 @@
+[
+    {
+        "topic_id": "HMC306_U1_T03",
+        "topic": "Time value of money",
+        "subtopic": null,
+        "unit": 1,
+        "importance_score": 95.0,
+        "final_priority": "VERY HIGH",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 1,
+        "study_reason": [
+            "Exam priority: VERY HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T02_S01",
+        "topic": "Inventory Management",
+        "subtopic": "EOQ Problem",
+        "unit": 4,
+        "importance_score": 82.5,
+        "final_priority": "VERY HIGH",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 2,
+        "study_reason": [
+            "Exam priority: VERY HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S01",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "definition",
+        "unit": 1,
+        "importance_score": 63.24,
+        "final_priority": "HIGH",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 3,
+        "study_reason": [
+            "Exam priority: HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Contains a detected dependency cycle and should be reviewed."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S07",
+        "topic": "Introduction and architecture",
+        "subtopic": "BIU and EU",
+        "unit": 1,
+        "importance_score": 56.76,
+        "final_priority": "HIGH",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 4,
+        "study_reason": [
+            "Exam priority: HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Contains a detected dependency cycle and should be reviewed."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S02",
+        "topic": "Introduction",
+        "subtopic": "Definition",
+        "unit": 1,
+        "importance_score": 53.82,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 5,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S09",
+        "topic": "Introduction and architecture",
+        "subtopic": "Pin diagram",
+        "unit": 1,
+        "importance_score": 48.82,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 6,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T02_S01",
+        "topic": "Phases of a compiler",
+        "subtopic": "Grouping of phases",
+        "unit": 1,
+        "importance_score": 48.82,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 7,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S02",
+        "topic": "Network Protocols",
+        "subtopic": "Proactive Vs reactive routing protocols",
+        "unit": 2,
+        "importance_score": 47.35,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 8,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S02",
+        "topic": "Design process",
+        "subtopic": "importance of human characteristics",
+        "unit": 2,
+        "importance_score": 47.35,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 9,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S06",
+        "topic": "Design process",
+        "subtopic": "Limitations and constraints of mobile and hand-held platforms",
+        "unit": 2,
+        "importance_score": 47.35,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 10,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S01",
+        "topic": "Financial Management",
+        "subtopic": "Definition",
+        "unit": 1,
+        "importance_score": 45.88,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 11,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T03_S01",
+        "topic": "DMA",
+        "subtopic": "Interfacing DMA Controller 8257 to 8086",
+        "unit": 4,
+        "importance_score": 44.26,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 12,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T02_S03",
+        "topic": "Bottom-Up Parsing",
+        "subtopic": "Constructing Canonical LR parsing tables",
+        "unit": 2,
+        "importance_score": 44.26,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 13,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T06_S01",
+        "topic": "Syntax Analysis",
+        "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+        "unit": 1,
+        "importance_score": 42.79,
+        "final_priority": "MEDIUM",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 14,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T05_S01",
+        "topic": "Lexical Analysis",
+        "subtopic": "Role of Lexical Analyzer",
+        "unit": 1,
+        "importance_score": 39.41,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 15,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T08",
+        "topic": "Energy Efficient Approaches",
+        "subtopic": null,
+        "unit": 4,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 16,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S03",
+        "topic": "Introduction and architecture",
+        "subtopic": "Basic architecture and its applications",
+        "unit": 1,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 17,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S06",
+        "topic": "Introduction and architecture",
+        "subtopic": "8086 architecture",
+        "unit": 1,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 18,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics.",
+            "Contains a detected dependency cycle and should be reviewed."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T04_S01",
+        "topic": "Interrupt architecture of 8086",
+        "subtopic": "Interrupt structure of 8086",
+        "unit": 3,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 19,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T01_S01",
+        "topic": "Syntax directed translation",
+        "subtopic": "Syntax directed definitions",
+        "unit": 3,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 20,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T01_S01",
+        "topic": "Screen Designing (UI Design)",
+        "subtopic": "design goals",
+        "unit": 3,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 21,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T01_S03",
+        "topic": "Components",
+        "subtopic": "multimedia",
+        "unit": 4,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 22,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T02_S01",
+        "topic": "Cost of Capital",
+        "subtopic": "Concept",
+        "unit": 2,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 23,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T02_S03",
+        "topic": "Cost of Capital",
+        "subtopic": "Classification",
+        "unit": 2,
+        "importance_score": 53.82,
+        "final_priority": "MEDIUM",
+        "prerequisites": [
+            "HMC306_U2_T02_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 24,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S01",
+        "topic": "Capital Budgeting",
+        "subtopic": "Concept",
+        "unit": 3,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 25,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T05_S01",
+        "topic": "Interrupt controller interfacing",
+        "subtopic": "Interfacing Interrupt Controller 8259",
+        "unit": 3,
+        "importance_score": 34.85,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS304_U3_T04_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 26,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S02",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "characteristics features",
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 27,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics.",
+            "Contains a detected dependency cycle and should be reviewed."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T04_S01",
+        "topic": "MAC protocols",
+        "subtopic": "design issues",
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 28,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S03",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "IEEE 802.11s Architecture",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 29,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T05",
+        "topic": "Location discovery",
+        "subtopic": null,
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 30,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T07",
+        "topic": "Addressing modes",
+        "subtopic": null,
+        "unit": 2,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 31,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S02",
+        "topic": "Instruction Types",
+        "subtopic": "arithmetic instructions",
+        "unit": 2,
+        "importance_score": 47.35,
+        "final_priority": "MEDIUM",
+        "prerequisites": [
+            "BCS304_U2_T07"
+        ],
+        "dependency_depth": 1,
+        "study_order": 32,
+        "study_reason": [
+            "Exam priority: MEDIUM",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S05",
+        "topic": "Instruction Types",
+        "subtopic": "flag manipulation instruction",
+        "unit": 2,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 33,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T09",
+        "topic": "Assembler directions and operators",
+        "subtopic": null,
+        "unit": 2,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 34,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T01_S02",
+        "topic": "Multiprogramming and system architecture",
+        "subtopic": "Multiprocessor configurations",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 35,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T02_S01",
+        "topic": "Advanced processors",
+        "subtopic": "Introduction to advanced processors",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 36,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T05_S04",
+        "topic": "Lexical Analysis",
+        "subtopic": "Review of Finite Automata",
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 37,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T03_S03",
+        "topic": "Run-Time Environments",
+        "subtopic": "Storage allocation strategies",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 38,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T02_S01",
+        "topic": "Code Optimization",
+        "subtopic": "Principal sources of optimization",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 39,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T03_S01",
+        "topic": "Code generation",
+        "subtopic": "Issues in the design of a code generator",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 40,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T02_S01",
+        "topic": "Windows",
+        "subtopic": "navigation schemes selection of window",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 41,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T03_S01",
+        "topic": "Interacting Devices",
+        "subtopic": "Keyboard and function keys",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 42,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S03",
+        "topic": "Computing Paradigms",
+        "subtopic": "Distributed computing",
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 43,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T04",
+        "topic": "Sources of Finance for different Organizations",
+        "subtopic": null,
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 44,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Asked multiple times in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T01_S01",
+        "topic": "Working Capital Management",
+        "subtopic": "Operating cycle",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 45,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S05",
+        "topic": "Network Protocols",
+        "subtopic": "Hybrid routing protocols",
+        "unit": 2,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS302_U2_T01_S02"
+        ],
+        "dependency_depth": 1,
+        "study_order": 46,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S02",
+        "topic": "Financial Management",
+        "subtopic": "Scope",
+        "unit": 1,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "HMC306_U1_T01_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 47,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S05",
+        "topic": "Capital Budgeting",
+        "subtopic": "Net Present Value Method (NPV)",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "HMC306_U3_T01_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 48,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Acts as a prerequisite for other syllabus topics.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S01",
+        "topic": "Introduction",
+        "subtopic": "Importance of user interface",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 49,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S05",
+        "topic": "Introduction",
+        "subtopic": "A brief history on screen design",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 50,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S02",
+        "topic": "Graphical User Interface",
+        "subtopic": "Concept of direct manipulation",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 51,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S04",
+        "topic": "Graphical User Interface",
+        "subtopic": "Characteristics",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 52,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S06",
+        "topic": "Graphical User Interface",
+        "subtopic": "Characteristics‑principles of user interface",
+        "unit": 1,
+        "importance_score": 69.71,
+        "final_priority": "HIGH",
+        "prerequisites": [
+            "BCS310_U1_T02_S02",
+            "BCS310_U1_T02_S04"
+        ],
+        "dependency_depth": 1,
+        "study_order": 53,
+        "study_reason": [
+            "Exam priority: HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Should be studied after its prerequisite topics.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S04",
+        "topic": "Computing Paradigms",
+        "subtopic": "Utility computing",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 54,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T04",
+        "topic": "Cloud as Green and Smart",
+        "subtopic": null,
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 55,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T06_S02",
+        "topic": "SPI Framework",
+        "subtopic": "SPI vs. traditional IT Model",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 56,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T07_S01",
+        "topic": "Cloud Deployment Models",
+        "subtopic": "Cloud deployment models",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 57,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S03",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "applications",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS302_U1_T01_S02"
+        ],
+        "dependency_depth": 1,
+        "study_order": 58,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T06_S02",
+        "topic": "Syntax Analysis",
+        "subtopic": "Ambiguity",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS306_U1_T06_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 59,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T02",
+        "topic": "Wireless channel characteristics",
+        "subtopic": null,
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 60,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T04_S02",
+        "topic": "MAC protocols",
+        "subtopic": "goals and classification",
+        "unit": 1,
+        "importance_score": 20.44,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS302_U1_T02"
+        ],
+        "dependency_depth": 1,
+        "study_order": 61,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T06_S01",
+        "topic": "IEEE standards",
+        "subtopic": "802.11",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 62,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T06_S02",
+        "topic": "IEEE standards",
+        "subtopic": "802.15",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 63,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S01",
+        "topic": "Network Protocols",
+        "subtopic": "Routing Protocols: Design issues",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 64,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S07",
+        "topic": "Network Protocols",
+        "subtopic": "Hierarchical Routing protocols",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 65,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T02_S01",
+        "topic": "Transport Layer",
+        "subtopic": "Issues in designing Transport Layer",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 66,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S04",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Opportunistic Routing",
+        "unit": 3,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 67,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S06",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Vehicular Mesh Networks",
+        "unit": 3,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 68,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S05",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Heterogeneous Mesh Networks",
+        "unit": 3,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS302_U3_T01_S06"
+        ],
+        "dependency_depth": 1,
+        "study_order": 69,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T03",
+        "topic": "Data Dissemination",
+        "subtopic": null,
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 70,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S08",
+        "topic": "Introduction and architecture",
+        "subtopic": "Register Organization",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 71,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S10",
+        "topic": "Introduction and architecture",
+        "subtopic": "Memory Segmentation",
+        "unit": 1,
+        "importance_score": 55.29,
+        "final_priority": "HIGH",
+        "prerequisites": [
+            "BCS304_U1_T01_S06",
+            "BCS304_U1_T01_S08"
+        ],
+        "dependency_depth": 1,
+        "study_order": 72,
+        "study_reason": [
+            "Exam priority: HIGH",
+            "Asked multiple times in previous-year papers.",
+            "Repeated across multiple papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T03",
+        "topic": "Timing Diagram",
+        "subtopic": null,
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 73,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S01",
+        "topic": "Instruction Types",
+        "subtopic": "data transfer instruction",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 74,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S03",
+        "topic": "Instruction Types",
+        "subtopic": "branch instruction",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 75,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T01_S03",
+        "topic": "I/O Interface",
+        "subtopic": "interfacing to 8086",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 76,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T01_S01",
+        "topic": "I/O Interface",
+        "subtopic": "8255 PPI",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS304_U4_T01_S03"
+        ],
+        "dependency_depth": 1,
+        "study_order": 77,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Should be studied after its prerequisite topics.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T02_S01",
+        "topic": "Communication Interface",
+        "subtopic": "Serial data transfer schemes",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 78,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T02_S02",
+        "topic": "Communication Interface",
+        "subtopic": "8251 USART architecture and interfacing",
+        "unit": 4,
+        "importance_score": 28.38,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS304_U4_T02_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 79,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Usually appears as a high-mark question.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S01",
+        "topic": "Top-Down Parsing",
+        "subtopic": "Recursive Descent parsing",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 80,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S03",
+        "topic": "Top-Down Parsing",
+        "subtopic": "LL(1) Grammars",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 81,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Acts as a prerequisite for other syllabus topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T02_S01",
+        "topic": "Bottom-Up Parsing",
+        "subtopic": "Shift Reduce parsing – Operator precedence parsing (Concepts only)",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 82,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T02_S01",
+        "topic": "Type Checking",
+        "subtopic": "Type systems",
+        "unit": 3,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 83,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T01_S01",
+        "topic": "Intermediate Code Generation (ICG)",
+        "subtopic": "Intermediate languages – Graphical representations",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 84,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T01_S02",
+        "topic": "Intermediate Code Generation (ICG)",
+        "subtopic": "Three Address code",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 85,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S01",
+        "topic": "Design process",
+        "subtopic": "Human interaction with computers",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 86,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S07",
+        "topic": "Design process",
+        "subtopic": "issues related to network, power, memory and UI responsiveness",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 87,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T01_S12",
+        "topic": "Screen Designing (UI Design)",
+        "subtopic": "technological consideration in interface design",
+        "unit": 3,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 88,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T01_S05",
+        "topic": "Components",
+        "subtopic": "user problems",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 89,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S05",
+        "topic": "Computing Paradigms",
+        "subtopic": "Fog computing",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 90,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T03_S01",
+        "topic": "Definitions and Characteristics",
+        "subtopic": "NIST definition and characteristics of cloud computing",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 91,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U2_T01_S01",
+        "topic": "Virtualization",
+        "subtopic": "Virtualization concept",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 92,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BIT304_U2_T02_S04",
+        "topic": "Storage Network Design",
+        "subtopic": "Cloud optimized storage",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 93,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S03",
+        "topic": "Financial Management",
+        "subtopic": "Objectives of Financial Management",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 94,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T01_S02",
+        "topic": "Capital Structure",
+        "subtopic": "Factors Determining Capital Structure",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 95,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Has unresolved prerequisite references that need review."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T01_S02",
+        "topic": "Working Capital Management",
+        "subtopic": "Working Capital Estimation",
+        "unit": 4,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [],
+        "dependency_depth": 0,
+        "study_order": 96,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T01_S01",
+        "topic": "Introduction to compilers",
+        "subtopic": "Analysis of the source program",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS306_U1_T06_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 97,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T03_S01",
+        "topic": "Compiler writing tools",
+        "subtopic": "Bootstrapping",
+        "unit": 1,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS306_U1_T02_S01"
+        ],
+        "dependency_depth": 1,
+        "study_order": 98,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S02",
+        "topic": "Top-Down Parsing",
+        "subtopic": "Predictive parsing",
+        "unit": 2,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "BCS306_U2_T01_S01",
+            "BCS306_U2_T01_S03"
+        ],
+        "dependency_depth": 1,
+        "study_order": 99,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S06",
+        "topic": "Capital Budgeting",
+        "subtopic": "Profitability Index",
+        "unit": 3,
+        "importance_score": 18.97,
+        "final_priority": "LOW",
+        "prerequisites": [
+            "HMC306_U3_T01_S05"
+        ],
+        "dependency_depth": 2,
+        "study_order": 100,
+        "study_reason": [
+            "Exam priority: LOW",
+            "Appeared in previous-year papers.",
+            "Should be studied after its prerequisite topics."
+        ]
+    }
+]

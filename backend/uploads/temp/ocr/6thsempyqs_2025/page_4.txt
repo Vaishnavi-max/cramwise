@@ -1,0 +1,24 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>UNIT IV</th>
+      <th></th>
+      <th>CO Mapping</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Q8</td>
+      <td>Explain the following optimizations using suitable examples:<br>• Common sub expression elimination<br>• Reduction in strength<br>• Constant folding<br>• Code motion<br>• Dead code elimination</td>
+      <td>(10)</td>
+      <td>CO2</td>
+    </tr>
+    <tr>
+      <td>Q9</td>
+      <td>What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.</td>
+      <td>(10)</td>
+      <td>CO2</td>
+    </tr>
+  </tbody>
+</table>

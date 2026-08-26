@@ -1,0 +1,82 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "2.5",
+        "part": "a)",
+        "text": "List the key characteristics of wireless channels.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "2.5",
+        "part": "b)",
+        "text": "Discuss IEEE 802.15 standard and its working groups.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "2.5",
+        "part": "c)",
+        "text": "Describe in brief the path finding process in Cluster Head Gateway Switch routing protocol.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "2.5",
+        "part": "d)",
+        "text": "Discuss the types of routing protocols based on routing information update mechanism.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "a)",
+        "text": "Discuss the key features of Ad-hoc networks and how they differ from traditional wireless networks.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "b)",
+        "text": "A university wants to implement a wireless network for its campus. The network must support both indoor and outdoor connectivity. Design a solution and briefly discuss the challenges.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "c)",
+        "text": "Describe in detail RI-BTMA Protocol.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "a)",
+        "text": "How does Location-Aided Routing (LAR) improve efficiency over traditional flooding?",
+        "co": "CO2"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "b)",
+        "text": "Analyze the challenges in designing a routing protocol for Ad-hoc wireless network.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "5",
+        "part": "c)",
+        "text": "Describe in detail any one hybrid routing protocol.",
+        "co": "CO2"
+    }
+]

@@ -1,0 +1,246 @@
+{
+    "source_file": "BCS_302_MIDTERM_questions.json",
+    "question_count": 10,
+    "successful": 10,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "List the key characteristics of wireless channels.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T02",
+                "topic": "Wireless channel characteristics",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for key characteristics of wireless channels, which directly aligns with the syllabus record titled 'Wireless channel characteristics'. This record focuses on the characteristics of wireless channels, making it the best match. The topic can be studied without requiring prior understanding of other listed topics."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Discuss IEEE 802.15 standard and its working groups.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T06_S02",
+                "topic": "IEEE standards",
+                "subtopic": "802.15",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to discuss the IEEE 802.15 standard and its working groups, directly matching the syllabus entry for IEEE standards – 802.15."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Describe in brief the path finding process in Cluster Head Gateway Switch routing protocol.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T01_S07",
+                "topic": "Network Protocols",
+                "subtopic": "Hierarchical Routing protocols",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the path finding process of the Cluster Head Gateway Switch routing protocol, which is a hierarchical routing protocol in wireless networks. This directly matches the syllabus subtopic 'Hierarchical Routing protocols'."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss the types of routing protocols based on routing information update mechanism.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U2_T01_S02",
+                "topic": "Network Protocols",
+                "subtopic": "Proactive Vs reactive routing protocols",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for types of routing protocols based on how routing information is updated, which directly corresponds to the proactive versus reactive routing protocol classification covered in the syllabus record BCS302_U2_T01_S02."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Discuss the key features of Ad-hoc networks and how they differ from traditional wireless networks.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S02",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "characteristics features",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T01_S01"
+                ],
+                "evidence": "The question asks for key features of Ad‑hoc networks and their differences from traditional wireless networks, which directly aligns with the syllabus entry on characteristics/features of Wireless networks and Ad‑hoc networks."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "A university wants to implement a wireless network for its campus. The network must support both indoor and outdoor connectivity. Design a solution and briefly discuss the challenges.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S03",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "applications",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T01_S02"
+                ],
+                "evidence": "The question asks to design a campus‑wide wireless network and discuss its challenges, which is an application of wireless networking concepts. Understanding the characteristics and features of wireless networks is required to identify relevant challenges, making the applications subtopic dependent on the characteristics subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Describe in detail RI-BTMA Protocol.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T04_S02",
+                "topic": "MAC protocols",
+                "subtopic": "goals and classification",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T02"
+                ],
+                "evidence": "RI‑BTMA is a specific MAC protocol; the question asks for its detailed description, matching the MAC protocols topic and the classification subtopic. Understanding MAC protocols requires prior knowledge of wireless channel characteristics, making it a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "How does Location-Aided Routing (LAR) improve efficiency over traditional flooding?",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S01",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "definition",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "LAR is a routing technique for ad‑hoc networks; the question asks how it improves over flooding, which relates to the basic definition and concept of routing in wireless/ad‑hoc networks covered under the definition subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Analyze the challenges in designing a routing protocol for Ad-hoc wireless network.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S02",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "characteristics features",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS302_U1_T01_S01"
+                ],
+                "evidence": "Challenges in routing protocol design stem from the specific characteristics and features of ad‑hoc wireless networks (e.g., dynamic topology, limited bandwidth), which are covered in the 'characteristics features' subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_302_MIDTERM",
+                "subject": "Wireless Networks",
+                "subject_code": "BCS 302",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Describe in detail any one hybrid routing protocol.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS302_U1_T01_S01",
+                "topic": "Wireless networks and Ad‑hoc networks",
+                "subtopic": "definition",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "Hybrid routing protocols are a concept within ad‑hoc networking; the syllabus entry on the definition of wireless and ad‑hoc networks best matches the need to describe such a protocol."
+            }
+        }
+    ]
+}

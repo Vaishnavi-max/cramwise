@@ -1,0 +1,49 @@
+(1)
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>• Tax rate is given @20%.</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>1. Compute the cost of capital for each source</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2. Compute the Weighted Average Cost of Capital</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3">UNIT III</td>
+    </tr>
+    <tr>
+      <td>Q6</td>
+      <td>ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows:<br><br><table border="1" class="dataframe"><thead><tr style="text-align: right;"><th>Year</th><th>Machine P</th><th>Machine Q</th></tr></thead><tbody><tr><td>1</td><td>8,50,000</td><td>5,85,000</td></tr><tr><td>2</td><td>7,55,000</td><td>3,83,000</td></tr><tr><td>3</td><td>4,95,000</td><td>7,50,000</td></tr><tr><td>4</td><td>3,50,000</td><td>6,50,000</td></tr><tr><td>5</td><td>7,44,000</td><td>4,38,000</td></tr><tr><td>6</td><td>4,50,000</td><td>6,80,000</td></tr></tbody></table><br>The company has target return on capital from Machine X and Y are 12%<br>On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable</td>
+      <td>(10)</td>
+    </tr>
+    <tr>
+      <td>Q7</td>
+      <td>Write Short Notes with suitable examples on<br>• Net Present Value<br>• Internal Rate of Return<br>• Profitability Index<br>• Payback Period</td>
+      <td>(10)</td>
+    </tr>
+    <tr>
+      <td colspan="3">UNIT IV</td>
+    </tr>
+    <tr>
+      <td>Q8</td>
+      <td>A. Explain ABC analysis model of Inventory Management with suitable examples<br><br>B. What is the operating cycle? Explain its concept and the method of calculation.</td>
+      <td>(5)<br>(5)</td>
+    </tr>
+    <tr>
+      <td>Q9</td>
+      <td>ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost.<br>A. Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ level.<br>B. Calculate the Total Cost if the order sizes are:<br>i. 100 units<br>ii. 600 units<br>iii. 3000 units<br>C. Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective</td>
+      <td>(10)</td>
+    </tr>
+  </tbody>
+</table>

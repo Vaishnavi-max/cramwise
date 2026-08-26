@@ -1,0 +1,82 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "a)",
+        "text": "Define the term \"User Interface\" and explain its importance in software applications.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "b)",
+        "text": "Discuss the key principles of an effective Graphical User Interface (GUI) design.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "c)",
+        "text": "Explain the significance of human characteristics in the design process of Human-Computer Interaction.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "d)",
+        "text": "Discuss the key constraints and limitations of mobile and hand-held platforms compared to other computing platforms.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "a)",
+        "text": "Explain the evolution of screen design and how it has influenced modern user interface development.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "b)",
+        "text": "Analyze the characteristics of web user interfaces and how they differ from other types of user interfaces.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "c)",
+        "text": "Illustrate the role of direct manipulation in graphical systems and discuss its impact on user experience with proper examples.",
+        "co": "CO1"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "a)",
+        "text": "How does human interaction speed affect the design of user interfaces? Provide relevant examples.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "b)",
+        "text": "Evaluate the importance of understanding business functions while designing user interfaces for enterprise applications.",
+        "co": "CO2"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": 10,
+        "part": "c)",
+        "text": "Propose innovative solutions to improve UI responsiveness for mobile and handheld platforms under constraints like network, power, and memory.",
+        "co": "CO2"
+    }
+]

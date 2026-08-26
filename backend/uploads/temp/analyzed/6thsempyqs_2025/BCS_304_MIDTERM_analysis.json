@@ -1,0 +1,250 @@
+{
+    "source_file": "BCS_304_MIDTERM_questions.json",
+    "question_count": 10,
+    "successful": 10,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Do 8086 implements pipelining? Justify your statement",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S06",
+                "topic": "Introduction and architecture",
+                "subtopic": "8086 architecture",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S07"
+                ],
+                "evidence": "The question asks about pipelining in the 8086, which is covered under the 8086 architecture subtopic. Understanding the BIU and EU (index BCS304_U1_T01_S07) is needed to explain the pipeline mechanism."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Can we change the content of the Code Segment directly? Justify your statement.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S10",
+                "topic": "Introduction and architecture",
+                "subtopic": "Memory Segmentation",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks about modifying the Code Segment, which directly concerns the concept of memory segmentation and segment protection covered under the 'Memory Segmentation' subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Differentiate and explain the following instructions:1. SUB CL,BL2. SUB CX,AX3. SUB DX,0016H4. SUB CX,[DI]5. SUB [BP] AH",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T08_S02",
+                "topic": "Instruction Types",
+                "subtopic": "arithmetic instructions",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U2_T07"
+                ],
+                "evidence": "The question asks to differentiate various forms of the SUB instruction, which is an arithmetic instruction; thus it maps to the arithmetic instruction subtopic. Distinguishing register, immediate, and memory forms requires knowledge of addressing modes, making that a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Given AX=0102H, BX=0304H, SP=0722, and SS=0200.After executing the following program what will be the contents of AX, BX, SP, and STACK :POP BXPOB AX",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T08_S01",
+                "topic": "Instruction Types",
+                "subtopic": "data transfer instruction",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the effect of POP BX and POP AX on registers and stack, which directly tests knowledge of the data‑transfer instruction POP, a stack operation under the data transfer instruction category."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Explain the function of the following pins in 8085:INTR, ALE, READY, HOLD, TRAP",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S09",
+                "topic": "Introduction and architecture",
+                "subtopic": "Pin diagram",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the functions of specific 8085 pins, which is directly covered under the syllabus topic ‘Pin diagram’. Understanding pin functions is the main focus, and the syllabus entry on Pin diagram provides this information without needing another topic as a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Explain in detail the demultiplexing of the Address bus in 8086",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S07",
+                "topic": "Introduction and architecture",
+                "subtopic": "BIU and EU",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S06"
+                ],
+                "evidence": "Demultiplexing of the address bus is a function of the Bus Interface Unit (BIU) in the 8086, detailing how the multiplexed address/data lines are separated, which builds on basic 8086 architecture knowledge."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Explain the function of EU, BIU, and QUEUE in 8086",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S07",
+                "topic": "Introduction and architecture",
+                "subtopic": "BIU and EU",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S06"
+                ],
+                "evidence": "The question asks for functions of EU, BIU and the instruction queue, which are directly covered by the syllabus subtopic 'BIU and EU'. Understanding these components relies on prior knowledge of the overall 8086 architecture."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "IF SS-0100H, DS=2000H, ES-1002, BX-1001H, BP-2100, SI-0002H.Mention the contents of BX, BP, SI, ES, and SS after the execution of LES BX, [BP]+[SI]",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S10",
+                "topic": "Introduction and architecture",
+                "subtopic": "Memory Segmentation",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S08"
+                ],
+                "evidence": "The LES instruction loads a pointer from memory into a register and a segment register, requiring knowledge of segment registers and memory segmentation."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Draw the timing diagram of the write cycle in 8086 Minimum mode",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S06",
+                "topic": "Introduction and architecture",
+                "subtopic": "8086 architecture",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S07"
+                ],
+                "evidence": "The write cycle timing diagram is part of the 8086 operation details, which are covered under the 8086 architecture subtopic. Understanding the role of the Bus Interface Unit (BIU) and Execution Unit (EU) is required to interpret the control signals in the timing diagram."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_MIDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Explain the following assembler directives:ASSUME, ENDP, EXTRN, ORG, ENDS",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S06",
+                "topic": "Introduction and architecture",
+                "subtopic": "8086 architecture",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "Assembler directives (ASSUME, ENDP, EXTRN, ORG, ENDS) are specific to 8086 assembly language, making the 8086 architecture syllabus the best match."
+            }
+        }
+    ]
+}

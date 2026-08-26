@@ -1,0 +1,109 @@
+(Please write your Enrollment Number)  
+Enrollment No. $\underline{017010/2022}$
+
+---
+
+**MID-TERM EXAMINATION**
+
+(Course Name: B. Tech) (Semester: 6 Sem Jan-May 2025)  
+(March 2025) OFF LINE mode
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 310</td>
+    <td>Subject: Human-Computer Interaction</td>
+  </tr>
+  <tr>
+    <td>Time : 1 ½Hours</td>
+    <td>Maximum Marks :30</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th></th>
+    <th>(2.5*4=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) Define the term "User Interface" and explain its importance in software applications.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Discuss the key principles of an effective Graphical User Interface (GUI) design.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Explain the significance of human characteristics in the design process of Human-Computer Interaction.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>d) Discuss the key constraints and limitations of mobile and hand-held platforms compared to other computing platforms.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <th colspan="4">UNIT I</th>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) Explain the evolution of screen design and how it has influenced modern user interface development.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Analyze the characteristics of web user interfaces and how they differ from other types of user interfaces.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Illustrate the role of direct manipulation in graphical systems and discuss its impact on user experience with proper examples.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <th colspan="4">UNIT II</th>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) How does human interaction speed affect the design of user interfaces? Provide relevant examples.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Evaluate the importance of understanding business functions while designing user interfaces for enterprise applications.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Propose innovative solutions to improve UI responsiveness for mobile and handheld platforms under constraints like network, power, and memory.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+</table>

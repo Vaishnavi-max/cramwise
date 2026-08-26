@@ -1,0 +1,242 @@
+{
+    "source_file": "BCS_306_MIDTERM_questions.json",
+    "question_count": 10,
+    "successful": 10,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What is CFG? In which phase of compiler CFG is used? Discuss about the difference between Leftmost Derivation and Rightmost Derivation with suitable example.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO₁"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T06_S01",
+                "topic": "Syntax Analysis",
+                "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for definition of CFG, the compiler phase using CFG, and leftmost vs rightmost derivations. These are covered by the syllabus entry reviewing Context-Free Grammars and derivation/parse trees, which directly addresses CFG concepts and derivations."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "With a neat diagram discuss about bootstrapping and its uses.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO₁"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T03_S01",
+                "topic": "Compiler writing tools",
+                "subtopic": "Bootstrapping",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U1_T02_S01"
+                ],
+                "evidence": "The question asks to discuss bootstrapping, which directly maps to the bootstrapping subtopic under Compiler writing tools. Knowledge of compiler phases helps understand how bootstrapping operates."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "What are the rules useful to find FIRST and FOLLOW, explain with suitable example.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO₂"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T01_S03",
+                "topic": "Top-Down Parsing",
+                "subtopic": "LL(1) Grammars",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for rules to compute FIRST and FOLLOW sets, which are fundamental concepts used in constructing LL(1) parsing tables for predictive (top‑down) parsers. This matches the LL(1) Grammars subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "What is parsing? Briefly discuss about different types of parsing techniques.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO₁"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U2_T01_S01",
+                "topic": "Top-Down Parsing",
+                "subtopic": "Recursive Descent parsing",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for a definition of parsing and a brief overview of different parsing techniques. The Top-Down Parsing record covers multiple techniques (recursive descent, predictive, LL(1)), matching the requirement to discuss various parsing methods."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Discuss about different Phases of a compiler with a neat diagram.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₁"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T02_S01",
+                "topic": "Phases of a compiler",
+                "subtopic": "Grouping of phases",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to discuss the different phases of a compiler, which directly matches the syllabus entry on Phases of a compiler (grouping of phases)."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "What is the role of Lexical Analyzer? Discuss about Input Buffering and its uses.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₁"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T05_S01",
+                "topic": "Lexical Analysis",
+                "subtopic": "Role of Lexical Analyzer",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the role of the lexical analyzer, directly matching the subtopic 'Role of Lexical Analyzer' under the Lexical Analysis topic. Input buffering is a related subtopic but not a prerequisite for understanding the role."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Define Ambiguity. Check whether the following grammars are ambiguous or not.Grammar 1:A→AA/(A)/aGrammar 2:E→EE/ABA→Aa/aB→Bb/b",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₂"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T06_S02",
+                "topic": "Syntax Analysis",
+                "subtopic": "Ambiguity",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS306_U1_T06_S01"
+                ],
+                "evidence": "The question asks to define ambiguity and determine if given grammars are ambiguous, directly matching the Ambiguity subtopic in Syntax Analysis."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "Discuss about Recursive Descent Parser (RDP) and design RDP for the following grammar.S→AAA→aAA→b",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₁ & CO₂"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T06_S01",
+                "topic": "Syntax Analysis",
+                "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "Recursive Descent Parser is a top‑down parsing technique that operates on context‑free grammars; the question asks to discuss RDP and construct one for a given CFG, matching the syllabus entry on review of CFGs and parse trees."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Discuss about closure and goto operations with suitable example, and Construct LR(0) items sets for the following grammar.A→BBB→cB/d",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₂"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T06_S01",
+                "topic": "Syntax Analysis",
+                "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for closure, goto operations and construction of LR(0) item sets, which rely on understanding context‑free grammars and parsing basics covered in the Syntax Analysis subtopic on CFG review."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_306_MIDTERM",
+                "subject": "Compiler Design",
+                "subject_code": "BCS 306",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Construct the SLR parse table for the following grammar.S→cAdA→ab/eAnd parse the string: cabd",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO₃"
+            },
+            "analysis": {
+                "topic_id": "BCS306_U1_T06_S01",
+                "topic": "Syntax Analysis",
+                "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The task of constructing an SLR parse table and parsing a string relies on understanding context‑free grammars and parsing concepts, which are covered in the Syntax Analysis topic on Review of Context‑Free Grammars – Derivation trees and Parse Trees."
+            }
+        }
+    ]
+}

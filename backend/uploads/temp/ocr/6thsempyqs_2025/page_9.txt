@@ -1,0 +1,121 @@
+(Please write your Enrollment Number)
+
+Enrollment No. $01701012022$
+
+End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine)  
+Course Name: B.Tech., Semester:6  
+(May, 2025)
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 310</td>
+    <td>Subject: Human Computer Interaction</td>
+  </tr>
+  <tr>
+    <td>Time :3 Hours</td>
+    <td>Maximum Marks :60</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th></th>
+    <th>(2.5*8=20)</th>
+  </tr>
+  <tr>
+    <td>a) Define "User Interface" and explain its significance in modern computing.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>b) Differentiate between Hover-Reveal Tools and Toggle-Reveal Tools.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>c) What are the challenges present in display based Systems.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>d) Explain the principle of "direct manipulation" in the context of graphical user interfaces.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>e) Discuss the importance of screen design in user interfaces.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>f) What are the common limitations of mobile and hand-held platforms in terms of user interface design?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>g) What is the role of colors and multimedia in enhancing user experience in UI design?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>h) How does human interaction speed influence user interface design and usability?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT I</th>
+  </tr>
+  <tr>
+    <td>Q2</td>
+    <td>Justify the statement with example: “The Response Time/Productivity Relation changes based on the task and user.”</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <td>Q3</td>
+    <td>Describe the principles of user interface design for graphical user interfaces (GUIs). Explain the concept of direct manipulation and how it is used in modern graphical systems.</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT II</th>
+  </tr>
+  <tr>
+    <td>Q4</td>
+    <td>Explain the design process for user interfaces. Discuss the role of human interaction characteristics (such as cognitive factors and physical limitations) in shaping the design of user interfaces.</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <td>Q5</td>
+    <td>Explain the following Elements of Mobile Design in detail<br>a. Context<br>b. Message<br>c. Look and Feel<br>d. Layout<br>e. Color</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT III</th>
+  </tr>
+  <tr>
+    <td>Q6</td>
+    <td>Discuss the following characteristics in respect of web pages<br>a. Page size<br>b. Page rendering<br>c. Page layout<br>d. Page resolution<br>e. User focus</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <td>Q7</td>
+    <td>Discuss the importance of navigation schemes in user interface design. How do you select the appropriate window types and controls for an application? Provide examples.</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT IV</th>
+  </tr>
+  <tr>
+    <td>Q8</td>
+    <td>Explain the role of multimedia, icons, and colors in user interface design. How can these elements be utilized to enhance the user experience and engagement?</td>
+    <td>(10)</td>
+  </tr>
+  <tr>
+    <td>Q9</td>
+    <td>Discuss the various Interacting devices used in user interfaces, such as keyboards, touchscreens, and voice-activated commands. How do these devices impact user interaction and usability?</td>
+    <td>(10)</td>
+  </tr>
+</table>

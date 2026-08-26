@@ -1,0 +1,18 @@
+[
+    {
+        "question_number": "8",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "",
+        "text": "Explain the following optimizations using suitable examples:• Common sub expression elimination• Reduction in strength• Constant folding• Code motion• Dead code elimination",
+        "co": "CO2"
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "",
+        "text": "What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.",
+        "co": "CO2"
+    }
+]

@@ -1,0 +1,29 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Q7</th>
+      <th>a) What does the CPU do when it receives an interrupt? How do you enable and disable interrupts in 8086?<br>b) Draw and Explain the Interfacing of 8259 with 8086. What is the advantage of using 8259.</th>
+      <th>(5,5)</th>
+      <th>CO3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="4" style="text-align: center;">UNIT-IV</td>
+    </tr>
+    <tr>
+      <td>Q8</td>
+      <td>a) Write the sequence of instructions required to initialize 8251A at address 80H and 81H for the configuration given below.<br>(i) character length-6 bits (iv) Baud rate 64 X<br>(it) Parity even<br>(v) DTR and RTS asserted<br>(iiz) Stop bit 1<br>(vi) Error flag reset<br>(vit) Transmitter enable<br>b) What are the functions of DMA controller? Describe the steps that take place during DMA operation.</td>
+      <td>(5,5)</td>
+      <td>CO4</td>
+    </tr>
+    <tr>
+      <td>Q9</td>
+      <td>a) Discuss the process of interfacing with the 8255 programmable peripheral interface using the 8086 microprocessor, including the various modes of operation.<br>b) What is DMA, why it is required. Explain Cycle stealing and Burst mode.</td>
+      <td>(5,5)</td>
+      <td>CO4</td>
+    </tr>
+  </tbody>
+</table>
+
+CO Mapping

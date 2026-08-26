@@ -1,210 +1,569 @@
+from pathlib import Path
+import time
 import fitz
-from typing import List
+
+from app.parsers.parser_client import ParserClient
 
 
 class SyllabusParser:
-
-    def extract_text(self, pdf_path: str) -> List[str]:
-        """
-    Extracts text from the syllabus PDF and returns
-    a cleaned list of non-empty lines.
     """
+    Parses an already OCR-processed syllabus PDF.
+
+    IMPORTANT:
+    This class DOES NOT run OCR.
+
+    Pipeline:
+
+        OCR PDF
+            ↓
+        PyMuPDF text extraction
+            ↓
+        Chunk text
+            ↓
+        Groq extraction
+            ↓
+        Merge courses + units
+    """
+
+    def __init__(self):
+
+        self.client = ParserClient(
+            model="openai/gpt-oss-120b"
+        )
+
+        # ------------------------------------------------------
+        # Keep chunks comfortably below Groq's 8000 TPM limit.
+        #
+        # 4000 characters ≈ roughly 1000 input tokens.
+        # ------------------------------------------------------
+
+        self.chunk_size = 4000
+
+        # Small overlap helps when a course/unit is split
+        # across two chunks.
+        self.chunk_overlap = 300
+
+        # Delay between Groq requests.
+        # This helps avoid exceeding TPM limits.
+        self.request_delay = 2
+
+    # ==========================================================
+    # EXTRACT TEXT FROM OCR PDF
+    # ==========================================================
+
+    def extract_text(self, pdf_path: str) -> str:
+
+        pdf_path = Path(pdf_path)
+
+        if not pdf_path.exists():
+            raise FileNotFoundError(
+                f"OCR syllabus PDF not found: {pdf_path}"
+            )
+
+        print("\n" + "=" * 80)
+        print("EXTRACTING TEXT FROM OCR PDF")
+        print("=" * 80)
+
         document = fitz.open(pdf_path)
 
-        text = ""
+        pages = []
 
-        for page in document:
-            text += page.get_text()
+        for page_number, page in enumerate(
+            document,
+            start=1
+        ):
+
+            text = page.get_text("text")
+
+            print(
+                f"Page {page_number}: "
+                f"{len(text)} characters"
+            )
+
+            if text.strip():
+
+                pages.append(
+                    f"\n--- PAGE {page_number} ---\n"
+                    f"{text.strip()}"
+                )
 
         document.close()
 
-        lines = [
-            line.strip()
-            for line in text.split("\n")
-            if line.strip()
+        full_text = "\n\n".join(pages)
+
+        if not full_text.strip():
+
+            raise ValueError(
+                "No text could be extracted from OCR PDF."
+            )
+
+        print(
+            f"\nTotal extracted characters: "
+            f"{len(full_text)}"
+        )
+
+        return full_text
+
+    # ==========================================================
+    # CREATE CHUNKS
+    # ==========================================================
+
+    def create_chunks(self, text: str) -> list:
+
+        print("\n" + "=" * 80)
+        print("CREATING SYLLABUS CHUNKS")
+        print("=" * 80)
+
+        chunks = []
+
+        start = 0
+        text_length = len(text)
+
+        while start < text_length:
+
+            end = min(
+                start + self.chunk_size,
+                text_length
+            )
+
+            # --------------------------------------------------
+            # Try to end at a newline instead of cutting
+            # directly through a sentence.
+            # --------------------------------------------------
+
+            if end < text_length:
+
+                newline_position = text.rfind(
+                    "\n",
+                    start,
+                    end
+                )
+
+                if newline_position > start:
+
+                    end = newline_position
+
+            chunk = text[start:end].strip()
+
+            if chunk:
+
+                chunks.append(chunk)
+
+            # --------------------------------------------------
+            # Move forward while keeping a small overlap.
+            # --------------------------------------------------
+
+            next_start = end - self.chunk_overlap
+
+            if next_start <= start:
+                next_start = end
+
+            start = next_start
+
+        print(
+            f"\n✓ Created {len(chunks)} chunks."
+        )
+
+        for i, chunk in enumerate(
+            chunks,
+            start=1
+        ):
+
+            print(
+                f"  Chunk {i}: "
+                f"{len(chunk)} characters"
+            )
+
+        return chunks
+
+    # ==========================================================
+    # GROQ PROMPT
+    # ==========================================================
+
+    def get_prompt(self) -> str:
+
+        return """
+You are a deterministic university syllabus extraction engine.
+
+You will receive ONE CHUNK from a university syllabus.
+
+Extract ONLY the courses, units and unit content explicitly
+present in this chunk.
+
+Return:
+
+[
+    {
+        "course_name": "",
+        "course_code": "",
+        "semester": null,
+        "units": [
+            {
+                "unit_number": 1,
+                "content": ""
+            }
         ]
+    }
+]
 
-        return lines
-    def split_into_courses(self, lines):
-        """
-    Splits the syllabus into individual course blocks.
-    """
-        courses = []
-        start = None
+IMPORTANT RULES:
 
-        for i, line in enumerate(lines):
+1. Use ONLY information present in the input.
+2. Do NOT invent courses.
+3. Do NOT invent course codes.
+4. Do NOT invent units.
+5. Do NOT use general knowledge.
+6. Preserve course names and course codes.
+7. Preserve unit content as closely as possible.
+8. Ignore teaching hours, credits, textbooks and references
+   unless they are part of the actual unit content.
+9. If only part of a course appears in this chunk, extract
+   whatever information is explicitly available.
+10. If a course appears without a unit, return the course with
+    "units": [].
+11. Return ONLY valid JSON.
+12. Do not return markdown.
+13. Do not explain your answer.
 
-            if line.startswith("Course Code"):
-                
-                course_start = i - 1
+INPUT CHUNK:
+"""
 
-                # we'll write the logic here
-                if start is None:
-                    start = course_start
+    # ==========================================================
+    # PARSE ONE CHUNK
+    # ==========================================================
+
+    def parse_chunk(
+        self,
+        chunk: str,
+        chunk_number: int,
+        total_chunks: int
+    ) -> list:
+
+        print("\n" + "-" * 80)
+
+        print(
+            f"PROCESSING CHUNK "
+            f"{chunk_number}/{total_chunks}"
+        )
+
+        print(
+            f"Characters: {len(chunk)}"
+        )
+
+        print("-" * 80)
+
+        result = self.client.parse(
+            text=chunk,
+            prompt=self.get_prompt()
+        )
+
+        if not isinstance(result, list):
+
+            raise ValueError(
+                f"Chunk {chunk_number} did not return a list."
+            )
+
+        print(
+            f"✓ Chunk {chunk_number}: "
+            f"{len(result)} course entries extracted."
+        )
+
+        return result
+
+    # ==========================================================
+    # MERGE COURSES
+    # ==========================================================
+
+    def merge_courses(
+        self,
+        all_results: list
+    ) -> list:
+
+        print("\n" + "=" * 80)
+        print("MERGING CHUNK RESULTS")
+        print("=" * 80)
+
+        courses = {}
+
+        for result in all_results:
+
+            for course in result:
+
+                course_code = (
+                    course.get("course_code") or ""
+                ).strip()
+
+                course_name = (
+                    course.get("course_name") or ""
+                ).strip()
+
+                semester = course.get(
+                    "semester"
+                )
+
+                # --------------------------------------------------
+                # Prefer course code as the unique identifier.
+                # If code is unavailable, use course name.
+                # --------------------------------------------------
+
+                if course_code:
+
+                    key = course_code.lower()
+
                 else:
-                    courses.append(lines[start : course_start])
-                    start = course_start
-        courses.append(lines[start:])  
-        return courses
-    def extract_course_info(self, course_lines):
-        """
-        Extracts course metadata such as course name,
-        course code, semester, category and credits.
-        """
-        course = {}
 
-        for i, line in enumerate(course_lines):
-            if line.startswith("Course Code"):
-                course["course_name"] = course_lines[i - 1]
-                course["course_code"] = course_lines[i].split(":", 1)[1].strip()
-                course["category"] = course_lines[i + 2].split(":", 1)[1].strip()
-                course["credits"] = course_lines[i + 3].split(":", 1)[1].strip()
-                course["semester"] = course_lines[i + 4].split(":", 1)[1].strip()
+                    key = course_name.lower()
 
-                break
-
-        return course
-    def extract_units(self, course_lines):
-        """
-        Extracts all units and their corresponding topics
-        from a course block.
-        """
-        units = []
-        current_unit = None
-        current_topics = []
-
-        for line in course_lines:
-
-            # New Unit
-            if line.startswith("UNIT"):
-
-                if current_unit is not None:
-                    units.append({
-                        "unit_name": current_unit,
-                        "topics": current_topics
-                    })
-
-                current_unit = line
-                current_topics = []
-
-            # Units end here
-            elif line == "Text Books":
-
-                if current_unit is not None:
-                    units.append({
-                        "unit_name": current_unit,
-                        "topics": current_topics
-                    })
-
-                break
-
-            else:
-
-                # Ignore everything before first UNIT
-                if current_unit is None:
+                if not key:
                     continue
 
-                # Skip duration lines
-                if "hours" in line.lower():
-                    continue
+                # --------------------------------------------------
+                # First time seeing this course
+                # --------------------------------------------------
 
-                # Start of a new topic
-                if ":" in line:
-                    current_topics.append(line)
+                if key not in courses:
 
-                # Continuation of previous topic
-                elif current_topics:
-                    current_topics[-1] += " " + line
+                    courses[key] = {
+                        "course_name": course_name,
+                        "course_code": course_code,
+                        "semester": semester,
+                        "units": []
+                    }
 
-        return units
-    def extract_text_books(self, course_lines):
-        """
-        Extracts the list of prescribed textbooks.
-        """
-        text_books = []
+                existing = courses[key]
 
-        in_text_books = False
-        current_book = ""
+                # --------------------------------------------------
+                # Fill missing course information
+                # --------------------------------------------------
 
-        for line in course_lines:
+                if (
+                    not existing["course_name"]
+                    and course_name
+                ):
 
-            if line == "Text Books":
-                in_text_books = True
-                continue
+                    existing["course_name"] = course_name
 
-            if line == "Reference Books":
+                if (
+                    not existing["course_code"]
+                    and course_code
+                ):
 
-                if current_book:
-                    text_books.append(current_book.strip())
+                    existing["course_code"] = course_code
 
-                break
+                if (
+                    existing["semester"] is None
+                    and semester is not None
+                ):
 
-            if not in_text_books:
-                continue
+                    existing["semester"] = semester
 
-            # Book numbers (1,2,3...)
-            if line.isdigit():
+                # --------------------------------------------------
+                # Merge units
+                # --------------------------------------------------
 
-                if current_book:
-                    text_books.append(current_book.strip())
+                for unit in course.get(
+                    "units",
+                    []
+                ):
 
-                current_book = ""
+                    unit_number = unit.get(
+                        "unit_number"
+                    )
 
-            else:
-                current_book += " " + line
+                    content = (
+                        unit.get("content") or ""
+                    ).strip()
 
-        return text_books
-    def extract_reference_books(self, course_lines):
-        """
-        Extracts the list of reference books.
-        """
-        reference_books = []
+                    if unit_number is None:
+                        continue
 
-        in_reference_books = False
-        current_book = ""
+                    # ----------------------------------------------
+                    # Check whether this unit already exists
+                    # ----------------------------------------------
 
-        for line in course_lines:
+                    existing_unit = None
 
-            if line == "Reference Books":
-                in_reference_books = True
-                continue
+                    for saved_unit in existing["units"]:
 
-            if not in_reference_books:
-                continue
+                        if (
+                            saved_unit["unit_number"]
+                            == unit_number
+                        ):
 
-            if line.isdigit():
+                            existing_unit = saved_unit
+                            break
 
-                if current_book:
-                    reference_books.append(current_book.strip())
+                    # ----------------------------------------------
+                    # New unit
+                    # ----------------------------------------------
 
-                current_book = ""
+                    if existing_unit is None:
 
-            else:
-                current_book += " " + line
+                        existing["units"].append(
+                            {
+                                "unit_number": unit_number,
+                                "content": content
+                            }
+                        )
 
-        if current_book:
-            reference_books.append(current_book.strip())
+                    # ----------------------------------------------
+                    # Existing unit
+                    # ----------------------------------------------
 
-        return reference_books
-    def parse(self, pdf_path):
-        """
-        Parses the complete syllabus PDF and returns
-        structured information for all courses.
-        """
-        lines = self.extract_text(pdf_path)
+                    else:
 
-        course_blocks = self.split_into_courses(lines)
+                        old_content = (
+                            existing_unit["content"]
+                        )
 
-        courses = []
+                        if (
+                            content
+                            and content not in old_content
+                        ):
 
-        for block in course_blocks:
+                            if old_content:
 
-            info = self.extract_course_info(block)
+                                existing_unit["content"] = (
+                                    old_content
+                                    + "\n"
+                                    + content
+                                )
 
-            info["units"] = self.extract_units(block)
-            info["text_books"] = self.extract_text_books(block)
-            info["reference_books"] = self.extract_reference_books(block)
+                            else:
 
-            courses.append(info)
+                                existing_unit["content"] = content
+
+        # ======================================================
+        # SORT UNITS
+        # ======================================================
+
+        final_courses = list(
+            courses.values()
+        )
+
+        for course in final_courses:
+
+            course["units"].sort(
+                key=lambda unit: (
+                    unit["unit_number"]
+                    if isinstance(
+                        unit["unit_number"],
+                        int
+                    )
+                    else 999
+                )
+            )
+
+        print(
+            f"\n✓ Final unique courses: "
+            f"{len(final_courses)}"
+        )
+
+        return final_courses
+
+    # ==========================================================
+    # COMPLETE PARSE
+    # ==========================================================
+
+    def parse(
+        self,
+        pdf_path: str
+    ) -> list:
+
+        print("\n" + "=" * 80)
+        print("SYLLABUS PARSING")
+        print("=" * 80)
+
+        # ------------------------------------------------------
+        # IMPORTANT:
+        # pdf_path MUST already be the OCR PDF.
+        #
+        # We DO NOT run OCR here.
+        # ------------------------------------------------------
+
+        text = self.extract_text(
+            pdf_path
+        )
+
+        # ------------------------------------------------------
+        # Split into manageable pieces
+        # ------------------------------------------------------
+
+        chunks = self.create_chunks(
+            text
+        )
+
+        if not chunks:
+
+            raise ValueError(
+                "No usable text chunks were created."
+            )
+
+        # ------------------------------------------------------
+        # Send chunks to Groq
+        # ------------------------------------------------------
+
+        all_results = []
+
+        total_chunks = len(chunks)
+
+        for index, chunk in enumerate(
+            chunks,
+            start=1
+        ):
+
+            result = self.parse_chunk(
+                chunk=chunk,
+                chunk_number=index,
+                total_chunks=total_chunks
+            )
+
+            all_results.append(result)
+
+            # --------------------------------------------------
+            # Avoid hitting Groq TPM too aggressively.
+            # --------------------------------------------------
+
+            if index < total_chunks:
+
+                print(
+                    f"\nWaiting "
+                    f"{self.request_delay} seconds "
+                    f"before next Groq request..."
+                )
+
+                time.sleep(
+                    self.request_delay
+                )
+
+        # ------------------------------------------------------
+        # Merge everything
+        # ------------------------------------------------------
+
+        courses = self.merge_courses(
+            all_results
+        )
+
+        if not courses:
+
+            raise ValueError(
+                "No courses were extracted from the syllabus."
+            )
+
+        # ------------------------------------------------------
+        # Print final result
+        # ------------------------------------------------------
+
+        print(
+            f"\n✓ Courses extracted: "
+            f"{len(courses)}"
+        )
+
+        for course in courses:
+
+            print(
+                f"  {course.get('course_code')} - "
+                f"{course.get('course_name')}"
+            )
 
         return courses

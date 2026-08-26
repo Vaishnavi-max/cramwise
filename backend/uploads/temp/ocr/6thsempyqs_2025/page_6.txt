@@ -1,0 +1,121 @@
+(Please write your Enrollment Number)
+
+Enrollment No. 01701012022
+
+End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine)  
+Course Name: <B.Tech CSE>, Semester: <6th>  
+(May, 2025)
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 304</td>
+    <td>Subject: Microprocessor and Interfacing</td>
+  </tr>
+  <tr>
+    <td>Time : 3 Hours</td>
+    <td>Maximum Marks : 60</td>
+  </tr>
+  <tr>
+    <td colspan="2">Note: Q. 1 is compulsory. Attempt one question each from the Units I, II, III & IV.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th></th>
+    <th>(2.5*8=20)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(a) What are Coprocessors why they are needed? Give examples also.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(b) How the low byte flag register can be modified in 8086?</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(c) Distinguish between CALL and JUMP.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(d) Draw timing diagram of IO write cycle in 8086.</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(e) Explain the significance of the use of 8259.</td>
+    <td></td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(f) Differentiate Edge triggered and Level triggered Interrupts with examples.</td>
+    <td></td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(g) Explain the need of Framing. How it is done?</td>
+    <td></td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>(h) Justify the need of Interfacing.</td>
+    <td></td>
+    <td>CO 4</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT-I</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q2</td>
+    <td>a) What is meant by microprocessor architecture and explain its operation. If a microprocessor is of 32 bit size what does it means, explain in detail.<br>b) Discuss the function of Queue. How the concept of pipelining is implemented in 8086.</td>
+    <td>(5,5)</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>Q3</td>
+    <td>a) What is Segmentation. Explain the advantage of Segmentation Scheme in 8086. Write the size of physical memory and virtual memory of 8086 microprocessor.<br>b) Explain the function of the following pins in 8086: DT/R, DEN, ALE, TEST, READY, BHE</td>
+    <td>(5,5)</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT-II</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q4</td>
+    <td>a) Write short note on:<br>(i) Loop, (ii) Flag manipulation, (iii) shift & rotate .<br>b) What is physical address in 8086. Assume the following state of 8086 microprocessor:<br>CS = 1000H, DS = 2000H, SS - 3000H, ES = 4000H, BP = 0010H<br>BX = 0020H, SP = 0030H, SI = 0040H, DI = 0050H.<br>Calculate physical address for following instructions:<br>i) MOV CX,[BX], ii) MOV AL,[BP+SI], iii) MOV CS:[BX],AL, iv) MOV AL.[BP].</td>
+    <td>(3+7)</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>Q5</td>
+    <td>a) Write a program to add a data byte located at offset 0500H in 2000H segment to another data byte available at 0600H in the same segment and store the result at 0700H in the same segment.<br>b) What is the purpose of the assembler in the 8086 microprocessor? Differentiate between assembler directive and instructions in 8086. Explain any three assembler directives.</td>
+    <td>(5,5)</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT-III</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q6</td>
+    <td>a) What is Multiprocessing systems? Compare Symmetrical and Asymmetrical Multiprocessing systems.<br>b) Compare the features of 80386 and 80286 based on the following points: registers, clock rate, number of pins, number of instructions, modes of operations, memory management, and protection mechanism.</td>
+    <td>(5,5)</td>
+    <td>CO3</td>
+  </tr>
+</table>

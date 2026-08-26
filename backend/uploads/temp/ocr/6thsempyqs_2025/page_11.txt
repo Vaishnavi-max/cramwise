@@ -1,0 +1,116 @@
+(Please write your Enrollment Number)  
+Enrollment No. 01701012022
+
+End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine)  
+Course Name: B.Tech, Semester: 6th  
+(December, 2024)
+
+<table>
+  <thead>
+    <tr>
+      <th>Subject Code: HMC 306</th>
+      <th>Subject: Financial Management</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Time :3 Hours</td>
+      <td>Maximum Marks :60</td>
+    </tr>
+  </tbody>
+</table>
+
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th>(2.5*8=20)</th>
+  </tr>
+  <tr>
+    <td>a) What do you understand by the rule 72? Explain with examples</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>b) Explain the term financial management?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>c) Explain the concept of the Interest Tax Shield?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>d) What do you understand by the term Equity and how it is different from preference share?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>e) What do you understand by the term capital budgeting, and to which type of decision does it belong?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>f) You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><table><tr><th></th><th>A</th><th>B</th></tr><tr><td>Present Value of Cash Outflows</td><td>75000</td><td>68500</td></tr><tr><td>Present Value of Cash Inflows</td><td>85500</td><td>74500</td></tr></table></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>g) Explain storage and ordering cost in inventory management</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>h) Explain the concept of gross and net working capital.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="2">UNIT I</th>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <th>(5)</th>
+  </tr>
+  <tr>
+    <td>A. Why is the time value of money important to consider? Explain it with proper examples</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>B. Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)</td>
+    <td>(5)</td>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <th>(5)</th>
+  </tr>
+  <tr>
+    <td>A. Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>B. Explain the factors affecting time value of money?</td>
+    <td>(5)</td>
+  </tr>
+  <tr>
+    <th colspan="2">UNIT II</th>
+  </tr>
+  <tr>
+    <th>Q4</th>
+    <th>(5)</th>
+  </tr>
+  <tr>
+    <td>A. What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.</td>
+    <td>(5)</td>
+  </tr>
+  <tr>
+    <th>Q5</th>
+    <th>(10)</th>
+  </tr>
+  <tr>
+    <td>XYZ ltd has the following capital structure<br><table><tr><td>Equity Share Capital (5,000 Shares)</td><td>30,00,000</td></tr><tr><td>9% Preference Shares (100 Rs. Each)</td><td>22,00,000</td></tr><tr><td>12% Debentures</td><td>28,00,000</td></tr></table><br>• The cost of Equity is 15%<br>• The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.<br>• Debentures are issued at premium of 5%.</td>
+    <td></td>
+  </tr>
+</table>
+
+1

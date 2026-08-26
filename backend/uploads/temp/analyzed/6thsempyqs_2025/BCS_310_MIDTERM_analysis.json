@@ -1,0 +1,242 @@
+{
+    "source_file": "BCS_310_MIDTERM_questions.json",
+    "question_count": 10,
+    "successful": 10,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Define the term \"User Interface\" and explain its importance in software applications.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T01_S02",
+                "topic": "Introduction",
+                "subtopic": "Definition",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for a definition of \"User Interface\" which directly aligns with the syllabus subtopic \"Definition\" under Introduction; importance is secondary but covered within the same unit."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Discuss the key principles of an effective Graphical User Interface (GUI) design.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T02_S06",
+                "topic": "Graphical User Interface",
+                "subtopic": "Characteristics‑principles of user interface",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for key principles of effective GUI design, which directly aligns with the syllabus item covering characteristics and principles of user interfaces."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain the significance of human characteristics in the design process of Human-Computer Interaction.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U2_T01_S02",
+                "topic": "Design process",
+                "subtopic": "importance of human characteristics",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the significance of human characteristics in the HCI design process, directly matching the subtopic \"importance of human characteristics\"."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss the key constraints and limitations of mobile and hand-held platforms compared to other computing platforms.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U2_T01_S06",
+                "topic": "Design process",
+                "subtopic": "Limitations and constraints of mobile and hand-held platforms",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to discuss the constraints and limitations of mobile and hand-held platforms, which directly matches the syllabus subtopic \"Limitations and constraints of mobile and hand-held platforms\"."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Explain the evolution of screen design and how it has influenced modern user interface development.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T01_S05",
+                "topic": "Introduction",
+                "subtopic": "A brief history on screen design",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the evolution of screen design, which directly aligns with the syllabus subtopic 'A brief history on screen design' under the Introduction topic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Analyze the characteristics of web user interfaces and how they differ from other types of user interfaces.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T02_S04",
+                "topic": "Graphical User Interface",
+                "subtopic": "Characteristics",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for analysis of characteristics of web user interfaces and their differences from other UI types, directly matching the GUI 'Characteristics' subtopic which covers UI traits and comparisons."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Illustrate the role of direct manipulation in graphical systems and discuss its impact on user experience with proper examples.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T02_S02",
+                "topic": "Graphical User Interface",
+                "subtopic": "Concept of direct manipulation",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to illustrate the role of direct manipulation in graphical systems and its impact on user experience. This directly matches the syllabus subtopic 'Concept of direct manipulation' under the Graphical User Interface topic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "How does human interaction speed affect the design of user interfaces? Provide relevant examples.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T02_S06",
+                "topic": "Graphical User Interface",
+                "subtopic": "Characteristics‑principles of user interface",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS310_U1_T01_S03"
+                ],
+                "evidence": "The question asks how interaction speed influences UI design, which relates to UI characteristics and design principles covered under the 'Characteristics‑principles of user interface' subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Evaluate the importance of understanding business functions while designing user interfaces for enterprise applications.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T01_S01",
+                "topic": "Introduction",
+                "subtopic": "Importance of user interface",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to evaluate why knowing business functions matters when designing UI for enterprise apps, which aligns with the syllabus subtopic on the importance of the user interface."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_310_MIDTERM",
+                "subject": "Human-Computer Interaction",
+                "subject_code": "BCS 310",
+                "exam_type": "MIDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Propose innovative solutions to improve UI responsiveness for mobile and handheld platforms under constraints like network, power, and memory.",
+                "marks": 5,
+                "unit": 1,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS310_U1_T02_S06",
+                "topic": "Graphical User Interface",
+                "subtopic": "Characteristics‑principles of user interface",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS310_U1_T02_S04"
+                ],
+                "evidence": "The question asks for solutions to improve UI responsiveness on mobile devices, which directly relates to UI design principles and characteristics that guide responsive behavior."
+            }
+        }
+    ]
+}

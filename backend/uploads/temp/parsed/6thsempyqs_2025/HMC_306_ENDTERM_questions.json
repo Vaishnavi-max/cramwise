@@ -1,0 +1,170 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "a)",
+        "text": "What do you understand by the rule 72? Explain with examples",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "b)",
+        "text": "Explain the term financial management?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "c)",
+        "text": "Explain the concept of the Interest Tax Shield?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "d)",
+        "text": "What do you understand by the term Equity and how it is different from preference share?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "e)",
+        "text": "What do you understand by the term capital budgeting, and to which type of decision does it belong?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "f)",
+        "text": "You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment. ABPresent Value of Cash Outflows7500068500Present Value of Cash Inflows8550074500",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "g)",
+        "text": "Explain storage and ordering cost in inventory management",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "h)",
+        "text": "Explain the concept of gross and net working capital.",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "Why is the time value of money important to consider? Explain it with proper examples",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "B.",
+        "text": "Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "B.",
+        "text": "Explain the factors affecting time value of money?",
+        "co": null
+    },
+    {
+        "question_number": "4",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.",
+        "co": null
+    },
+    {
+        "question_number": "5",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "",
+        "text": "XYZ ltd has the following capital structureEquity Share Capital (5,000 Shares)30,00,0009% Preference Shares (100 Rs. Each)22,00,00012% Debentures28,00,000• The cost of Equity is 15%• The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.• Debentures are issued at premium of 5%. (1) • Tax rate is given @20%. 1. Compute the cost of capital for each source 2. Compute the Weighted Average Cost of Capital",
+        "co": null
+    },
+    {
+        "question_number": "6",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "",
+        "text": "ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows:YearMachine PMachine Q18,50,0005,85,00027,55,0003,83,00034,95,0007,50,00043,50,0006,50,00057,44,0004,38,00064,50,0006,80,000The company has target return on capital from Machine X and Y are 12%On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable",
+        "co": null
+    },
+    {
+        "question_number": "7",
+        "question_instruction": null,
+        "question_marks": 10,
+        "part": "",
+        "text": "Write Short Notes with suitable examples on• Net Present Value• Internal Rate of Return• Profitability Index• Payback Period",
+        "co": null
+    },
+    {
+        "question_number": "8",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "A.",
+        "text": "Explain ABC analysis model of Inventory Management with suitable examples",
+        "co": null
+    },
+    {
+        "question_number": "8",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "B.",
+        "text": "What is the operating cycle? Explain its concept and the method of calculation.",
+        "co": null
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "A.",
+        "text": "ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost.",
+        "co": null
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "B.",
+        "text": "Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ level.",
+        "co": null
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": null,
+        "part": "C.",
+        "text": "Calculate the Total Cost if the order sizes are:i. 100 unitsii. 600 unitsiii. 3000 units Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective",
+        "co": null
+    }
+]

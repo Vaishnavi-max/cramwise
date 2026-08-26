@@ -1,0 +1,103 @@
+(Please write your Enrollment Number)  
+Enrollment No. 01701012022
+
+MID-TERM EXAMINATION  
+(B. Tech) (Semester:6th)  
+(March 2025) OFF LINE mode
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 304</td>
+    <td>Subject: Microprocessor and Interfacing</td>
+  </tr>
+  <tr>
+    <td>Time : 1 ½Hours</td>
+    <td>Maximum Marks :30</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th>(2.5*4=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>a) Do 8086 implements pipelining? Justify your statement</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>b) Can we change the content of the Code Segment directly? Justify your statement.</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>c) Differentiate and explain the following instructions:<br>1. SUB CL,BL<br>2. SUB CX,AX<br>3. SUB DX,0016H<br>4. SUB CX,[DI]<br>5. SUB [BP] AH</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>d) Given AX=0102H, BX=0304H, SP=0722, and SS=0200.<br>After executing the following program what will be the contents of AX, BX, SP, and STACK :<br>POP BX<br>POB AX</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td colspan="3">UNIT I</td>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <th>(5*2=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Attempt any two parts</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>a) Explain the function of the following pins in 8085:<br>INTR, ALE, READY, HOLD, TRAP</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>b) Explain in detail the demultiplexing of the Address bus in 8086</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>c) Explain the function of EU, BIU, and QUEUE in 8086</td>
+    <td></td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td colspan="3">UNIT II</td>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <th>(5*2=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Attempt any two parts</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>a) IF SS-0100H, DS=2000H, ES-1002, BX-1001H, BP-2100, SI-0002H.<br>Mention the contents of BX, BP, SI, ES, and SS after the execution of LES BX, [BP]+[SI]</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>b) Draw the timing diagram of the write cycle in 8086 Minimum mode</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>c) Explain the following assembler directives:<br>ASSUME, ENDP, EXTRN, ORG, ENDS</td>
+    <td></td>
+    <td>CO2</td>
+  </tr>
+</table>

@@ -1,0 +1,112 @@
+(Please write your Enrollment Number)  
+Enrollment No. $\underline{01701012022}$
+
+MID-TERM EXAMINATION  
+(Course Name: B. Tech.) (Semester: 6)  
+(March 2025) OFF LINE mode
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 306</td>
+    <td></td>
+    <td>Subject: Compiler Design</td>
+  </tr>
+  <tr>
+    <td>Time : 1 ½Hours</td>
+    <td></td>
+    <td>Maximum Marks :30</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3
+
+<table>
+  <tr>
+    <th rowspan="2">Q1</th>
+    <th rowspan="2"></th>
+    <th rowspan="2">(2.5*4=10)</th>
+    <th rowspan="2">CO Mapping</th>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) What is CFG? In which phase of compiler CFG is used? Discuss about the difference between Leftmost Derivation and Rightmost Derivation with suitable example.</td>
+    <td></td>
+    <td>CO₁</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) With a neat diagram discuss about bootstrapping and its uses.</td>
+    <td></td>
+    <td>CO₁</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) What are the rules useful to find FIRST and FOLLOW, explain with suitable example.</td>
+    <td></td>
+    <td>CO₂</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>d) What is parsing? Briefly discuss about different types of parsing techniques.</td>
+    <td></td>
+    <td>CO₁</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT I</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) Discuss about different Phases of a compiler with a neat diagram.</td>
+    <td></td>
+    <td>CO₁</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) What is the role of Lexical Analyzer? Discuss about Input Buffering and its uses.</td>
+    <td></td>
+    <td>CO₁</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Define Ambiguity. Check whether the following grammars are ambiguous or not.<br>Grammar 1:<br>A→AA/(A)/a<br>Grammar 2:<br>E→EE/AB<br>A→Aa/a<br>B→Bb/b</td>
+    <td></td>
+    <td>CO₂</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT II</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) Discuss about Recursive Descent Parser (RDP) and design RDP for the following grammar.<br>S→AA<br>A→aA<br>A→b</td>
+    <td></td>
+    <td>CO₁ & CO₂</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Discuss about closure and goto operations with suitable example, and Construct LR(0) items sets for the following grammar.<br>A→BB<br>B→cB/d</td>
+    <td></td>
+    <td>CO₂</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Construct the SLR parse table for the following grammar.<br>S→cAd<br>A→ab/e<br>And parse the string: cabd</td>
+    <td></td>
+    <td>CO₃</td>
+  </tr>
+</table>

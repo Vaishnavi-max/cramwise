@@ -1,0 +1,82 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "a)",
+        "text": "What is CFG? In which phase of compiler CFG is used? Discuss about the difference between Leftmost Derivation and Rightmost Derivation with suitable example.",
+        "co": "CO₁"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "b)",
+        "text": "With a neat diagram discuss about bootstrapping and its uses.",
+        "co": "CO₁"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "c)",
+        "text": "What are the rules useful to find FIRST and FOLLOW, explain with suitable example.",
+        "co": "CO₂"
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "d)",
+        "text": "What is parsing? Briefly discuss about different types of parsing techniques.",
+        "co": "CO₁"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "a)",
+        "text": "Discuss about different Phases of a compiler with a neat diagram.",
+        "co": "CO₁"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "b)",
+        "text": "What is the role of Lexical Analyzer? Discuss about Input Buffering and its uses.",
+        "co": "CO₁"
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "c)",
+        "text": "Define Ambiguity. Check whether the following grammars are ambiguous or not.Grammar 1:A→AA/(A)/aGrammar 2:E→EE/ABA→Aa/aB→Bb/b",
+        "co": "CO₂"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "a)",
+        "text": "Discuss about Recursive Descent Parser (RDP) and design RDP for the following grammar.S→AAA→aAA→b",
+        "co": "CO₁ & CO₂"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "b)",
+        "text": "Discuss about closure and goto operations with suitable example, and Construct LR(0) items sets for the following grammar.A→BBB→cB/d",
+        "co": "CO₂"
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "c)",
+        "text": "Construct the SLR parse table for the following grammar.S→cAdA→ab/eAnd parse the string: cabd",
+        "co": "CO₃"
+    }
+]

@@ -1,0 +1,141 @@
+(Please write your Enrollment Number)  
+Enrollment No. 01701012022 (1)
+
+End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine)  
+Course Name: B.Tech, Semester: 6  
+(May, 2025)
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 302</td>
+    <td>Subject: Wireless Networks</td>
+  </tr>
+  <tr>
+    <td>Time: 3 Hours</td>
+    <td>Maximum Marks :60</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th></th>
+    <th>(2.5*8=20)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>a)</td>
+    <td>Differentiate between IEEE 802.11 and IEEE 802.15 standards.</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>b)</td>
+    <td>What is the role of multicast routing in ad-hoc networks, and provide one routing protocol that support multicast routing?</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>c)</td>
+    <td>Provide any two issues in designing the transport layer for ad-hoc networks according to infrastructure less setup.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>d)</td>
+    <td>Provide the name of two simulators available for Mesh, adhoc and Wireless sensor networks, and a detailed comparison between them.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>e)</td>
+    <td>Define Opportunistic Routing with an example.</td>
+    <td>2.5</td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td>f)</td>
+    <td>How are Vehicular Mesh Networks different from traditional mesh networks?</td>
+    <td>2.5</td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td>g)</td>
+    <td>Define data dissemination and data gathering in WSNs.</td>
+    <td>2.5</td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <td>h)</td>
+    <td>List any two energy-aware routing protocols used in ad-hoc networks.</td>
+    <td>2.5</td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT I</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q2</td>
+    <td>Define ad-hoc networks and mention two of their key characteristics compare to traditional networks. Also provide a diagram of layer wise architecture of adhoc networks.</td>
+    <td>(10)</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>Q3</td>
+    <td>Describe the design goals and issues in MAC protocol design for ad-hoc networks. Elaborate on contention-based MAC protocols and their working principles.</td>
+    <td>(10)</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT 2</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q4</td>
+    <td>There are 10 end devices in adhoc network. Each node has atleast two immediate neighbors. Find and demonstrate the complete process for the route from source to destination using dynamic source routing (DSR).</td>
+    <td>(10)</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>Q5</td>
+    <td>Describe hybrid routing protocols. How do they combine the benefits of both proactive and reactive approaches?</td>
+    <td>(10)</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT 3</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q6</td>
+    <td>Explain the concept of heterogeneous mesh networks and their use cases in VANETS. How heterogenous networks help in building reliable transportation system compared with traditional wireless networks.</td>
+    <td>(10)</td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td>Q7</td>
+    <td>Consider a network scenario for Mesh networks that contain 20 wireless nodes connected using MESH topology. Client needs to setup a communication between X (Sender) to Y (Receiver). Demonstrate the results after applying the proactive, reactive, and geographic routing to the given scenario.</td>
+    <td>(10)</td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT 4</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>Q8</td>
+    <td>Why is energy efficiency critical in WSNs? Discuss and compare different approaches to achieve energy efficiency in WSNs.</td>
+    <td>(10)</td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <td>Q9</td>
+    <td>Describe various location discovery techniques in wireless sensor networks. Consider a network scenario of sparse network with best location discovery approach to demonstrate the working with diagrammatical presentation.</td>
+    <td>(10)</td>
+    <td>CO4</td>
+  </tr>
+</table>

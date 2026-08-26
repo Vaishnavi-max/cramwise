@@ -1,0 +1,581 @@
+{
+    "source_file": "BCS_304_ENDTERM_questions.json",
+    "question_count": 24,
+    "successful": 24,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What are Coprocessors why they are needed? Give examples also.",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S03",
+                "topic": "Introduction and architecture",
+                "subtopic": "Basic architecture and its applications",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S01"
+                ],
+                "evidence": "Coprocessors are an extension of the processor architecture; the question asks what they are and why needed, which aligns with the syllabus subtopic covering basic architecture and its applications. Understanding the fundamental concept of a microprocessor (intro) is needed first."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "How the low byte flag register can be modified in 8086?",
+                "marks": 2.5,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S08",
+                "topic": "Introduction and architecture",
+                "subtopic": "Register Organization",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks how to modify the low byte of the flag register in the 8086, which directly pertains to the organization and manipulation of registers, specifically the flag register, covered under the Register Organization subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Distinguish between CALL and JUMP.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T08_S03",
+                "topic": "Instruction Types",
+                "subtopic": "branch instruction",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "CALL and JUMP are control‑transfer (branch) instructions; the question asks to differentiate them, matching the branch instruction subtopic under Instruction Types."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Draw timing diagram of IO write cycle in 8086.",
+                "marks": 2.5,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T03",
+                "topic": "Timing Diagram",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to draw the timing diagram of an I/O write cycle in the 8086, which directly corresponds to the syllabus record on Timing Diagram (BCS304_U2_T03). No other syllabus topics are required as a prerequisite for drawing this specific diagram."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "Explain the significance of the use of 8259.",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T05_S01",
+                "topic": "Interrupt controller interfacing",
+                "subtopic": "Interfacing Interrupt Controller 8259",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U3_T04_S01"
+                ],
+                "evidence": "The 8259 is the Intel Programmable Interrupt Controller; the syllabus record for Interfacing Interrupt Controller 8259 directly matches the question. Understanding the 8086 interrupt structure (interrupt architecture) is needed to appreciate the role and significance of the 8259, making it a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "Differentiate Edge triggered and Level triggered Interrupts with examples.",
+                "marks": 2.5,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T04_S01",
+                "topic": "Interrupt architecture of 8086",
+                "subtopic": "Interrupt structure of 8086",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to differentiate edge‑triggered and level‑triggered interrupts, a concept covered by the interrupt structure of the 8086 microprocessor."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain the need of Framing. How it is done?",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T02_S01",
+                "topic": "Communication Interface",
+                "subtopic": "Serial data transfer schemes",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "Framing is a key concept within serial data transfer schemes, making the 'Serial data transfer schemes' record the best match. No other syllabus topic is required as a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Justify the need of Interfacing.",
+                "marks": 2.5,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T01_S03",
+                "topic": "I/O Interface",
+                "subtopic": "interfacing to 8086",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to justify the need for interfacing, which aligns with the general concept of interfacing the 8086 microprocessor to external devices. The syllabus record 'interfacing to 8086' directly addresses this main concept."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "What is meant by microprocessor architecture and explain its operation. If a microprocessor is of 32 bit size what does it means, explain in detail.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S03",
+                "topic": "Introduction and architecture",
+                "subtopic": "Basic architecture and its applications",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S01"
+                ],
+                "evidence": "The question asks for definition of microprocessor architecture, its operation, and meaning of a 32‑bit processor, which aligns with the syllabus record on basic architecture and its applications. Understanding the basic concept of a microprocessor (S01) is needed before studying its architecture."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Discuss the function of Queue. How the concept of pipelining is implemented in 8086.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S07",
+                "topic": "Introduction and architecture",
+                "subtopic": "BIU and EU",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S06"
+                ],
+                "evidence": "The question asks about the queue and pipelining in 8086, which are functions of the Bus Interface Unit (BIU) and Execution Unit (EU). The syllabus record BCS304_U1_T01_S07 specifically covers BIU and EU, making it the best match. Understanding the overall 8086 architecture (record S06) is needed before studying BIU/EU details."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "What is Segmentation. Explain the advantage of Segmentation Scheme in 8086. Write the size of physical memory and virtual memory of 8086 microprocessor.",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S10",
+                "topic": "Introduction and architecture",
+                "subtopic": "Memory Segmentation",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U1_T01_S06"
+                ],
+                "evidence": "The question asks about segmentation, its advantages in the 8086, and memory sizes, which directly maps to the syllabus subtopic 'Memory Segmentation'. Understanding the 8086 architecture (segment registers, address calculation) is needed to grasp segmentation, so the 8086 architecture topic is a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Explain the function of the following pins in 8086: DT/R, DEN, ALE, TEST, READY, BHE",
+                "marks": 10,
+                "unit": 1,
+                "co": "CO1"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U1_T01_S09",
+                "topic": "Introduction and architecture",
+                "subtopic": "Pin diagram",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the functions of specific 8086 pins; the syllabus record on the pin diagram directly covers pin descriptions and functions."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 4,
+                "sub_question": "a",
+                "text": "Write short note on:(i) Loop, (ii) Flag manipulation, (iii) shift & rotate.",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T08_S05",
+                "topic": "Instruction Types",
+                "subtopic": "flag manipulation instruction",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U2_T06"
+                ],
+                "evidence": "The question asks for short notes on loop, flag manipulation, and shift & rotate – all are categories of instruction types. The flag manipulation subtopic directly matches the record BCS304_U2_T08_S05, representing the instruction type being tested. Understanding the instruction format is needed before studying specific instruction types."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 4,
+                "sub_question": "b",
+                "text": "What is physical address in 8086. Assume the following state of 8086 microprocessor: CS = 1000H, DS = 2000H, SS = 3000H, ES = 4000H, BP = 0010HBX = 0020H, SP = 0030H, SI = 0040H, DI = 0050H. Calculate physical address for following instructions: i) MOV CX,[BX], ii) MOV AL,[BP+SI], iii) MOV CS:[BX],AL, iv) MOV AL.[BP].",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T07",
+                "topic": "Addressing modes",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to compute physical addresses for different operand forms, which directly tests understanding of 8086 addressing modes. No other syllabus topic is required as a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 5,
+                "sub_question": "a",
+                "text": "Write a program to add a data byte located at offset 0500H in 2000H segment to another data byte available at 0600H in the same segment and store the result at 0700H in the same segment.",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T08_S02",
+                "topic": "Instruction Types",
+                "subtopic": "arithmetic instructions",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U2_T07"
+                ],
+                "evidence": "The question requires writing an assembly program that performs an addition (ADD) of two memory bytes, which tests knowledge of arithmetic instructions. Correct use of the operands relies on direct memory addressing, so understanding addressing modes is a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 5,
+                "sub_question": "b",
+                "text": "What is the purpose of the assembler in the 8086 microprocessor? Differentiate between assembler directive and instructions in 8086. Explain any three assembler directives.",
+                "marks": 10,
+                "unit": 2,
+                "co": "CO2"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U2_T09",
+                "topic": "Assembler directions and operators",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks about the purpose of the assembler, differences between assembler directives and instructions, and examples of directives. This directly matches the syllabus record on Assembler directions and operators, which covers assembler directives. The concept can be studied without needing prior mastery of other listed topics."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 6,
+                "sub_question": "a",
+                "text": "What is Multiprocessing systems? Compare Symmetrical and Asymmetrical Multiprocessing systems.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T01_S02",
+                "topic": "Multiprogramming and system architecture",
+                "subtopic": "Multiprocessor configurations",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for definition of multiprocessing systems and comparison of symmetrical and asymmetrical multiprocessing, which directly matches the subtopic 'Multiprocessor configurations' under Multiprogramming and system architecture."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 6,
+                "sub_question": "b",
+                "text": "Compare the features of 80386 and 80286 based on the following points: registers, clock rate, number of pins, number of instructions, modes of operations, memory management, and protection mechanism.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T02_S01",
+                "topic": "Advanced processors",
+                "subtopic": "Introduction to advanced processors",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for a comparison of 80286 and 80386 features, which falls under the Advanced processors topic covering both processors. The introductory subtopic on advanced processors best represents this main concept. No other listed topics are required to understand these processor specifics."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 7,
+                "sub_question": "a",
+                "text": "What does the CPU do when it receives an interrupt? How do you enable and disable interrupts in 8086?",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T04_S01",
+                "topic": "Interrupt architecture of 8086",
+                "subtopic": "Interrupt structure of 8086",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question focuses on the CPU's response to an interrupt and how to enable/disable interrupts in the 8086, which directly maps to the interrupt structure of the 8086. No other listed topics are required as a prerequisite for understanding this specific behavior."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 7,
+                "sub_question": "b",
+                "text": "Draw and Explain the Interfacing of 8259 with 8086. What is the advantage of using 8259.",
+                "marks": 10,
+                "unit": 3,
+                "co": "CO3"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U3_T05_S01",
+                "topic": "Interrupt controller interfacing",
+                "subtopic": "Interfacing Interrupt Controller 8259",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U3_T04_S01"
+                ],
+                "evidence": "The question asks for interfacing the 8259 interrupt controller with the 8086, which directly aligns with the syllabus record on Interfacing Interrupt Controller 8259. Understanding the 8086 interrupt structure is needed to grasp how the 8259 connects and operates, thus a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 8,
+                "sub_question": "a",
+                "text": "Write the sequence of instructions required to initialize 8251A at address 80H and 81H for the configuration given below.(i) character length-6 bits (iv) Baud rate 64 X(it) Parity even(v) DTR and RTS asserted(iiz) Stop bit 1(vi) Error flag reset(vit) Transmitter enable",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T02_S02",
+                "topic": "Communication Interface",
+                "subtopic": "8251 USART architecture and interfacing",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U4_T02_S01"
+                ],
+                "evidence": "The question asks for the instruction sequence to initialize the 8251A USART, directly matching the syllabus record on 8251 USART architecture and interfacing. Understanding serial data transfer schemes (BCS304_U4_T02_S01) aids in grasping the configuration parameters, so it is a useful prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 8,
+                "sub_question": "b",
+                "text": "What are the functions of DMA controller? Describe the steps that take place during DMA operation.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T03_S01",
+                "topic": "DMA",
+                "subtopic": "Interfacing DMA Controller 8257 to 8086",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for DMA controller functions and operation steps, which directly matches the DMA record covering interfacing of DMA controller 8257. No other listed topics are required to answer this."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 9,
+                "sub_question": "a",
+                "text": "Discuss the process of interfacing with the 8255 programmable peripheral interface using the 8086 microprocessor, including the various modes of operation.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T01_S01",
+                "topic": "I/O Interface",
+                "subtopic": "8255 PPI",
+                "is_independent": false,
+                "prerequisites": [
+                    "BCS304_U4_T01_S02",
+                    "BCS304_U4_T01_S03"
+                ],
+                "evidence": "The question asks for interfacing the 8255 PPI with the 8086 and discusses its operation modes. The main concept is the 8255 programmable peripheral interface, making record S01 the best match. Understanding the 8255's modes (S02) and general 8086 interfacing techniques (S03) are useful prerequisites."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "BCS_304_ENDTERM",
+                "subject": "Microprocessor and Interfacing",
+                "subject_code": "BCS 304",
+                "exam_type": "ENDTERM",
+                "semester": null,
+                "question_number": 9,
+                "sub_question": "b",
+                "text": "What is DMA, why it is required. Explain Cycle stealing and Burst mode.",
+                "marks": 10,
+                "unit": 4,
+                "co": "CO4"
+            },
+            "analysis": {
+                "topic_id": "BCS304_U4_T03_S01",
+                "topic": "DMA",
+                "subtopic": "Interfacing DMA Controller 8257 to 8086",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question focuses on DMA definition, purpose, and its modes (cycle stealing, burst). The syllabus record BCS304_U4_T03_S01 directly covers DMA and its controller interfacing, matching the main concept. Understanding other I/O interface topics is not required to answer the DMA-specific question."
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+(2)
+
+(Please write your Enrollment Number)  
+Enrollment No. 01701012022
+
+End-Term Examination  
+(CBCS)(SUBJECTIVE TYPE)(OffLine)  
+Course Name: B.Tech. Semester: 6th  
+(May, 2025)
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 306</td>
+    <td></td>
+    <td>Subject: Compiler Design</td>
+  </tr>
+  <tr>
+    <td>Time :3 Hours</td>
+    <td></td>
+    <td>Maximum Marks :60</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th>(2.5*8=20)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td>a) What is the purpose of symbol table in compilation? How is it used during lexical analysis?</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>b) Differentiate between Syntax analysis and Sematic analysis.</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td>c) Explain Predictive parsing.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>d) Discuss about different actions possible in Shift Reduce parsing using suitable example.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>e) What is a type system? Give two examples of static type checking.</td>
+    <td>2.5</td>
+    <td>CO3</td>
+  </tr>
+  <tr>
+    <td>f) Suppose $\Sigma=\{a,b\}$ , then what type strings will appear in $L(a*b*)$ .</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td>g) Explain about Abstract Syntax Tree and Directed Acyclic Graph using suitable example.</td>
+    <td>2.5</td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <td>h) Convert the following expression in to equivalent three address code. $(a+b*c)+d+(a+b*c)-d+e$ </td>
+    <td>2.5</td>
+    <td>CO4</td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT I</th>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO1</td>
+  </tr>
+  <tr>
+    <td>Explain the concept of "Grouping of Phases" in compiler design. Discuss how front-end and back-end phases are grouped, along with their significance in compiler construction.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO2</td>
+  </tr>
+  <tr>
+    <td>Define regular expression. Let $\Sigma=\{0,1\}$ then what type of language does regular expression $(0+1)*$ will generate Construct a deterministic finite Automate for $(0+1)^*$ .</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT II</th>
+  </tr>
+  <tr>
+    <th>Q4</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO4</td>
+  </tr>
+  <tr>
+    <td>Given the grammar:<br>S→CC<br>C→cC|d<br>Construct the Canonical LR (CLR) parsing table and parse the input "cccdcd".</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Q5</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO4</td>
+  </tr>
+  <tr>
+    <td>Given the augmented grammar:<br>S' → S<br>S → L=R | R<br>L → *R | id<br>R → L<br>a) Construct the canonical LR(1) item sets<br>b) Construct the LALR(1) parsing table</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="3">UNIT III</th>
+  </tr>
+  <tr>
+    <th>Q6</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO3</td>
+  </tr>
+  <tr>
+    <td>Discuss about different types of attributes? And compare S-attributed and L-attributed grammars with suitable examples.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Q7</th>
+    <td>(10)</td>
+    <td>CO Mapping<br>CO3</td>
+  </tr>
+  <tr>
+    <td>How static storage allocation is different from stack-based storage allocation explain with neat diagrams.</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+1

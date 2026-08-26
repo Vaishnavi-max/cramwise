@@ -1,0 +1,119 @@
+{
+    "document": "6thsempyqs_2025",
+    "paper_count": 11,
+    "papers": [
+        {
+            "paper_id": "BIT_304_MIDTERM",
+            "subject": "Cloud Computing",
+            "subject_code": "BIT 304",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                1
+            ]
+        },
+        {
+            "paper_id": "BCS_306_MIDTERM",
+            "subject": "Compiler Design",
+            "subject_code": "BCS 306",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                2
+            ]
+        },
+        {
+            "paper_id": "BCS_306_ENDTERM",
+            "subject": "Compiler Design",
+            "subject_code": "BCS 306",
+            "exam_type": "ENDTERM",
+            "semester": 6,
+            "pages": [
+                3,
+                4
+            ]
+        },
+        {
+            "paper_id": "BCS_304_MIDTERM",
+            "subject": "Microprocessor and Interfacing",
+            "subject_code": "BCS 304",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                5
+            ]
+        },
+        {
+            "paper_id": "BCS_304_ENDTERM",
+            "subject": "Microprocessor and Interfacing",
+            "subject_code": "BCS 304",
+            "exam_type": "ENDTERM",
+            "semester": null,
+            "pages": [
+                6,
+                7
+            ]
+        },
+        {
+            "paper_id": "BCS_310_MIDTERM",
+            "subject": "Human-Computer Interaction",
+            "subject_code": "BCS 310",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                8
+            ]
+        },
+        {
+            "paper_id": "BCS_310_ENDTERM",
+            "subject": "Human Computer Interaction",
+            "subject_code": "BCS 310",
+            "exam_type": "ENDTERM",
+            "semester": 6,
+            "pages": [
+                9
+            ]
+        },
+        {
+            "paper_id": "HMC_306_MIDTERM",
+            "subject": "Financial Management",
+            "subject_code": "HMC-306",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                10
+            ]
+        },
+        {
+            "paper_id": "HMC_306_ENDTERM",
+            "subject": "Financial Management",
+            "subject_code": "HMC 306",
+            "exam_type": "ENDTERM",
+            "semester": 6,
+            "pages": [
+                11,
+                12
+            ]
+        },
+        {
+            "paper_id": "BCS_302_ENDTERM",
+            "subject": "Wireless Networks",
+            "subject_code": "BCS 302",
+            "exam_type": "ENDTERM",
+            "semester": 6,
+            "pages": [
+                13
+            ]
+        },
+        {
+            "paper_id": "BCS_302_MIDTERM",
+            "subject": "Wireless Networks",
+            "subject_code": "BCS 302",
+            "exam_type": "MIDTERM",
+            "semester": 6,
+            "pages": [
+                14
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+(Please write your Enrollment Number)  
+Enrollment No. $\underline{01701012022}$
+
+MID-TERM EXAMINATION  
+(Course Name: B. Tech.) (Semester: 6 $^{\text{th}}$ )  
+(March 2025) OFF LINE mode
+
+<table>
+  <tr>
+    <td>Subject Code: BCS 302</td>
+    <td></td>
+    <td>Subject: Wireless Networks</td>
+  </tr>
+  <tr>
+    <td>Time : 1 ½Hours</td>
+    <td></td>
+    <td>Maximum Marks :30</td>
+  </tr>
+</table>
+
+Note: Q1 is compulsory. Attempt any two parts of Q2 and Q3
+
+<table>
+  <tr>
+    <th>Q1</th>
+    <th></th>
+    <th>(2.5*4=10)</th>
+    <th>CO Mapping</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) List the key characteristics of wireless channels.</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Discuss IEEE 802.15 standard and its working groups.</td>
+    <td>2.5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Describe in brief the path finding process in Cluster Head Gateway Switch routing protocol.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>d) Discuss the types of routing protocols based on routing information update mechanism.</td>
+    <td>2.5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td colspan="3">UNIT I</td>
+    <td>CO Mapping</td>
+  </tr>
+  <tr>
+    <th>Q2</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) Discuss the key features of Ad-hoc networks and how they differ from traditional wireless networks.</td>
+    <td>5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) A university wants to implement a wireless network for its campus. The network must support both indoor and outdoor connectivity. Design a solution and briefly discuss the challenges.</td>
+    <td>5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Describe in detail RI-BTMA Protocol.</td>
+    <td>5</td>
+    <td>CO1</td>
+  </tr>
+  <tr>
+    <td colspan="3">UNIT II</td>
+    <td>CO Mapping</td>
+  </tr>
+  <tr>
+    <th>Q3</th>
+    <th>Attempt any two parts</th>
+    <th>(5*2=10)</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>a) How does Location-Aided Routing (LAR) improve efficiency over traditional flooding?</td>
+    <td>5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>b) Analyze the challenges in designing a routing protocol for Ad-hoc wireless network.</td>
+    <td>5</td>
+    <td>CO2</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>c) Describe in detail any one hybrid routing protocol.</td>
+    <td>5</td>
+    <td>CO2</td>
+  </tr>
+</table>

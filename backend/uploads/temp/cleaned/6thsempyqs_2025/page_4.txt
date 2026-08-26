@@ -1,0 +1,13 @@
+UNIT IV
+
+ CO Mapping
+
+ Q8
+ Explain the following optimizations using suitable examples:• Common sub expression elimination• Reduction in strength• Constant folding• Code motion• Dead code elimination
+ (10)
+ CO2
+
+ Q9
+ What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.
+ (10)
+ CO2

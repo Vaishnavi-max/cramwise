@@ -1,0 +1,4658 @@
+[
+    {
+        "topic_id": "HMC306_U1_T03",
+        "topic": "Time value of money",
+        "subtopic": null,
+        "unit": 1,
+        "question_count": 6,
+        "paper_count": 2,
+        "total_marks": 42.5,
+        "average_marks": 7.083333333333333,
+        "question_frequency_score": 30.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 25.0,
+        "long_question_score": 15.0,
+        "importance_score": 95.0,
+        "priority": "VERY HIGH",
+        "ten_mark_questions": 3,
+        "five_mark_questions": 2,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 2,
+            "10": 3
+        },
+        "independent_count": 6,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_a",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What do you understand by the rule 72? Explain with examples",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q2_a.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 2,
+                "sub_question": "a.",
+                "text": "Why is the time value of money important to consider? Explain it with proper examples",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q2_b.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 2,
+                "sub_question": "b.",
+                "text": "Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q3_b.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 3,
+                "sub_question": "b.",
+                "text": "Explain the factors affecting time value of money?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q2_a",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Define the Time Value of Money (TVM). Explain its significance with suitable examples and outline its key assumptions.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q2_c",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Mr Dhawan borrowed Rs. 7,00,000 to buy a Machine. If he pays Equal Installments for 20 Years @8% P.A. Compute Amount of Installments",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM",
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T02_S01",
+        "topic": "Inventory Management",
+        "subtopic": "EOQ Problem",
+        "unit": 4,
+        "question_count": 5,
+        "paper_count": 1,
+        "total_marks": 42.5,
+        "average_marks": 8.5,
+        "question_frequency_score": 25.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 25.0,
+        "long_question_score": 20.0,
+        "importance_score": 82.5,
+        "priority": "VERY HIGH",
+        "ten_mark_questions": 4,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 4
+        },
+        "independent_count": 5,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_g",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain storage and ordering cost in inventory management",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q8_a.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 8,
+                "sub_question": "a.",
+                "text": "Explain ABC analysis model of Inventory Management with suitable examples",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q9_a.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 9,
+                "sub_question": "a.",
+                "text": "ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q9_b.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 9,
+                "sub_question": "b.",
+                "text": "Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ level.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q9_c.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 9,
+                "sub_question": "c.",
+                "text": "Calculate the Total Cost if the order sizes are:i. 100 unitsii. 600 unitsiii. 3000 units Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S06",
+        "topic": "Graphical User Interface",
+        "subtopic": "Characteristics‑principles of user interface",
+        "unit": 1,
+        "question_count": 5,
+        "paper_count": 2,
+        "total_marks": 25.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 25.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 14.71,
+        "long_question_score": 5.0,
+        "importance_score": 69.71,
+        "priority": "HIGH",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 2,
+        "short_questions": 2,
+        "marks_distribution": {
+            "2.5": 2,
+            "5": 2,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 3,
+        "prerequisites": [
+            "BCS310_U1_T01_S03",
+            "BCS310_U1_T02_S02",
+            "BCS310_U1_T02_S04"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_b",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Differentiate between Hover-Reveal Tools and Toggle-Reveal Tools.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_ENDTERM_Q3",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 3,
+                "sub_question": null,
+                "text": "Describe the principles of user interface design for graphical user interfaces (GUIs). Explain the concept of direct manipulation and how it is used in modern graphical systems.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q1_b",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Discuss the key principles of an effective Graphical User Interface (GUI) design.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q3_a",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "How does human interaction speed affect the design of user interfaces? Provide relevant examples.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q3_c",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Propose innovative solutions to improve UI responsiveness for mobile and handheld platforms under constraints like network, power, and memory.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM",
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S01",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "definition",
+        "unit": 1,
+        "question_count": 4,
+        "paper_count": 2,
+        "total_marks": 22.5,
+        "average_marks": 5.625,
+        "question_frequency_score": 20.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 13.24,
+        "long_question_score": 5.0,
+        "importance_score": 63.24,
+        "priority": "HIGH",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 2,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 2,
+            "10": 1
+        },
+        "independent_count": 3,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U1_T01_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_b",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "What is the role of multicast routing in ad-hoc networks, and provide one routing protocol that support multicast routing?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_ENDTERM_Q2",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 2,
+                "sub_question": null,
+                "text": "Define ad-hoc networks and mention two of their key characteristics compare to traditional networks. Also provide a diagram of layer wise architecture of adhoc networks.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_MIDTERM_Q3_a",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "How does Location-Aided Routing (LAR) improve efficiency over traditional flooding?",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_MIDTERM_Q3_c",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Describe in detail any one hybrid routing protocol.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM",
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S07",
+        "topic": "Introduction and architecture",
+        "subtopic": "BIU and EU",
+        "unit": 1,
+        "question_count": 3,
+        "paper_count": 2,
+        "total_marks": 20.0,
+        "average_marks": 6.666666666666667,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 11.76,
+        "long_question_score": 5.0,
+        "importance_score": 56.76,
+        "priority": "HIGH",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 2,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 2,
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 3,
+        "prerequisites": [
+            "BCS304_U1_T01_S06"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q2_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Discuss the function of Queue. How the concept of pipelining is implemented in 8086.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q2_b",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Explain in detail the demultiplexing of the Address bus in 8086",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q2_c",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Explain the function of EU, BIU, and QUEUE in 8086",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM",
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S10",
+        "topic": "Introduction and architecture",
+        "subtopic": "Memory Segmentation",
+        "unit": 1,
+        "question_count": 3,
+        "paper_count": 2,
+        "total_marks": 17.5,
+        "average_marks": 5.833333333333333,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 10.29,
+        "long_question_score": 5.0,
+        "importance_score": 55.29,
+        "priority": "HIGH",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 1,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 1,
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS304_U1_T01_S06",
+            "BCS304_U1_T01_S08"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q3_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "What is Segmentation. Explain the advantage of Segmentation Scheme in 8086. Write the size of physical memory and virtual memory of 8086 microprocessor.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q1_b",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Can we change the content of the Code Segment directly? Justify your statement.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q3_a",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "IF SS-0100H, DS=2000H, ES-1002, BX-1001H, BP-2100, SI-0002H.Mention the contents of BX, BP, SI, ES, and SS after the execution of LES BX, [BP]+[SI]",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM",
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S02",
+        "topic": "Introduction",
+        "subtopic": "Definition",
+        "unit": 1,
+        "question_count": 3,
+        "paper_count": 2,
+        "total_marks": 15.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 8.82,
+        "long_question_score": 5.0,
+        "importance_score": 53.82,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 2,
+        "marks_distribution": {
+            "2.5": 2,
+            "10": 1
+        },
+        "independent_count": 3,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_a",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Define \"User Interface\" and explain its significance in modern computing.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_ENDTERM_Q2",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 2,
+                "sub_question": null,
+                "text": "Justify the statement with example: “The Response Time/Productivity Relation changes based on the task and user.”",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q1_a",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Define the term \"User Interface\" and explain its importance in software applications.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM",
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T02_S03",
+        "topic": "Cost of Capital",
+        "subtopic": "Classification",
+        "unit": 2,
+        "question_count": 3,
+        "paper_count": 2,
+        "total_marks": 15.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 8.82,
+        "long_question_score": 5.0,
+        "importance_score": 53.82,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 2,
+        "marks_distribution": {
+            "2.5": 2,
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 3,
+        "prerequisites": [
+            "HMC306_U2_T02_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_d",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "What do you understand by the term Equity and how it is different from preference share?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q5",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 5,
+                "sub_question": null,
+                "text": "XYZ ltd has the following capital structureEquity Share Capital (5,000 Shares)30,00,0009% Preference Shares (100 Rs. Each)22,00,00012% Debentures28,00,000• The cost of Equity is 15%• The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.• Debentures are issued at premium of 5%. (1) • Tax rate is given @20%. 1. Compute the cost of capital for each source 2. Compute the Weighted Average Cost of Capital",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q1_c",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain the difference between bonds and debentures.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM",
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S09",
+        "topic": "Introduction and architecture",
+        "subtopic": "Pin diagram",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 15.0,
+        "average_marks": 7.5,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 8.82,
+        "long_question_score": 5.0,
+        "importance_score": 48.82,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q3_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Explain the function of the following pins in 8086: DT/R, DEN, ALE, TEST, READY, BHE",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q2_a",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Explain the function of the following pins in 8085:INTR, ALE, READY, HOLD, TRAP",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM",
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T02_S01",
+        "topic": "Phases of a compiler",
+        "subtopic": "Grouping of phases",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 15.0,
+        "average_marks": 7.5,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 8.82,
+        "long_question_score": 5.0,
+        "importance_score": 48.82,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q2",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 2,
+                "sub_question": null,
+                "text": "Explain the concept of \"Grouping of Phases\" in compiler design. Discuss how front-end and back-end phases are grouped, along with their significance in compiler construction.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_MIDTERM_Q2_a",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Discuss about different Phases of a compiler with a neat diagram.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM",
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S02",
+        "topic": "Network Protocols",
+        "subtopic": "Proactive Vs reactive routing protocols",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 47.35,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q4",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 4,
+                "sub_question": null,
+                "text": "There are 10 end devices in adhoc network. Each node has atleast two immediate neighbors. Find and demonstrate the complete process for the route from source to destination using dynamic source routing (DSR).",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_MIDTERM_Q1_d",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss the types of routing protocols based on routing information update mechanism.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM",
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S02",
+        "topic": "Instruction Types",
+        "subtopic": "arithmetic instructions",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 47.35,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS304_U2_T07"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q5_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 5,
+                "sub_question": "a",
+                "text": "Write a program to add a data byte located at offset 0500H in 2000H segment to another data byte available at 0600H in the same segment and store the result at 0700H in the same segment.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q1_c",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Differentiate and explain the following instructions:1. SUB CL,BL2. SUB CX,AX3. SUB DX,0016H4. SUB CX,[DI]5. SUB [BP] AH",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM",
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S02",
+        "topic": "Design process",
+        "subtopic": "importance of human characteristics",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 47.35,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q4",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 4,
+                "sub_question": null,
+                "text": "Explain the design process for user interfaces. Discuss the role of human interaction characteristics (such as cognitive factors and physical limitations) in shaping the design of user interfaces.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q1_c",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain the significance of human characteristics in the design process of Human-Computer Interaction.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM",
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S06",
+        "topic": "Design process",
+        "subtopic": "Limitations and constraints of mobile and hand-held platforms",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 47.35,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS310_U2_T01_S03"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q5",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 5,
+                "sub_question": null,
+                "text": "Explain the following Elements of Mobile Design in detaila. Contextb. Messagec. Look and Feeld. Layoute. Color",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_MIDTERM_Q1_d",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss the key constraints and limitations of mobile and hand-held platforms compared to other computing platforms.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM",
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S01",
+        "topic": "Financial Management",
+        "subtopic": "Definition",
+        "unit": 1,
+        "question_count": 3,
+        "paper_count": 2,
+        "total_marks": 10.0,
+        "average_marks": 3.3333333333333335,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 5.88,
+        "long_question_score": 0.0,
+        "importance_score": 45.88,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 2,
+        "marks_distribution": {
+            "2.5": 2,
+            "5": 1
+        },
+        "independent_count": 3,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_b",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Explain the term financial management?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q1_a",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What is Financial Management, and why is it important for businesses?",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q3_b",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Define WACC? Explain its significance in Financial decision-making with relevant examples. 5",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM",
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T03_S01",
+        "topic": "DMA",
+        "subtopic": "Interfacing DMA Controller 8257 to 8086",
+        "unit": 4,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 20.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 11.76,
+        "long_question_score": 10.0,
+        "importance_score": 44.26,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 2,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 2
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q8_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 8,
+                "sub_question": "b",
+                "text": "What are the functions of DMA controller? Describe the steps that take place during DMA operation.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_ENDTERM_Q9_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 9,
+                "sub_question": "b",
+                "text": "What is DMA, why it is required. Explain Cycle stealing and Burst mode.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T02_S03",
+        "topic": "Bottom-Up Parsing",
+        "subtopic": "Constructing Canonical LR parsing tables",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 20.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 11.76,
+        "long_question_score": 10.0,
+        "importance_score": 44.26,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 2,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 2
+        },
+        "independent_count": 0,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS306_U2_T02_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q4",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 4,
+                "sub_question": null,
+                "text": "Given the grammar:S→CCC→cC|dConstruct the Canonical LR (CLR) parsing table and parse the input \"cccdcd\".",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_ENDTERM_Q5",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 5,
+                "sub_question": null,
+                "text": "Given the augmented grammar:S' → SS → L=R | RL → *R | idR → La) Construct the canonical LR(1) item setsb) Construct the LALR(1) parsing table",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T06_S01",
+        "topic": "Syntax Analysis",
+        "subtopic": "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+        "unit": 1,
+        "question_count": 4,
+        "paper_count": 1,
+        "total_marks": 17.5,
+        "average_marks": 4.375,
+        "question_frequency_score": 20.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 10.29,
+        "long_question_score": 0.0,
+        "importance_score": 42.79,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 3,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 3
+        },
+        "independent_count": 4,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_MIDTERM_Q1_a",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What is CFG? In which phase of compiler CFG is used? Discuss about the difference between Leftmost Derivation and Rightmost Derivation with suitable example.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_MIDTERM_Q3_a",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "Discuss about Recursive Descent Parser (RDP) and design RDP for the following grammar.S→AAA→aAA→b",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_MIDTERM_Q3_b",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Discuss about closure and goto operations with suitable example, and Construct LR(0) items sets for the following grammar.A→BBB→cB/d",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_MIDTERM_Q3_c",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Construct the SLR parse table for the following grammar.S→cAdA→ab/eAnd parse the string: cabd",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T05_S01",
+        "topic": "Lexical Analysis",
+        "subtopic": "Role of Lexical Analyzer",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 2,
+        "total_marks": 7.5,
+        "average_marks": 3.75,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 25.0,
+        "total_marks_score": 4.41,
+        "long_question_score": 0.0,
+        "importance_score": 39.41,
+        "priority": "MEDIUM",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_a",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What is the purpose of symbol table in compilation? How is it used during lexical analysis?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_MIDTERM_Q2_b",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "What is the role of Lexical Analyzer? Discuss about Input Buffering and its uses.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM",
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T08",
+        "topic": "Energy Efficient Approaches",
+        "subtopic": null,
+        "unit": 4,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U4_T01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_h",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "List any two energy-aware routing protocols used in ad-hoc networks.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_ENDTERM_Q8",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 8,
+                "sub_question": null,
+                "text": "Why is energy efficiency critical in WSNs? Discuss and compare different approaches to achieve energy efficiency in WSNs.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S03",
+        "topic": "Introduction and architecture",
+        "subtopic": "Basic architecture and its applications",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What are Coprocessors why they are needed? Give examples also.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_ENDTERM_Q2_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "What is meant by microprocessor architecture and explain its operation. If a microprocessor is of 32 bit size what does it means, explain in detail.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S06",
+        "topic": "Introduction and architecture",
+        "subtopic": "8086 architecture",
+        "unit": 1,
+        "question_count": 3,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 4.166666666666667,
+        "question_frequency_score": 15.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 0.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 2,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "5": 2
+        },
+        "independent_count": 1,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS304_U1_T01_S07"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_MIDTERM_Q1_a",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Do 8086 implements pipelining? Justify your statement",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q3_b",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Draw the timing diagram of the write cycle in 8086 Minimum mode",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_304_MIDTERM_Q3_c",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "Explain the following assembler directives:ASSUME, ENDP, EXTRN, ORG, ENDS",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T04_S01",
+        "topic": "Interrupt architecture of 8086",
+        "subtopic": "Interrupt structure of 8086",
+        "unit": 3,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_f",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "Differentiate Edge triggered and Level triggered Interrupts with examples.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_ENDTERM_Q7_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 7,
+                "sub_question": "a",
+                "text": "What does the CPU do when it receives an interrupt? How do you enable and disable interrupts in 8086?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T05_S01",
+        "topic": "Interrupt controller interfacing",
+        "subtopic": "Interfacing Interrupt Controller 8259",
+        "unit": 3,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS304_U3_T04_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_e",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "Explain the significance of the use of 8259.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            },
+            {
+                "question_id": "BCS_304_ENDTERM_Q7_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 7,
+                "sub_question": "b",
+                "text": "Draw and Explain the Interfacing of 8259 with 8086. What is the advantage of using 8259.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T01_S01",
+        "topic": "Syntax directed translation",
+        "subtopic": "Syntax directed definitions",
+        "unit": 3,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_f",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "Suppose Σ={a,b} , then what type strings will appear in L(a*b*) .",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_306_ENDTERM_Q6",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 6,
+                "sub_question": null,
+                "text": "Discuss about different types of attributes? And compare S-attributed and L-attributed grammars with suitable examples.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T01_S01",
+        "topic": "Screen Designing (UI Design)",
+        "subtopic": "design goals",
+        "unit": 3,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_e",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "Discuss the importance of screen design in user interfaces.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_ENDTERM_Q6",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 6,
+                "sub_question": null,
+                "text": "Discuss the following characteristics in respect of web pagesa. Page sizeb. Page renderingc. Page layoutd. Page resolutione. User focus",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T01_S03",
+        "topic": "Components",
+        "subtopic": "multimedia",
+        "unit": 4,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_g",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "What is the role of colors and multimedia in enhancing user experience in UI design?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_310_ENDTERM_Q8",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 8,
+                "sub_question": null,
+                "text": "Explain the role of multimedia, icons, and colors in user interface design. How can these elements be utilized to enhance the user experience and engagement?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T02_S01",
+        "topic": "Cost of Capital",
+        "subtopic": "Concept",
+        "unit": 2,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_c",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain the concept of the Interest Tax Shield?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q4_a.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 4,
+                "sub_question": "a.",
+                "text": "What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S01",
+        "topic": "Capital Budgeting",
+        "subtopic": "Concept",
+        "unit": 3,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 12.5,
+        "average_marks": 6.25,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 7.35,
+        "long_question_score": 5.0,
+        "importance_score": 34.85,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1,
+            "10": 1
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_e",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "What do you understand by the term capital budgeting, and to which type of decision does it belong?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_ENDTERM_Q7",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 7,
+                "sub_question": null,
+                "text": "Write Short Notes with suitable examples on• Net Present Value• Internal Rate of Return• Profitability Index• Payback Period",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S02",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "characteristics features",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 0.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 2,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 2
+        },
+        "independent_count": 0,
+        "dependent_count": 2,
+        "prerequisites": [
+            "BCS302_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q2_a",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Discuss the key features of Ad-hoc networks and how they differ from traditional wireless networks.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BCS_302_MIDTERM_Q3_b",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Analyze the challenges in designing a routing protocol for Ad-hoc wireless network.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T04_S01",
+        "topic": "MAC protocols",
+        "subtopic": "design issues",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U1_T05"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q3",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 3,
+                "sub_question": null,
+                "text": "Describe the design goals and issues in MAC protocol design for ad-hoc networks. Elaborate on contention-based MAC protocols and their working principles.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S05",
+        "topic": "Network Protocols",
+        "subtopic": "Hybrid routing protocols",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U2_T01_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q5",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 5,
+                "sub_question": null,
+                "text": "Describe hybrid routing protocols. How do they combine the benefits of both proactive and reactive approaches?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S03",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "IEEE 802.11s Architecture",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q7",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 7,
+                "sub_question": null,
+                "text": "Consider a network scenario for Mesh networks that contain 20 wireless nodes connected using MESH topology. Client needs to setup a communication between X (Sender) to Y (Receiver). Demonstrate the results after applying the proactive, reactive, and geographic routing to the given scenario.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S05",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Heterogeneous Mesh Networks",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U3_T01_S06"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q6",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 6,
+                "sub_question": null,
+                "text": "Explain the concept of heterogeneous mesh networks and their use cases in VANETS. How heterogenous networks help in building reliable transportation system compared with traditional wireless networks.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T05",
+        "topic": "Location discovery",
+        "subtopic": null,
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U4_T01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q9",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 9,
+                "sub_question": null,
+                "text": "Describe various location discovery techniques in wireless sensor networks. Consider a network scenario of sparse network with best location discovery approach to demonstrate the working with diagrammatical presentation.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T07",
+        "topic": "Addressing modes",
+        "subtopic": null,
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q4_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 4,
+                "sub_question": "b",
+                "text": "What is physical address in 8086. Assume the following state of 8086 microprocessor: CS = 1000H, DS = 2000H, SS = 3000H, ES = 4000H, BP = 0010HBX = 0020H, SP = 0030H, SI = 0040H, DI = 0050H. Calculate physical address for following instructions: i) MOV CX,[BX], ii) MOV AL,[BP+SI], iii) MOV CS:[BX],AL, iv) MOV AL.[BP].",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S05",
+        "topic": "Instruction Types",
+        "subtopic": "flag manipulation instruction",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS304_U2_T06"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q4_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 4,
+                "sub_question": "a",
+                "text": "Write short note on:(i) Loop, (ii) Flag manipulation, (iii) shift & rotate.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T09",
+        "topic": "Assembler directions and operators",
+        "subtopic": null,
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q5_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 5,
+                "sub_question": "b",
+                "text": "What is the purpose of the assembler in the 8086 microprocessor? Differentiate between assembler directive and instructions in 8086. Explain any three assembler directives.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T01_S02",
+        "topic": "Multiprogramming and system architecture",
+        "subtopic": "Multiprocessor configurations",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q6_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 6,
+                "sub_question": "a",
+                "text": "What is Multiprocessing systems? Compare Symmetrical and Asymmetrical Multiprocessing systems.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U3_T02_S01",
+        "topic": "Advanced processors",
+        "subtopic": "Introduction to advanced processors",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q6_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 6,
+                "sub_question": "b",
+                "text": "Compare the features of 80386 and 80286 based on the following points: registers, clock rate, number of pins, number of instructions, modes of operations, memory management, and protection mechanism.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T01_S01",
+        "topic": "I/O Interface",
+        "subtopic": "8255 PPI",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS304_U4_T01_S02",
+            "BCS304_U4_T01_S03"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q9_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 9,
+                "sub_question": "a",
+                "text": "Discuss the process of interfacing with the 8255 programmable peripheral interface using the 8086 microprocessor, including the various modes of operation.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T02_S02",
+        "topic": "Communication Interface",
+        "subtopic": "8251 USART architecture and interfacing",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS304_U4_T02_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q8_a",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 8,
+                "sub_question": "a",
+                "text": "Write the sequence of instructions required to initialize 8251A at address 80H and 81H for the configuration given below.(i) character length-6 bits (iv) Baud rate 64 X(it) Parity even(v) DTR and RTS asserted(iiz) Stop bit 1(vi) Error flag reset(vit) Transmitter enable",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T05_S04",
+        "topic": "Lexical Analysis",
+        "subtopic": "Review of Finite Automata",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U1_T05_S03"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q3",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 3,
+                "sub_question": null,
+                "text": "Define regular expression. Let Σ={0,1} then what type of language does regular expression (0+1)* will generate Construct a deterministic finite Automate for (0+1)^* .",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T03_S03",
+        "topic": "Run-Time Environments",
+        "subtopic": "Storage allocation strategies",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U3_T03_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q7",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 7,
+                "sub_question": null,
+                "text": "How static storage allocation is different from stack-based storage allocation explain with neat diagrams.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T02_S01",
+        "topic": "Code Optimization",
+        "subtopic": "Principal sources of optimization",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U4_T02_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q8",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 8,
+                "sub_question": null,
+                "text": "Explain the following optimizations using suitable examples:• Common sub expression elimination• Reduction in strength• Constant folding• Code motion• Dead code elimination",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T03_S01",
+        "topic": "Code generation",
+        "subtopic": "Issues in the design of a code generator",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q9",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 9,
+                "sub_question": null,
+                "text": "What are Lexical phase errors, syntactic errors and semantic errors? Explain with example. How these errors are detected.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T02_S01",
+        "topic": "Windows",
+        "subtopic": "navigation schemes selection of window",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q7",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 7,
+                "sub_question": null,
+                "text": "Discuss the importance of navigation schemes in user interface design. How do you select the appropriate window types and controls for an application? Provide examples.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T03_S01",
+        "topic": "Interacting Devices",
+        "subtopic": "Keyboard and function keys",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q9",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 9,
+                "sub_question": null,
+                "text": "Discuss the various Interacting devices used in user interfaces, such as keyboards, touchscreens, and voice-activated commands. How do these devices impact user interaction and usability?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S03",
+        "topic": "Computing Paradigms",
+        "subtopic": "Distributed computing",
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 0.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 2,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 2
+        },
+        "independent_count": 1,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q3_a",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "Discuss the key components of storage network architecture and their role in efficient data handling.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "BIT_304_MIDTERM_Q3_c",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "What is network virtualization? Explain its types and how it enhances network performance in cloud environments.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S02",
+        "topic": "Financial Management",
+        "subtopic": "Scope",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "HMC306_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q3_a.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 3,
+                "sub_question": "a.",
+                "text": "Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T04",
+        "topic": "Sources of Finance for different Organizations",
+        "subtopic": null,
+        "unit": 1,
+        "question_count": 2,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 10.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 0.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 2,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 2
+        },
+        "independent_count": 2,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_MIDTERM_Q3_a",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "a",
+                "text": "1. What do you understand by the term perpetual and irredeemable preference share?2. Define cost of Equity with relevant examples? 2.52.5",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            },
+            {
+                "question_id": "HMC_306_MIDTERM_Q3_c",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 3,
+                "sub_question": "c",
+                "text": "The following is the capital structure of ABC Ltd.Sources of CapitalAmountCost of Capital of SourcesEquity Share Capital (shares of Rs. 500 each)60,00,00018%14% Preference Share Capital (shares of Rs. each)10,00,000?12% Debentures of Rs. Each30,00,000?The tax rate for the given period is 20%. Calculate WACC. 5",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S05",
+        "topic": "Capital Budgeting",
+        "subtopic": "Net Present Value Method (NPV)",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "HMC306_U3_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q6",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 6,
+                "sub_question": null,
+                "text": "ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows:YearMachine PMachine Q18,50,0005,85,00027,55,0003,83,00034,95,0007,50,00043,50,0006,50,00057,44,0004,38,00064,50,0006,80,000The company has target return on capital from Machine X and Y are 12%On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T01_S01",
+        "topic": "Working Capital Management",
+        "subtopic": "Operating cycle",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 10.0,
+        "average_marks": 10.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 5.88,
+        "long_question_score": 5.0,
+        "importance_score": 28.38,
+        "priority": "LOW",
+        "ten_mark_questions": 1,
+        "five_mark_questions": 0,
+        "short_questions": 0,
+        "marks_distribution": {
+            "10": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q8_b.",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 8,
+                "sub_question": "b.",
+                "text": "What is the operating cycle? Explain its concept and the method of calculation.",
+                "marks": 10,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T01_S03",
+        "topic": "Wireless networks and Ad‑hoc networks",
+        "subtopic": "applications",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U1_T01_S02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q2_b",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "A university wants to implement a wireless network for its campus. The network must support both indoor and outdoor connectivity. Design a solution and briefly discuss the challenges.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T04_S02",
+        "topic": "MAC protocols",
+        "subtopic": "goals and classification",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U1_T02"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q2_c",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Describe in detail RI-BTMA Protocol.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T06_S02",
+        "topic": "Syntax Analysis",
+        "subtopic": "Ambiguity",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U1_T06_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_MIDTERM_Q2_c",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Define Ambiguity. Check whether the following grammars are ambiguous or not.Grammar 1:A→AA/(A)/aGrammar 2:E→EE/ABA→Aa/aB→Bb/b",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S01",
+        "topic": "Introduction",
+        "subtopic": "Importance of user interface",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_MIDTERM_Q3_b",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Evaluate the importance of understanding business functions while designing user interfaces for enterprise applications.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T01_S05",
+        "topic": "Introduction",
+        "subtopic": "A brief history on screen design",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_MIDTERM_Q2_a",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "Explain the evolution of screen design and how it has influenced modern user interface development.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S02",
+        "topic": "Graphical User Interface",
+        "subtopic": "Concept of direct manipulation",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_MIDTERM_Q2_c",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Illustrate the role of direct manipulation in graphical systems and discuss its impact on user experience with proper examples.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U1_T02_S04",
+        "topic": "Graphical User Interface",
+        "subtopic": "Characteristics",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_MIDTERM_Q2_b",
+                "paper_id": "BCS_310_MIDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "Analyze the characteristics of web user interfaces and how they differ from other types of user interfaces.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S04",
+        "topic": "Computing Paradigms",
+        "subtopic": "Utility computing",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q3_b",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 3,
+                "sub_question": "b",
+                "text": "Discuss the role of Microsoft Hyper-V in server virtualization and its impact on enterprise computing.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T04",
+        "topic": "Cloud as Green and Smart",
+        "subtopic": null,
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01",
+            "BIT304_U1_T08_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q2_c",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "c",
+                "text": "Explain how cloud computing supports green IT initiatives and contributes to energy efficiency with real world example.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T06_S02",
+        "topic": "SPI Framework",
+        "subtopic": "SPI vs. traditional IT Model",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T06_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q2_a",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "a",
+                "text": "An enterprise is transitioning from a traditional IT model to a cloud-based SPI framework. Analyze the key differences between these two models and the potential advantages of SPI.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T07_S01",
+        "topic": "Cloud Deployment Models",
+        "subtopic": "Cloud deployment models",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 5.0,
+        "average_marks": 5.0,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 2.94,
+        "long_question_score": 0.0,
+        "importance_score": 20.44,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 1,
+        "short_questions": 0,
+        "marks_distribution": {
+            "5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q2_b",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 2,
+                "sub_question": "b",
+                "text": "A business needs to decide on a cloud deployment strategy. Discuss the various cloud deployment models and the factors influencing their selection.",
+                "marks": 5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T02",
+        "topic": "Wireless channel characteristics",
+        "subtopic": null,
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q1_a",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "List the key characteristics of wireless channels.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T06_S01",
+        "topic": "IEEE standards",
+        "subtopic": "802.11",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_a",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Differentiate between IEEE 802.11 and IEEE 802.15 standards.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U1_T06_S02",
+        "topic": "IEEE standards",
+        "subtopic": "802.15",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q1_b",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Discuss IEEE 802.15 standard and its working groups.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S01",
+        "topic": "Network Protocols",
+        "subtopic": "Routing Protocols: Design issues",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_d",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Provide the name of two simulators available for Mesh, adhoc and Wireless sensor networks, and a detailed comparison between them.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T01_S07",
+        "topic": "Network Protocols",
+        "subtopic": "Hierarchical Routing protocols",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_MIDTERM_Q1_c",
+                "paper_id": "BCS_302_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Describe in brief the path finding process in Cluster Head Gateway Switch routing protocol.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U2_T02_S01",
+        "topic": "Transport Layer",
+        "subtopic": "Issues in designing Transport Layer",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_c",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Provide any two issues in designing the transport layer for ad-hoc networks according to infrastructure less setup.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S04",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Opportunistic Routing",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_e",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "Define Opportunistic Routing with an example.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U3_T01_S06",
+        "topic": "Wireless Mesh Networks",
+        "subtopic": "Vehicular Mesh Networks",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS302_U3_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_f",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "How are Vehicular Mesh Networks different from traditional mesh networks?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS302_U4_T03",
+        "topic": "Data Dissemination",
+        "subtopic": null,
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_302_ENDTERM_Q1_g",
+                "paper_id": "BCS_302_ENDTERM",
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Define data dissemination and data gathering in WSNs.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_302_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U1_T01_S08",
+        "topic": "Introduction and architecture",
+        "subtopic": "Register Organization",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_b",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "How the low byte flag register can be modified in 8086?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T03",
+        "topic": "Timing Diagram",
+        "subtopic": null,
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_d",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Draw timing diagram of IO write cycle in 8086.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S01",
+        "topic": "Instruction Types",
+        "subtopic": "data transfer instruction",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_MIDTERM_Q1_d",
+                "paper_id": "BCS_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Given AX=0102H, BX=0304H, SP=0722, and SS=0200.After executing the following program what will be the contents of AX, BX, SP, and STACK :POP BXPOB AX",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U2_T08_S03",
+        "topic": "Instruction Types",
+        "subtopic": "branch instruction",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_c",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Distinguish between CALL and JUMP.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T01_S03",
+        "topic": "I/O Interface",
+        "subtopic": "interfacing to 8086",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_h",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Justify the need of Interfacing.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS304_U4_T02_S01",
+        "topic": "Communication Interface",
+        "subtopic": "Serial data transfer schemes",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_304_ENDTERM_Q1_g",
+                "paper_id": "BCS_304_ENDTERM",
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain the need of Framing. How it is done?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": null
+            }
+        ],
+        "papers": [
+            "BCS_304_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T01_S01",
+        "topic": "Introduction to compilers",
+        "subtopic": "Analysis of the source program",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U1_T06_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_b",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Differentiate between Syntax analysis and Sematic analysis.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U1_T03_S01",
+        "topic": "Compiler writing tools",
+        "subtopic": "Bootstrapping",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U1_T02_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_MIDTERM_Q1_b",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "With a neat diagram discuss about bootstrapping and its uses.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S01",
+        "topic": "Top-Down Parsing",
+        "subtopic": "Recursive Descent parsing",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_MIDTERM_Q1_d",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "What is parsing? Briefly discuss about different types of parsing techniques.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S02",
+        "topic": "Top-Down Parsing",
+        "subtopic": "Predictive parsing",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BCS306_U2_T01_S01",
+            "BCS306_U2_T01_S03"
+        ],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_c",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain Predictive parsing.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T01_S03",
+        "topic": "Top-Down Parsing",
+        "subtopic": "LL(1) Grammars",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_MIDTERM_Q1_c",
+                "paper_id": "BCS_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "What are the rules useful to find FIRST and FOLLOW, explain with suitable example.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U2_T02_S01",
+        "topic": "Bottom-Up Parsing",
+        "subtopic": "Shift Reduce parsing – Operator precedence parsing (Concepts only)",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_d",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Discuss about different actions possible in Shift Reduce parsing using suitable example.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U3_T02_S01",
+        "topic": "Type Checking",
+        "subtopic": "Type systems",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_e",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "What is a type system? Give two examples of static type checking.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T01_S01",
+        "topic": "Intermediate Code Generation (ICG)",
+        "subtopic": "Intermediate languages – Graphical representations",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_g",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain about Abstract Syntax Tree and Directed Acyclic Graph using suitable example.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS306_U4_T01_S02",
+        "topic": "Intermediate Code Generation (ICG)",
+        "subtopic": "Three Address code",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_306_ENDTERM_Q1_h",
+                "paper_id": "BCS_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Convert the following expression in to equivalent three address code. $(a+b*c)+d+(a+b*c)-d+e$",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S01",
+        "topic": "Design process",
+        "subtopic": "Human interaction with computers",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_d",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Explain the principle of \"direct manipulation\" in the context of graphical user interfaces.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U2_T01_S07",
+        "topic": "Design process",
+        "subtopic": "issues related to network, power, memory and UI responsiveness",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_c",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "What are the challenges present in display based Systems.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U3_T01_S12",
+        "topic": "Screen Designing (UI Design)",
+        "subtopic": "technological consideration in interface design",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_f",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "What are the common limitations of mobile and hand-held platforms in terms of user interface design?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BCS310_U4_T01_S05",
+        "topic": "Components",
+        "subtopic": "user problems",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BCS_310_ENDTERM_Q1_h",
+                "paper_id": "BCS_310_ENDTERM",
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "How does human interaction speed influence user interface design and usability?",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BCS_310_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T02_S05",
+        "topic": "Computing Paradigms",
+        "subtopic": "Fog computing",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q1_a",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "Explain how Fog Computing supports real-time data processing applications and how it differs from traditional cloud computing.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U1_T03_S01",
+        "topic": "Definitions and Characteristics",
+        "subtopic": "NIST definition and characteristics of cloud computing",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U1_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q1_b",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "According to NIST, what are the essential characteristics of cloud computing?",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U2_T01_S01",
+        "topic": "Virtualization",
+        "subtopic": "Virtualization concept",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q1_c",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Differentiate between resource virtualization and server virtualization using suitable real-world example.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "BIT304_U2_T02_S04",
+        "topic": "Storage Network Design",
+        "subtopic": "Cloud optimized storage",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "BIT304_U2_T01_S04"
+        ],
+        "questions": [
+            {
+                "question_id": "BIT_304_MIDTERM_Q1_d",
+                "paper_id": "BIT_304_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "How does cloud-optimized storage improve performance, scalability, and cost-efficiency in a cloud-based infrastructure?",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "BIT_304_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U1_T01_S03",
+        "topic": "Financial Management",
+        "subtopic": "Objectives of Financial Management",
+        "unit": 1,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_MIDTERM_Q1_b",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Explain the Goal of Financial Management.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U2_T01_S02",
+        "topic": "Capital Structure",
+        "subtopic": "Factors Determining Capital Structure",
+        "unit": 2,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "HMC306_U2_T01_S01"
+        ],
+        "questions": [
+            {
+                "question_id": "HMC_306_MIDTERM_Q1_d",
+                "paper_id": "HMC_306_MIDTERM",
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "Explain the factors affecting capital structure.",
+                "marks": 2.5,
+                "exam_type": "MIDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_MIDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U3_T01_S06",
+        "topic": "Capital Budgeting",
+        "subtopic": "Profitability Index",
+        "unit": 3,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 0,
+        "dependent_count": 1,
+        "prerequisites": [
+            "HMC306_U3_T01_S05"
+        ],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_f",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment. ABPresent Value of Cash Outflows7500068500Present Value of Cash Inflows8550074500",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    },
+    {
+        "topic_id": "HMC306_U4_T01_S02",
+        "topic": "Working Capital Management",
+        "subtopic": "Working Capital Estimation",
+        "unit": 4,
+        "question_count": 1,
+        "paper_count": 1,
+        "total_marks": 2.5,
+        "average_marks": 2.5,
+        "question_frequency_score": 5.0,
+        "paper_recurrence_score": 12.5,
+        "total_marks_score": 1.47,
+        "long_question_score": 0.0,
+        "importance_score": 18.97,
+        "priority": "LOW",
+        "ten_mark_questions": 0,
+        "five_mark_questions": 0,
+        "short_questions": 1,
+        "marks_distribution": {
+            "2.5": 1
+        },
+        "independent_count": 1,
+        "dependent_count": 0,
+        "prerequisites": [],
+        "questions": [
+            {
+                "question_id": "HMC_306_ENDTERM_Q1_h",
+                "paper_id": "HMC_306_ENDTERM",
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Explain the concept of gross and net working capital.",
+                "marks": 2.5,
+                "exam_type": "ENDTERM",
+                "semester": 6
+            }
+        ],
+        "papers": [
+            "HMC_306_ENDTERM"
+        ]
+    }
+]

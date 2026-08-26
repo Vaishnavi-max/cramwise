@@ -1,0 +1,501 @@
+{
+    "source_file": "HMC_306_ENDTERM_questions.json",
+    "question_count": 21,
+    "successful": 21,
+    "failed": 0,
+    "questions": [
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "a",
+                "text": "What do you understand by the rule 72? Explain with examples",
+                "marks": 2.5,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T03",
+                "topic": "Time value of money",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The rule of 72 is a shortcut for estimating the doubling period of an investment using the time value of money concept, making the Time value of money topic the best match."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "b",
+                "text": "Explain the term financial management?",
+                "marks": 2.5,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T01_S01",
+                "topic": "Financial Management",
+                "subtopic": "Definition",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for an explanation of the term financial management, which directly matches the syllabus entry on the definition of Financial Management."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "c",
+                "text": "Explain the concept of the Interest Tax Shield?",
+                "marks": 2.5,
+                "unit": 2,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U2_T02_S01",
+                "topic": "Cost of Capital",
+                "subtopic": "Concept",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The interest tax shield is a core element of the Cost of Capital concept, describing the tax benefit from debt financing, matching the syllabus subtopic 'Concept'."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "d",
+                "text": "What do you understand by the term Equity and how it is different from preference share?",
+                "marks": 2.5,
+                "unit": 2,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U2_T02_S03",
+                "topic": "Cost of Capital",
+                "subtopic": "Classification",
+                "is_independent": false,
+                "prerequisites": [
+                    "HMC306_U2_T02_S01"
+                ],
+                "evidence": "The question asks for the definition of equity and its difference from preference shares, which are types of capital classified under the Cost of Capital framework."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "e",
+                "text": "What do you understand by the term capital budgeting, and to which type of decision does it belong?",
+                "marks": 2.5,
+                "unit": 3,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U3_T01_S01",
+                "topic": "Capital Budgeting",
+                "subtopic": "Concept",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the definition of capital budgeting and its decision category, which directly matches the 'Concept' subtopic of Capital Budgeting."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "f",
+                "text": "You are given the present values of cash inflows and outflows for two projects (A and B). Calculate the Profitability Index (PI) for each project and determine which project is the most suitable for investment. ABPresent Value of Cash Outflows7500068500Present Value of Cash Inflows8550074500",
+                "marks": 2.5,
+                "unit": 3,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U3_T01_S06",
+                "topic": "Capital Budgeting",
+                "subtopic": "Profitability Index",
+                "is_independent": false,
+                "prerequisites": [
+                    "HMC306_U3_T01_S05"
+                ],
+                "evidence": "The question asks to compute the Profitability Index for two projects, directly matching the syllabus entry on Profitability Index."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "g",
+                "text": "Explain storage and ordering cost in inventory management",
+                "marks": 2.5,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T02_S01",
+                "topic": "Inventory Management",
+                "subtopic": "EOQ Problem",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for storage (holding) and ordering costs, which are the two key cost components used in the Economic Order Quantity (EOQ) model, directly matching the EOQ Problem subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 1,
+                "sub_question": "h",
+                "text": "Explain the concept of gross and net working capital.",
+                "marks": 2.5,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T01_S02",
+                "topic": "Working Capital Management",
+                "subtopic": "Working Capital Estimation",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for definitions of gross and net working capital, which are core concepts covered under the Working Capital Estimation subtopic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "a.",
+                "text": "Why is the time value of money important to consider? Explain it with proper examples",
+                "marks": 10,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T03",
+                "topic": "Time value of money",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks directly about the importance of the time value of money, which matches the syllabus record 'Time value of money'. Understanding other topics (e.g., definition or objectives of financial management) is helpful but not required to explain TVM, so the topic can be studied independently."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 2,
+                "sub_question": "b.",
+                "text": "Jaya retires at the age of 60 years receiving pension of 10000 a year paid in yearly installments. If he expects his life for another 15 years, what single sum is equivalent to her pension (Interest rate = 6% p.a.)",
+                "marks": 10,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T03",
+                "topic": "Time value of money",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the present value (single sum) of a series of yearly pension payments, requiring the use of annuity discounting formulas, which falls under the Time value of money topic."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "a.",
+                "text": "Define the scope of Financial Management. What role should the financial manager play in a modern enterprise?",
+                "marks": 10,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T01_S02",
+                "topic": "Financial Management",
+                "subtopic": "Scope",
+                "is_independent": false,
+                "prerequisites": [
+                    "HMC306_U1_T01_S01"
+                ],
+                "evidence": "The question asks to define the scope of Financial Management, directly matching the 'Scope' subtopic. Understanding the basic definition of Financial Management (HMC306_U1_T01_S01) is needed to grasp its scope."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 3,
+                "sub_question": "b.",
+                "text": "Explain the factors affecting time value of money?",
+                "marks": 10,
+                "unit": 1,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U1_T03",
+                "topic": "Time value of money",
+                "subtopic": null,
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for factors affecting time value of money, which directly matches the syllabus record HMC306_U1_T03 covering the topic Time value of money. No other syllabus topic is required as a prerequisite."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 4,
+                "sub_question": "a.",
+                "text": "What is meant by the term cost of capital? What are the main components involved in calculating it? Explain each component with suitable examples.",
+                "marks": 10,
+                "unit": 2,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U2_T02_S01",
+                "topic": "Cost of Capital",
+                "subtopic": "Concept",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks for the definition of cost of capital and its main components, which aligns directly with the syllabus entry covering the Concept of Cost of Capital."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 5,
+                "sub_question": null,
+                "text": "XYZ ltd has the following capital structureEquity Share Capital (5,000 Shares)30,00,0009% Preference Shares (100 Rs. Each)22,00,00012% Debentures28,00,000• The cost of Equity is 15%• The preference shares are issued at a floatation cost of 2% and discount at 3%. Calculate cost of preference shares if these shares are irredeemable.• Debentures are issued at premium of 5%. (1) • Tax rate is given @20%. 1. Compute the cost of capital for each source 2. Compute the Weighted Average Cost of Capital",
+                "marks": 10,
+                "unit": 2,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U2_T02_S03",
+                "topic": "Cost of Capital",
+                "subtopic": "Classification",
+                "is_independent": false,
+                "prerequisites": [
+                    "HMC306_U2_T02_S01"
+                ],
+                "evidence": "The question requires calculating the cost of equity, preference shares, debentures and the overall WACC, which directly aligns with the syllabus subtopic on Classification of Cost of Capital covering different sources of capital."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 6,
+                "sub_question": null,
+                "text": "ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows:YearMachine PMachine Q18,50,0005,85,00027,55,0003,83,00034,95,0007,50,00043,50,0006,50,00057,44,0004,38,00064,50,0006,80,000The company has target return on capital from Machine X and Y are 12%On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable",
+                "marks": 10,
+                "unit": 3,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U3_T01_S05",
+                "topic": "Capital Budgeting",
+                "subtopic": "Net Present Value Method (NPV)",
+                "is_independent": false,
+                "prerequisites": [
+                    "HMC306_U3_T01_S01"
+                ],
+                "evidence": "The question asks to compute the NPV of two machines and compare their profitability, directly testing the NPV method."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 7,
+                "sub_question": null,
+                "text": "Write Short Notes with suitable examples on• Net Present Value• Internal Rate of Return• Profitability Index• Payback Period",
+                "marks": 10,
+                "unit": 3,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U3_T01_S01",
+                "topic": "Capital Budgeting",
+                "subtopic": "Concept",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question requires short notes on NPV, IRR, Profitability Index and Payback Period, which are the fundamental techniques covered under the overall concept of Capital Budgeting."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 8,
+                "sub_question": "a.",
+                "text": "Explain ABC analysis model of Inventory Management with suitable examples",
+                "marks": 10,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T02_S01",
+                "topic": "Inventory Management",
+                "subtopic": "EOQ Problem",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "ABC analysis is a key inventory management technique; the only inventory-management syllabus entry available is the EOQ Problem, making it the closest match."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 8,
+                "sub_question": "b.",
+                "text": "What is the operating cycle? Explain its concept and the method of calculation.",
+                "marks": 10,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T01_S01",
+                "topic": "Working Capital Management",
+                "subtopic": "Operating cycle",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question directly asks for the definition, concept, and calculation of the operating cycle, which aligns exactly with the syllabus entry on Operating cycle under Working Capital Management."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 9,
+                "sub_question": "a.",
+                "text": "ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost.",
+                "marks": 10,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T02_S01",
+                "topic": "Inventory Management",
+                "subtopic": "EOQ Problem",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question supplies annual demand, ordering cost, unit cost and carrying cost percentage, which are the exact inputs needed to solve an Economic Order Quantity (EOQ) problem."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 9,
+                "sub_question": "b.",
+                "text": "Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ level.",
+                "marks": 10,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T02_S01",
+                "topic": "Inventory Management",
+                "subtopic": "EOQ Problem",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question asks to compute EOQ and its total cost, which directly matches the EOQ Problem subtopic in Inventory Management."
+            }
+        },
+        {
+            "question": {
+                "paper_id": "HMC_306_ENDTERM",
+                "subject": "Financial Management",
+                "subject_code": "HMC 306",
+                "exam_type": "ENDTERM",
+                "semester": 6,
+                "question_number": 9,
+                "sub_question": "c.",
+                "text": "Calculate the Total Cost if the order sizes are:i. 100 unitsii. 600 unitsiii. 3000 units Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective",
+                "marks": 10,
+                "unit": 4,
+                "co": null
+            },
+            "analysis": {
+                "topic_id": "HMC306_U4_T02_S01",
+                "topic": "Inventory Management",
+                "subtopic": "EOQ Problem",
+                "is_independent": true,
+                "prerequisites": [],
+                "evidence": "The question requires calculating total cost for different order quantities, comparing them with the Economic Order Quantity (EOQ) and evaluating the most cost‑effective ordering policy, which directly matches the EOQ Problem subtopic."
+            }
+        }
+    ]
+}

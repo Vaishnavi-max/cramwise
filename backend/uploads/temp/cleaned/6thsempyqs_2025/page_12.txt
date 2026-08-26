@@ -1,0 +1,27 @@
+(1)
+
+ • Tax rate is given @20%.
+
+ 1. Compute the cost of capital for each source
+
+ 2. Compute the Weighted Average Cost of Capital
+
+ UNIT III
+
+ Q6
+ ABC Ltd. is evaluating two alternatives Machine X and Machine Y. The initial costs of Machine P and Machine Q are ₹25,00,000 and ₹22,50,000, respectively. The expected net cash flows for both machines over their useful lives are as follows:YearMachine PMachine Q18,50,0005,85,00027,55,0003,83,00034,95,0007,50,00043,50,0006,50,00057,44,0004,38,00064,50,0006,80,000The company has target return on capital from Machine X and Y are 12%On the basis above information you are required to calculate the Net Present Value of both the machines and compare the profitability of the machines and state which alternative you consider to be financially preferable
+ (10)
+
+ Q7
+ Write Short Notes with suitable examples on• Net Present Value• Internal Rate of Return• Profitability Index• Payback Period
+ (10)
+
+ UNIT IV
+
+ Q8
+ A. Explain ABC analysis model of Inventory Management with suitable examplesB. What is the operating cycle? Explain its concept and the method of calculation.
+ (5)(5)
+
+ Q9
+ ABC Hospital Supplies Pvt. Ltd. purchases 9,000 units of surgical gloves annually, ordering one month’s requirement at a time. Each pair of gloves costs ₹20. The ordering cost per order is ₹15, and the carrying cost is 15% of the unit cost.A. Calculate the Economic Order Quantity (EOQ) and the Total Cost at the EOQ level.B. Calculate the Total Cost if the order sizes are:i. 100 unitsii. 600 unitsiii. 3000 unitsC. Compare each of the above order sizes with the EOQ and comment on which ordering policy is the most cost-effective
+ (10)

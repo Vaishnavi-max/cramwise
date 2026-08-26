@@ -1,0 +1,1812 @@
+[
+    {
+        "course_name": "Wireless Networks",
+        "course_code": "BCS 302",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Wireless networks and Ad‑hoc networks",
+                        "subtopics": [
+                            "definition",
+                            "characteristics features",
+                            "applications"
+                        ]
+                    },
+                    {
+                        "topic": "Wireless channel characteristics",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Ad‑hoc mobility models",
+                        "subtopics": [
+                            "Indoor models",
+                            "Outdoor models"
+                        ]
+                    },
+                    {
+                        "topic": "MAC protocols",
+                        "subtopics": [
+                            "design issues",
+                            "goals and classification"
+                        ]
+                    },
+                    {
+                        "topic": "Contention based protocols",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "IEEE standards",
+                        "subtopics": [
+                            "802.11",
+                            "802.15"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Network Protocols",
+                        "subtopics": [
+                            "Routing Protocols: Design issues",
+                            "Proactive Vs reactive routing protocols",
+                            "Unicast routing protocols",
+                            "Multicast routing protocols",
+                            "Hybrid routing protocols",
+                            "Energy aware routing protocols",
+                            "Hierarchical Routing protocols"
+                        ]
+                    },
+                    {
+                        "topic": "Transport Layer",
+                        "subtopics": [
+                            "Issues in designing Transport Layer",
+                            "Transport layer classification",
+                            "Ad- hoc transport protocols"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Wireless Mesh Networks",
+                        "subtopics": [
+                            "Necessity for Mesh Networks",
+                            "MAC enhancements",
+                            "IEEE 802.11s Architecture",
+                            "Opportunistic Routing",
+                            "Heterogeneous Mesh Networks",
+                            "Vehicular Mesh Networks"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Wireless Sensor Networks: Introduction",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Sensor Network architecture",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Data Dissemination",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Data Gathering",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Location discovery",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Quality of Sensor Networks",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Sensor Network Platforms and Tools",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Energy Efficient Approaches",
+                        "subtopics": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Microprocessor and Interfacing",
+        "course_code": "BCS 304",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction and architecture",
+                        "subtopics": [
+                            "Introduction to microprocessors",
+                            "Classification",
+                            "Basic architecture and its applications",
+                            "History of microprocessors",
+                            "Brief Introduction to 8085 Microprocessor",
+                            "8086 architecture",
+                            "BIU and EU",
+                            "Register Organization",
+                            "Pin diagram",
+                            "Memory Segmentation"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Instruction set of 8086",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Instruction execution time",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Timing Diagram",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Fetch cycle",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Execution cycle",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Instruction format",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Addressing modes",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Instruction Types",
+                        "subtopics": [
+                            "data transfer instruction",
+                            "arithmetic instructions",
+                            "branch instruction",
+                            "NOP & HLT instructions",
+                            "flag manipulation instruction",
+                            "logical instruction",
+                            "shift and rotate instruction",
+                            "String instructions"
+                        ]
+                    },
+                    {
+                        "topic": "Assembler directions and operators",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Multiprogramming and system architecture",
+                        "subtopics": [
+                            "System Bus Structure",
+                            "Multiprocessor configurations",
+                            "Coprocessor",
+                            "Closely coupled and loosely Coupled configurations"
+                        ]
+                    },
+                    {
+                        "topic": "Advanced processors",
+                        "subtopics": [
+                            "Introduction to advanced processors",
+                            "80186",
+                            "80286",
+                            "80386"
+                        ]
+                    },
+                    {
+                        "topic": "Memory interfacing to 8086",
+                        "subtopics": [
+                            "Interfacing: Memory interfacing to 8086"
+                        ]
+                    },
+                    {
+                        "topic": "Interrupt architecture of 8086",
+                        "subtopics": [
+                            "Interrupt structure of 8086",
+                            "Vector interrupt table",
+                            "Interrupt service routine"
+                        ]
+                    },
+                    {
+                        "topic": "Interrupt controller interfacing",
+                        "subtopics": [
+                            "Interfacing Interrupt Controller 8259"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "I/O Interface",
+                        "subtopics": [
+                            "8255 PPI",
+                            "various modes of operation",
+                            "interfacing to 8086"
+                        ]
+                    },
+                    {
+                        "topic": "Communication Interface",
+                        "subtopics": [
+                            "Serial data transfer schemes",
+                            "8251 USART architecture and interfacing"
+                        ]
+                    },
+                    {
+                        "topic": "DMA",
+                        "subtopics": [
+                            "Interfacing DMA Controller 8257 to 8086"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Compiler Design",
+        "course_code": "BCS 306",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction to compilers",
+                        "subtopics": [
+                            "Analysis of the source program"
+                        ]
+                    },
+                    {
+                        "topic": "Phases of a compiler",
+                        "subtopics": [
+                            "Grouping of phases"
+                        ]
+                    },
+                    {
+                        "topic": "Compiler writing tools",
+                        "subtopics": [
+                            "Bootstrapping"
+                        ]
+                    },
+                    {
+                        "topic": "Case study: MiniC",
+                        "subtopics": [
+                            "A small subset of C language"
+                        ]
+                    },
+                    {
+                        "topic": "Lexical Analysis",
+                        "subtopics": [
+                            "Role of Lexical Analyzer",
+                            "Input Buffering",
+                            "Specification of Tokens using Regular Expressions",
+                            "Review of Finite Automata",
+                            "Recognition of Tokens",
+                            "Case study: Lexical Analysis for MiniC"
+                        ]
+                    },
+                    {
+                        "topic": "Syntax Analysis",
+                        "subtopics": [
+                            "Review of Context-Free Grammars – Derivation trees and Parse Trees",
+                            "Ambiguity"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Top-Down Parsing",
+                        "subtopics": [
+                            "Recursive Descent parsing",
+                            "Predictive parsing",
+                            "LL(1) Grammars"
+                        ]
+                    },
+                    {
+                        "topic": "Bottom-Up Parsing",
+                        "subtopics": [
+                            "Shift Reduce parsing – Operator precedence parsing (Concepts only)",
+                            "LR parsing – Constructing SLR parsing tables",
+                            "Constructing Canonical LR parsing tables",
+                            "Constructing LALR parsing tables"
+                        ]
+                    },
+                    {
+                        "topic": "Case study",
+                        "subtopics": [
+                            "Syntax analysis for MiniC"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Syntax directed translation",
+                        "subtopics": [
+                            "Syntax directed definitions",
+                            "Bottom-up evaluation of S-attributed definitions",
+                            "L-attributed definitions",
+                            "Top-down translation",
+                            "Bottom-up evaluation of inherited attributes"
+                        ]
+                    },
+                    {
+                        "topic": "Type Checking",
+                        "subtopics": [
+                            "Type systems",
+                            "Specification of a simple type checker"
+                        ]
+                    },
+                    {
+                        "topic": "Run-Time Environments",
+                        "subtopics": [
+                            "Source Language issues",
+                            "Storage organization",
+                            "Storage allocation strategies"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Intermediate Code Generation (ICG)",
+                        "subtopics": [
+                            "Intermediate languages – Graphical representations",
+                            "Three Address code",
+                            "Quadruples",
+                            "Triples",
+                            "Assignment statements",
+                            "Boolean expressions"
+                        ]
+                    },
+                    {
+                        "topic": "Code Optimization",
+                        "subtopics": [
+                            "Principal sources of optimization",
+                            "Optimization of Basic blocks"
+                        ]
+                    },
+                    {
+                        "topic": "Code generation",
+                        "subtopics": [
+                            "Issues in the design of a code generator",
+                            "A simple code generator"
+                        ]
+                    },
+                    {
+                        "topic": "Case study",
+                        "subtopics": [
+                            "MiniC Code Generator for the MiniC Architecture"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Multimedia Technologies",
+        "course_code": "BCS 308",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Multimedia objects and components",
+                        "subtopics": [
+                            "Text",
+                            "Graphics",
+                            "Sound",
+                            "Video",
+                            "Images",
+                            "Internet and web",
+                            "World Wide Web",
+                            "HTML",
+                            "XML",
+                            "Angular JS",
+                            "CSS"
+                        ]
+                    },
+                    {
+                        "topic": "Hardware and software requirements",
+                        "subtopics": [
+                            "Multimedia software tools",
+                            "Hardware"
+                        ]
+                    },
+                    {
+                        "topic": "Non‑Temporal and Temporal Media",
+                        "subtopics": [
+                            "Basic Characteristics of Non‑Temporal Media"
+                        ]
+                    },
+                    {
+                        "topic": "Hypertext and Hypermedia",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Presentation features",
+                        "subtopics": [
+                            "Synchronization",
+                            "Events",
+                            "Scripts and Interactivity"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Data representation",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Compression concepts",
+                        "subtopics": [
+                            "Basic concepts of Compression",
+                            "Basic compression techniques",
+                            "Video audio data compression techniques",
+                            "Image format",
+                            "Huffman coding",
+                            "Shannon Fano algorithm",
+                            "Huffman algorithms",
+                            "Adaptive coding",
+                            "Arithmetic coding",
+                            "Higher order modeling",
+                            "Finite context modeling",
+                            "Dictionary based compression",
+                            "Sliding window compression",
+                            "LZ77",
+                            "LZW compression",
+                            "Compression ratio",
+                            "Lossless and lossy compression"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Multimedia PC/Workstation Architecture",
+                        "subtopics": [
+                            "Introduction to Multimedia PC/Workstation Architecture"
+                        ]
+                    },
+                    {
+                        "topic": "MMX instruction set",
+                        "subtopics": [
+                            "Characteristics of MMX instruction set"
+                        ]
+                    },
+                    {
+                        "topic": "I/O systems",
+                        "subtopics": [
+                            "Overview of USB port and IEEE 1394 interface"
+                        ]
+                    },
+                    {
+                        "topic": "Operating System Support for Multimedia",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Multimedia Database Design",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Content Based Information Retrieval",
+                        "subtopics": [
+                            "Text Retrieval",
+                            "Image Retrieval",
+                            "Video Retrieval"
+                        ]
+                    },
+                    {
+                        "topic": "MPEG-7",
+                        "subtopics": [
+                            "Overview of MPEG-7"
+                        ]
+                    },
+                    {
+                        "topic": "Video-on-Demand Systems",
+                        "subtopics": [
+                            "design of video-on-Demand Systems"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Speech",
+                        "subtopics": [
+                            "digital audio concepts",
+                            "sampling variables",
+                            "loss",
+                            "loss less and silence compression"
+                        ]
+                    },
+                    {
+                        "topic": "Images",
+                        "subtopics": [
+                            "multiple monitors",
+                            "bitmaps",
+                            "vector drawing",
+                            "lossy graphic compression",
+                            "JPEG compression",
+                            "Zigzag coding"
+                        ]
+                    },
+                    {
+                        "topic": "Multimedia network and QoS support",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Multimedia wireless networks",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Heterogeneous network",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Multimedia applications",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Latest trends in multimedia",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Case study related to multimedia technologies",
+                        "subtopics": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Human Computer Interaction",
+        "course_code": "BCS 310",
+        "semester": "5",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction",
+                        "subtopics": [
+                            "Importance of user interface",
+                            "Definition",
+                            "Importance of good design",
+                            "Benefits of good design",
+                            "A brief history on screen design"
+                        ]
+                    },
+                    {
+                        "topic": "Graphical User Interface",
+                        "subtopics": [
+                            "Popularity of Graphics",
+                            "Concept of direct manipulation",
+                            "Graphical system",
+                            "Characteristics",
+                            "Web user interface popularity",
+                            "Characteristics‑principles of user interface"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Design process",
+                        "subtopics": [
+                            "Human interaction with computers",
+                            "importance of human characteristics",
+                            "human considerations",
+                            "human interaction speeds",
+                            "understanding business junctions",
+                            "Limitations and constraints of mobile and hand-held platforms",
+                            "issues related to network, power, memory and UI responsiveness",
+                            "reference to other computing platforms"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Screen Designing (UI Design)",
+                        "subtopics": [
+                            "design goals",
+                            "screen planning and purpose",
+                            "organizing screen elements",
+                            "ordering of screen data and content",
+                            "screen navigation and flow",
+                            "visually pleasing composition",
+                            "amount of information",
+                            "focus and emphasis",
+                            "presenting information simply and meaningfully",
+                            "information retrieval on web",
+                            "statistical graphics",
+                            "technological consideration in interface design"
+                        ]
+                    },
+                    {
+                        "topic": "Windows",
+                        "subtopics": [
+                            "navigation schemes selection of window",
+                            "selection of devices based and screen-based controls"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Components",
+                        "subtopics": [
+                            "text and messages",
+                            "Icons and increases",
+                            "multimedia",
+                            "colors",
+                            "user problems"
+                        ]
+                    },
+                    {
+                        "topic": "Software tools",
+                        "subtopics": [
+                            "Specification methods interface",
+                            "building tools"
+                        ]
+                    },
+                    {
+                        "topic": "Interacting Devices",
+                        "subtopics": [
+                            "Keyboard and function keys",
+                            "touch screen technology",
+                            "pointing devices",
+                            "speech recognition digitization and generation",
+                            "image and video displays (LED,LCD,HD displays)",
+                            "voice activated commands and its implementation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Advanced Computer Architecture",
+        "course_code": "BCS 312",
+        "semester": "5",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Concept of Computer Architecture",
+                        "subtopics": [
+                            "Interpretation of concept of computer architecture at different level abstraction",
+                            "Multi-level hierarchical framework",
+                            "Description of computer architecture"
+                        ]
+                    },
+                    {
+                        "topic": "Introduction to Parallel Processing",
+                        "subtopics": [
+                            "Basic concept",
+                            "Types of level of parallelism",
+                            "Classification of parallel architecture",
+                            "Basic parallel techniques",
+                            "Relationship between language and parallel architecture"
+                        ]
+                    },
+                    {
+                        "topic": "Principles of Scalable Performance",
+                        "subtopics": [
+                            "Performance Metrics and Measures",
+                            "Speedup Performance Law",
+                            "Scalability Analysis & approaches"
+                        ]
+                    },
+                    {
+                        "topic": "Processor and Memory Hierarchy",
+                        "subtopics": [
+                            "Design Space of Processor",
+                            "ISA",
+                            "CISC & RISC",
+                            "Memory Hierarchy Technology",
+                            "Virtual Memory Technology"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Instruction Level Parallel Processor (Parallelism)",
+                        "subtopics": [
+                            "Basics",
+                            "Exploiting ILP",
+                            "Limits on ILP",
+                            "design space of pipelines",
+                            "performance of pipeline",
+                            "reservation table"
+                        ]
+                    },
+                    {
+                        "topic": "Pipelined Processors",
+                        "subtopics": [
+                            "Basic concept",
+                            "DLX Case Study"
+                        ]
+                    },
+                    {
+                        "topic": "VLIW architecture",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Superscalar Processor",
+                        "subtopics": [
+                            "Super Scalar and super-pipeline Design",
+                            "A case study of ARM 64-bit processor"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "SIMD Architecture",
+                        "subtopics": [
+                            "Design space",
+                            "Fine grain SIMD architecture",
+                            "Coarse grain SIMD architecture",
+                            "Associative and Neural Architecture",
+                            "Systolic Architecture",
+                            "Vector Architectures: Wordlength",
+                            "Vector Architectures: vectorization",
+                            "Vector Architectures: pipelining",
+                            "Vector Architectures: vector instruction format"
+                        ]
+                    },
+                    {
+                        "topic": "Thread and Process Level Parallel Architecture (MIMD Architecture)",
+                        "subtopics": [
+                            "Multi-threaded Architecture: Design space",
+                            "Multi-threaded Architecture: computational model",
+                            "Multi-threaded Architecture: Data flow architecture",
+                            "Multi-threaded Architecture: hybrid multi shared architecture",
+                            "Distributed memory MIMD Architecture: Design space",
+                            "Distributed memory MIMD Architecture: interconnection networks",
+                            "Distributed memory MIMD Architecture: topology",
+                            "Distributed memory MIMD Architecture: fine grain system",
+                            "Distributed memory MIMD Architecture: medium grain system",
+                            "Distributed memory MIMD Architecture: coarse grain system",
+                            "Distributed memory MIMD Architecture: Cache Coherence and synchronisation Mechanism",
+                            "Shared memory MIMD Architecture"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Parallel Algorithm and Programming",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "MPI",
+                        "subtopics": [
+                            "Basics of MPI"
+                        ]
+                    },
+                    {
+                        "topic": "OpenMP",
+                        "subtopics": [
+                            "Open MP Implementation in ‘C’",
+                            "Conditional Compilation",
+                            "Internal Control Variables",
+                            "Parallel Construct",
+                            "Work Sharing Constructs",
+                            "Combined Parallel Work-Sharing constructs",
+                            "Master and Synchronisation Constructs"
+                        ]
+                    },
+                    {
+                        "topic": "POSIX Threads",
+                        "subtopics": [
+                            "Creating and Exiting Threads",
+                            "Simultaneous Execution of threads"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Cloud Computing",
+        "course_code": "BIT 304",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction to Cloud Computing",
+                        "subtopics": [
+                            "Introduction of cloud computing",
+                            "History of cloud computing",
+                            "Trends in computing"
+                        ]
+                    },
+                    {
+                        "topic": "Computing Paradigms",
+                        "subtopics": [
+                            "Grid computing",
+                            "Cluster computing",
+                            "Distributed computing",
+                            "Utility computing",
+                            "Fog computing"
+                        ]
+                    },
+                    {
+                        "topic": "Definitions and Characteristics",
+                        "subtopics": [
+                            "NIST definition and characteristics of cloud computing"
+                        ]
+                    },
+                    {
+                        "topic": "Cloud as Green and Smart",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Cloud Service Models",
+                        "subtopics": [
+                            "Cloud as IaaS",
+                            "PaaS",
+                            "SaaS",
+                            "BPaaS and HaaS"
+                        ]
+                    },
+                    {
+                        "topic": "SPI Framework",
+                        "subtopics": [
+                            "SPI framework",
+                            "SPI vs. traditional IT Model"
+                        ]
+                    },
+                    {
+                        "topic": "Cloud Deployment Models",
+                        "subtopics": [
+                            "Cloud deployment models"
+                        ]
+                    },
+                    {
+                        "topic": "Benefits and Challenges",
+                        "subtopics": [
+                            "Benefits and challenges"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Virtualization",
+                        "subtopics": [
+                            "Virtualization concept",
+                            "Resource virtualization",
+                            "Server virtualization",
+                            "Storage virtualization",
+                            "Network virtualization"
+                        ]
+                    },
+                    {
+                        "topic": "Storage Network Design",
+                        "subtopics": [
+                            "Architecture of storage",
+                            "Analysis and planning",
+                            "Storage models",
+                            "Cloud optimized storage"
+                        ]
+                    },
+                    {
+                        "topic": "Virtualization platforms",
+                        "subtopics": [
+                            "Virtual Box",
+                            "Microsoft Hyper-V"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Cloud Security",
+                        "subtopics": [
+                            "Web services",
+                            "Web 2.0",
+                            "Web OS",
+                            "Security challenges and preventive measures",
+                            "Infrastructure layer, Network layer and Application layer of cloud computing architecture",
+                            "Security models in cloud",
+                            "Resource management in cloud computing",
+                            "Static and dynamic load balancing in cloud computing",
+                            "Identity access management and Trust in cloud computing",
+                            "Thin client"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Cloud providers",
+                        "subtopics": [
+                            "Amazon EC2",
+                            "Amazon EC service level agreement and recent developments",
+                            "GoGrid",
+                            "Salesforce.com",
+                            "Force.com",
+                            "Google App Engine",
+                            "Rackspace",
+                            "Government of India Cloud",
+                            "IBM cloud",
+                            "Eucalyptus cloud"
+                        ]
+                    },
+                    {
+                        "topic": "Analysis of Case Studies when deciding to adopt cloud computing architecture",
+                        "subtopics": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Internet of Things",
+        "course_code": "BIT 310",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction",
+                        "subtopics": [
+                            "Definition",
+                            "Functional requirements",
+                            "Characteristics",
+                            "Foundations",
+                            "architectures",
+                            "challenges and issues",
+                            "Physical design of IoT",
+                            "Logical design of IoT",
+                            "Web 3.0 of IoT",
+                            "IoT World Forum (IoTWF) and Alternative IoT models",
+                            "IoT Communication Models",
+                            "IoT in Global Context",
+                            "Real world scenarios",
+                            "Different Areas",
+                            "Examples Trends in the Adaption of the IoT (Cloud Computing, Big Data Analytics, Concepts of Web of Things, Concept of Cloud of Things with emphasis on Mobile Cloud Computing, Smart Objects)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Components in IoT",
+                        "subtopics": [
+                            "Control Units",
+                            "Sensors",
+                            "Communication modules",
+                            "Power Sources",
+                            "Communication Technologies",
+                            "RFID",
+                            "Bluetooth",
+                            "Zigbee",
+                            "Wi-fi",
+                            "RF links",
+                            "Mobile Internet",
+                            "Wired Communication"
+                        ]
+                    },
+                    {
+                        "topic": "IoT Protocol and Technology",
+                        "subtopics": [
+                            "RFID",
+                            "NFC",
+                            "Wireless Networks",
+                            "WSN",
+                            "RTLS",
+                            "GPS",
+                            "Agents",
+                            "Multi – Agent Systems",
+                            "M2M",
+                            "BacNet",
+                            "ModBus",
+                            "Bluetooth",
+                            "Wi- Fi",
+                            "ZigBee"
+                        ]
+                    },
+                    {
+                        "topic": "Web of Things (WoT)",
+                        "subtopics": [
+                            "WoT vs. IoT",
+                            "Architecture"
+                        ]
+                    },
+                    {
+                        "topic": "Cloud of Things (CoT)",
+                        "subtopics": [
+                            "Grid/SOA and Cloud Computing",
+                            "Standards",
+                            "Cloud Providers and Systems",
+                            "Architecture"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Data Analytics for IoT: Introduction",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Machine Learning",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Big Data Analytics Tools and Technology",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Apache Hadoop",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Using Hadoop MapReduce for Batch Data Analysis",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Apache Oozie",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Apache Spark",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Apache Storm",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Apache Kafka",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Edge Streaming Analytics and Network Analytics",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Xively Cloud for IoT",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Using Apache Storm for Real-time Data Analysis",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Structural Health Monitoring Case Study",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Tools for IoT",
+                        "subtopics": [
+                            "Chef",
+                            "Chef Case Studies",
+                            "Puppet",
+                            "Puppet Case Study – Multi-tier Deployment",
+                            "NETCONF-YANG Case Studies",
+                            "IoT Code Generator"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Domain specific applications of IoT",
+                        "subtopics": [
+                            "Home automation",
+                            "Industry applications",
+                            "Surveillance applications",
+                            "Smart Homes",
+                            "Ambient Assisted Living",
+                            "Intelligent Transport"
+                        ]
+                    },
+                    {
+                        "topic": "Other IoT application: Use-Case Examples",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Developing IoT solutions",
+                        "subtopics": [
+                            "Introduction to Python",
+                            "Introduction to different IoT tools",
+                            "Introduction to Arduino and Raspberry Pi",
+                            "Implementation of IoT with Arduino and Raspberry",
+                            "Cloud Computing",
+                            "Fog Computing",
+                            "Connected Vehicles",
+                            "Data Aggregation for the IoT in Smart Cities",
+                            "Privacy and Security Issues in IoT"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Computer Graphics",
+        "course_code": "BCS 314",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction to computer graphics",
+                        "subtopics": [
+                            "Introduction",
+                            "Application of computer graphics"
+                        ]
+                    },
+                    {
+                        "topic": "Video Display Devices",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Raster Scan Systems",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Random Scan Systems",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Graphics Monitors and Work Stations",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Input Devices",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Hard Copy Devices",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Graphics Software",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Colour Models",
+                        "subtopics": [
+                            "RGB",
+                            "HSV"
+                        ]
+                    },
+                    {
+                        "topic": "Output primitives",
+                        "subtopics": [
+                            "DDA Line drawing algorithm",
+                            "Bresenham’s Line Drawing Algorithm",
+                            "Mid-point circle algorithm",
+                            "Mid-point Ellipse algorithms",
+                            "Filling algorithms",
+                            "Boundary fill and flood fill algorithms",
+                            "Scanline filling"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Basic 2D Transformations",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Matrix representations & Homogeneous Coordinates",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Matrix Representations for basic 2D and 3D transformations",
+                        "subtopics": [
+                            "Translation",
+                            "Scaling",
+                            "Rotation"
+                        ]
+                    },
+                    {
+                        "topic": "Composite Transformations",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Reflection and shear transformations",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Affine transformation",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Transformations between coordinate systems",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Two-dimensional viewing",
+                        "subtopics": [
+                            "The viewing Pipeline",
+                            "Window to view port coordinate transformation"
+                        ]
+                    },
+                    {
+                        "topic": "Clipping Operations",
+                        "subtopics": [
+                            "Point Clipping",
+                            "Line Clipping (Cohen Sutherland and Liang-Barsky)",
+                            "Polygon Clipping",
+                            "Sutherland-Hodgeman polygon clipping",
+                            "Wailer-Atherton polygon clipping",
+                            "curve clipping",
+                            "Text clipping"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Representation of surfaces",
+                        "subtopics": [
+                            "polygon meshes",
+                            "plane equations"
+                        ]
+                    },
+                    {
+                        "topic": "Curves",
+                        "subtopics": [
+                            "parametric cubic curves",
+                            "Hermite Curves",
+                            "Bezier Curves",
+                            "4 point and 5 point Bezier curves using Bernstein Polynomials",
+                            "Conditions for smoothly joining curve segments",
+                            "Bezier bi-cubic surface patch",
+                            "B- Spline Curves",
+                            "Cubic B-Spline curves using uniform knot vectors",
+                            "Testing for first and second order continuities"
+                        ]
+                    },
+                    {
+                        "topic": "Visible surface detection",
+                        "subtopics": [
+                            "Back Face Detection",
+                            "Depth Buffer (Z-Buffer, A-Buffer) Method",
+                            "Scan Line Method",
+                            "Depth Sorting Method",
+                            "Area Subdivision Method"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Three-Dimensional Concepts",
+                        "subtopics": [
+                            "3D Transformations",
+                            "Parallel Projection",
+                            "Perspective Projection"
+                        ]
+                    },
+                    {
+                        "topic": "Shading and Illumination Model",
+                        "subtopics": [
+                            "Shading",
+                            "Illumination Model for diffused Reflection",
+                            "Ambient light",
+                            "Specular Reflection Model",
+                            "Reflection Vector"
+                        ]
+                    },
+                    {
+                        "topic": "Shading Models",
+                        "subtopics": [
+                            "Flat shading",
+                            "Gourard Shading",
+                            "Phong Model"
+                        ]
+                    },
+                    {
+                        "topic": "Case studies",
+                        "subtopics": [
+                            "Design case studies to perform 2D representations of lines and curves",
+                            "perform 2D and 3D transformations on different objects"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Principles of Management",
+        "course_code": "HMC 302",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Concept, Nature, Process and Significance of Management",
+                        "subtopics": [
+                            "Concept of Management",
+                            "Nature of Management",
+                            "Process of Management",
+                            "Significance of Management"
+                        ]
+                    },
+                    {
+                        "topic": "Managerial levels",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Development of Management Thought",
+                        "subtopics": [
+                            "Classical",
+                            "Neo-Classical",
+                            "Behavioral",
+                            "Systems",
+                            "Contingency Approaches"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Planning",
+                        "subtopics": [
+                            "Nature, Scope and Objectives of Planning",
+                            "Types of plans",
+                            "Planning Process"
+                        ]
+                    },
+                    {
+                        "topic": "Organizing",
+                        "subtopics": [
+                            "Nature, Process and Significance"
+                        ]
+                    },
+                    {
+                        "topic": "Principles of an Organization",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Span of Control",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Types of an Organization",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Staffing",
+                        "subtopics": [
+                            "Concept",
+                            "Nature and Importance of Staffing"
+                        ]
+                    },
+                    {
+                        "topic": "Motivation",
+                        "subtopics": [
+                            "Nature and Importance of Motivation",
+                            "Types of Motivation"
+                        ]
+                    },
+                    {
+                        "topic": "Leadership",
+                        "subtopics": [
+                            "Meaning and Importance",
+                            "Traits of a leader"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Nature and Scope of Control",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Types of Control",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Control Process",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Control Techniques – Traditional and Modern",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Effective Control System",
+                        "subtopics": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Marketing Management",
+        "course_code": "HMC 304",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction to Marketing",
+                        "subtopics": [
+                            "Nature, Scope and Importance of Marketing",
+                            "Basic concepts",
+                            "Marketing Environment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Product Levels",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Product Mix",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Product Strategy",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Product Development",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Product Lifecycle",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Product Mix Pricing Decisions",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Place",
+                        "subtopics": [
+                            "Meaning & importance",
+                            "Types of Channels",
+                            "Channels Strategies",
+                            "Designing and Managing Marketing Channel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Promotion Mix",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Push vs. Pull Strategy",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Promotional Objectives",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Advertising",
+                        "subtopics": [
+                            "Meaning and Importance",
+                            "Types",
+                            "Media Decisions"
+                        ]
+                    },
+                    {
+                        "topic": "Personal Selling",
+                        "subtopics": [
+                            "Nature",
+                            "Importance and Process"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Financial Management",
+        "course_code": "HMC 306",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Financial Management",
+                        "subtopics": [
+                            "Definition",
+                            "Scope",
+                            "Objectives of Financial Management"
+                        ]
+                    },
+                    {
+                        "topic": "Functions of a finance manager",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Time value of money",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Sources of Finance for different Organizations",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Capital Structure",
+                        "subtopics": [
+                            "Meaning of Capital Structure",
+                            "Factors Determining Capital Structure"
+                        ]
+                    },
+                    {
+                        "topic": "Cost of Capital",
+                        "subtopics": [
+                            "Concept",
+                            "Importance",
+                            "Classification"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Capital Budgeting",
+                        "subtopics": [
+                            "Concept",
+                            "Importance",
+                            "Pay Back Period",
+                            "Accounting Rate of Return",
+                            "Net Present Value Method (NPV)",
+                            "Profitability Index",
+                            "IRR"
+                        ]
+                    },
+                    {
+                        "topic": "Capital Rationing",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Working Capital Management",
+                        "subtopics": [
+                            "Operating cycle",
+                            "Working Capital Estimation"
+                        ]
+                    },
+                    {
+                        "topic": "Inventory Management",
+                        "subtopics": [
+                            "EOQ Problem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course_name": "Human Resource Management",
+        "course_code": "HMC 308",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "topics": [
+                    {
+                        "topic": "Introduction to Concept and Functions of HRM",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Role, Status and Competencies of HR Manager",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "HR Policies",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Evolution of HRM",
+                        "subtopics": []
+                    },
+                    {
+                        "topic": "Emerging Challenges of Human Resource Management",
+                        "subtopics": []
+                    }
+                ]
+            },
+            {
+                "unit_number": 2,
+                "topics": [
+                    {
+                        "topic": "Human Resource Planning",
+                        "subtopics": [
+                            "Quantitative and Qualitative dimensions"
+                        ]
+                    },
+                    {
+                        "topic": "Recruitment",
+                        "subtopics": [
+                            "Concept and sources",
+                            "E-recruitment, recruitment process outsourcing etc."
+                        ]
+                    },
+                    {
+                        "topic": "Selection",
+                        "subtopics": [
+                            "Concept and process",
+                            "Test and interview",
+                            "Placement induction"
+                        ]
+                    },
+                    {
+                        "topic": "Job analysis",
+                        "subtopics": [
+                            "Job description and job specification"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 3,
+                "topics": [
+                    {
+                        "topic": "Training and Development",
+                        "subtopics": [
+                            "Concept and Importance",
+                            "Identifying Training and Development Needs",
+                            "Designing Training Programs",
+                            "Role Specific and Competency Based Training",
+                            "Evaluating Training Effectiveness"
+                        ]
+                    },
+                    {
+                        "topic": "Performance appraisal",
+                        "subtopics": [
+                            "nature and objectives",
+                            "Modern Techniques of performance appraisal"
+                        ]
+                    }
+                ]
+            },
+            {
+                "unit_number": 4,
+                "topics": [
+                    {
+                        "topic": "Human Resource Development",
+                        "subtopics": [
+                            "Orientation Program",
+                            "Requisite of an effective Program",
+                            "Evaluation of Orientation Program"
+                        ]
+                    },
+                    {
+                        "topic": "Strategic HRM",
+                        "subtopics": [
+                            "HRD audit",
+                            "ethics",
+                            "CSR"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

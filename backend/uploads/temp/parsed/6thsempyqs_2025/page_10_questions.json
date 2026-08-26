@@ -1,0 +1,82 @@
+[
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "a)",
+        "text": "What is Financial Management, and why is it important for businesses?",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "b)",
+        "text": "Explain the Goal of Financial Management.",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "c)",
+        "text": "Explain the difference between bonds and debentures.",
+        "co": null
+    },
+    {
+        "question_number": "1",
+        "question_instruction": null,
+        "question_marks": "10",
+        "part": "d)",
+        "text": "Explain the factors affecting capital structure.",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "a)",
+        "text": "Define the Time Value of Money (TVM). Explain its significance with suitable examples and outline its key assumptions.",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "b)",
+        "text": "Describe the type of Decisions a financial manager has to take. Explain how these decisions are interrelated.",
+        "co": null
+    },
+    {
+        "question_number": "2",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "c)",
+        "text": "Mr Dhawan borrowed Rs. 7,00,000 to buy a Machine. If he pays Equal Installments for 20 Years @8% P.A. Compute Amount of Installments",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "a)",
+        "text": "1. What do you understand by the term perpetual and irredeemable preference share?2. Define cost of Equity with relevant examples? 2.52.5",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "b)",
+        "text": "Define WACC? Explain its significance in Financial decision-making with relevant examples. 5",
+        "co": null
+    },
+    {
+        "question_number": "3",
+        "question_instruction": "Attempt any two parts",
+        "question_marks": "10",
+        "part": "c)",
+        "text": "The following is the capital structure of ABC Ltd.Sources of CapitalAmountCost of Capital of SourcesEquity Share Capital (shares of Rs. 500 each)60,00,00018%14% Preference Share Capital (shares of Rs. each)10,00,000?12% Debentures of Rs. Each30,00,000?The tax rate for the given period is 20%. Calculate WACC. 5",
+        "co": null
+    }
+]

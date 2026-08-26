@@ -1,0 +1,99 @@
+(2)
+
+(Please write your Enrollment Number)
+Enrollment No. 01701012022
+
+End-Term Examination
+(CBCS)(SUBJECTIVE TYPE)(OffLine)
+Course Name: B.Tech. Semester: 6th
+(May, 2025)
+
+ Subject Code: BCS 306
+
+ Subject: Compiler Design
+
+ Time :3 Hours
+
+ Maximum Marks :60
+
+Note: Q1 is compulsory. Attempt one question each from the Units I, II, III & IV.
+
+ Q1
+ (2.5*8=20)
+ CO Mapping
+
+ a) What is the purpose of symbol table in compilation? How is it used during lexical analysis?
+ 2.5
+ CO1
+
+ b) Differentiate between Syntax analysis and Sematic analysis.
+ 2.5
+ CO1
+
+ c) Explain Predictive parsing.
+ 2.5
+ CO2
+
+ d) Discuss about different actions possible in Shift Reduce parsing using suitable example.
+ 2.5
+ CO2
+
+ e) What is a type system? Give two examples of static type checking.
+ 2.5
+ CO3
+
+ f) Suppose $\Sigma=\{a,b\}$ , then what type strings will appear in $L(a*b*)$ .
+ 2.5
+ CO2
+
+ g) Explain about Abstract Syntax Tree and Directed Acyclic Graph using suitable example.
+ 2.5
+ CO4
+
+ h) Convert the following expression in to equivalent three address code. $(a+b*c)+d+(a+b*c)-d+e$
+ 2.5
+ CO4
+
+ UNIT I
+
+ Q2
+ (10)
+ CO MappingCO1
+
+ Explain the concept of "Grouping of Phases" in compiler design. Discuss how front-end and back-end phases are grouped, along with their significance in compiler construction.
+
+ Q3
+ (10)
+ CO MappingCO2
+
+ Define regular expression. Let $\Sigma=\{0,1\}$ then what type of language does regular expression $(0+1)*$ will generate Construct a deterministic finite Automate for $(0+1)^*$ .
+
+ UNIT II
+
+ Q4
+ (10)
+ CO MappingCO4
+
+ Given the grammar:S→CCC→cC|dConstruct the Canonical LR (CLR) parsing table and parse the input "cccdcd".
+
+ Q5
+ (10)
+ CO MappingCO4
+
+ Given the augmented grammar:S' → SS → L=R | RL → *R | idR → La) Construct the canonical LR(1) item setsb) Construct the LALR(1) parsing table
+
+ UNIT III
+
+ Q6
+ (10)
+ CO MappingCO3
+
+ Discuss about different types of attributes? And compare S-attributed and L-attributed grammars with suitable examples.
+
+ Q7
+ (10)
+ CO MappingCO3
+
+ How static storage allocation is different from stack-based storage allocation explain with neat diagrams.
+
+1

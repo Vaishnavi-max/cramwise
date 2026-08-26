@@ -1,0 +1,50 @@
+[
+    {
+        "question_number": "7",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "a)",
+        "text": "What does the CPU do when it receives an interrupt? How do you enable and disable interrupts in 8086?",
+        "co": "CO3"
+    },
+    {
+        "question_number": "7",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "b)",
+        "text": "Draw and Explain the Interfacing of 8259 with 8086. What is the advantage of using 8259.",
+        "co": "CO3"
+    },
+    {
+        "question_number": "8",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "a)",
+        "text": "Write the sequence of instructions required to initialize 8251A at address 80H and 81H for the configuration given below.(i) character length-6 bits (iv) Baud rate 64 X(it) Parity even(v) DTR and RTS asserted(iiz) Stop bit 1(vi) Error flag reset(vit) Transmitter enable",
+        "co": "CO4"
+    },
+    {
+        "question_number": "8",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "b)",
+        "text": "What are the functions of DMA controller? Describe the steps that take place during DMA operation.",
+        "co": "CO4"
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "a)",
+        "text": "Discuss the process of interfacing with the 8255 programmable peripheral interface using the 8086 microprocessor, including the various modes of operation.",
+        "co": "CO4"
+    },
+    {
+        "question_number": "9",
+        "question_instruction": null,
+        "question_marks": 5,
+        "part": "b)",
+        "text": "What is DMA, why it is required. Explain Cycle stealing and Burst mode.",
+        "co": "CO4"
+    }
+]

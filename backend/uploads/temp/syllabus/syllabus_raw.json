@@ -1,0 +1,536 @@
+[
+    {
+        "course_name": "Wireless Networks",
+        "course_code": "BCS 302",
+        "category": "DCC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 12,
+                "content": "Introduction: Introduction to wireless networks, Ad-hoc networks – definition, characteristics features, applications. Characteristics of Wireless channel, Adhoc Mobility Models: - Indoor and outdoor models. MAC Protocols: design issues, goals and classification. Contention based protocols, IEEE Standards: 802.11, 802.15."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 10,
+                "content": "Network Protocols: Routing Protocols: Design issues, Proactive Vs reactive routing protocols, Unicast routing protocols, Multicast routing protocols, hybrid routing protocols, Energy aware routing protocols, Hierarchical Routing protocols Transport Layer: Issues in designing Transport Layer, Transport layer classification, Ad- hoc transport protocols."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 10,
+                "content": "Wireless Mesh Networks: Necessity for Mesh Networks, MAC enhancements, IEEE 802.11s Architecture, Opportunistic Routing, Heterogeneous Mesh Networks, Vehicular Mesh Networks"
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 10,
+                "content": "Wireless Sensor Networks: Introduction, Sensor Network architecture, Data Dissemination, Data Gathering, Location discovery, Quality of Sensor Networks, Sensor Network Platforms and Tools, Energy Efficient Approaches"
+            }
+        ],
+        "text_books": [
+            "C. Siva Ram Murthy and B. S. Manoj, Ad hoc Wireless Networks Architectures and Protocols, 2nd edition, Pearson Education, 2004.",
+            "Holger Karl & Andreas Willig, \" Protocols and Architectures for Wireless Sensor Networks”, John Wiley, Student Edition (Indian), 2016."
+        ],
+        "reference_books": [
+            "Perkins, Charles, “Ad hoc networking”, 1st Edition, Pearson Education India, 2008.",
+            "R. Hekmat, “Ad-hoc Networks: Fundamental Properties and Network Topologies”, Springer, 1st Edition, 2006",
+            "C. K.Toh, “Adhoc Mobile Wireless Networks”, Pearson Education; 1st edition, 2015.",
+            "W. Dargie and C. Poellabauer, “Fundamentals of Wireless Sensor Networks –Theory and Practice”, Wiley, 2010."
+        ]
+    },
+    {
+        "course_name": "Microprocessor and Interfacing",
+        "course_code": "BCS 304",
+        "category": "DCC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT-I",
+                "hours": 10,
+                "content": "Introduction and architecture: Introduction to microprocessors, classification, basic architecture and its applications. History of microprocessors, Brief Introduction to 8085 Microprocessor, , 8086 architecture, BIU and EU, Register Organization, Pin diagram, Memory Segmentation"
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT-II",
+                "hours": 12,
+                "content": "Assembly Language Programming of 8086: Instruction set of 8086, Instruction execution time, Timing Diagram, fetch cycle, execution cycle. Instruction format, Addressing modes, Instruction Types (data transfer instruction, arithmetic instructions, branch instruction, NOP & HLT instructions, flag manipulation instruction, logical instruction, shift and rotate instruction, String instructions), Assembler directions and operators."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT-III",
+                "hours": 10,
+                "content": "Introduction to Multiprogramming:  System Bus Structure ,Multiprocessor configurations, Coprocessor, Closely coupled and loosely Coupled configurations, Introduction to advanced processors, 80186, 80286, 80386 Interfacing: Memory interfacing to 8086, Interrupt structure of 8086, Vector interrupt table, Interrupt service routine. Interfacing Interrupt Controller 8259"
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT-IV",
+                "hours": 10,
+                "content": "Interfacing with advanced devices: I/O Interface: 8255 PPI various modes of operation and interfacing to 8086. Communication Interface: Serial data transfer schemes. 8251 USART architecture and interfacing, DMA , Interfacing DMA Controller 8257 to 8086."
+            }
+        ],
+        "text_books": [
+            "A.K. Ray and K.M. Bhurchandi, “Advanced Microprocessors and Peripherals “, McGraw Hill Education; 3rd edition (2017)",
+            "Douglas V Hall, SSSP Rao, “Microprocessor and Interfacing”,  McGraw Hill Education; 3rd edition (2017)",
+            "Y.C. Liu and A. Gibson, “Microcomputer systems-The 8086 / 8088 Family”,Pearson Education India; 2nd edition (2015)"
+        ],
+        "reference_books": [
+            "Barry B. Brey, “The Intel Microprocessor, Architecture, Programming and Interfacing “ , Pearson Education India; 8th edition ( 2008)",
+            "Kenneth J Ayala, “The 8086 Microprocessor: Programming & Interfacing the PC” , Cengage Learning; 1st edition (2007)",
+            "B. Ram, ‘Fundamentals of Microprocessors and Microcomputers’, Dhanpat Rai Publications. latest edition, 2012"
+        ]
+    },
+    {
+        "course_name": "Compiler Design",
+        "course_code": "BCS 306",
+        "category": "DCC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT-I",
+                "hours": 10,
+                "content": "Introduction to compilers – Analysis of the source program, Phases of a compiler, Grouping of phases, compiler writing tools– bootstrapping. Case study: MiniC ( A small subset of C language) Lexical Analysis-The role of Lexical Analyzer, Input Buffering, Specification of Tokens using Regular Expressions, Review of Finite Automata, Recognition of Tokens Case study: Lexical Analysis for MiniC Syntax Analysis: Review of Context-Free Grammars – Derivation trees and Parse Trees, Ambiguity."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT-II",
+                "hours": 12,
+                "content": "Top-Down Parsing: Recursive Descent parsing, Predictive parsing, LL(1) Grammars. Bottom-Up Parsing: Shift Reduce parsing – Operator precedence parsing (Concepts only). LR parsing – Constructing SLR parsing tables, Constructing Canonical LR parsing tables and Constructing LALR parsing tables. Case study: Syntax analysis for MiniC"
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT-III",
+                "hours": 10,
+                "content": "Syntax directed translation: Syntax directed definitions, Bottom- up evaluation of S- attributed definitions, L- attributed definitions, Top-down translation, Bottom-up evaluation of inherited attributes. Type Checking: Type systems, Specification of a simple type checker. Run-Time Environments: Source Language issues, Storage organization, Storage allocation strategies."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT-IV",
+                "hours": 10,
+                "content": "Intermediate Code Generation (ICG): Intermediate languages – Graphical representations, Three Address code, Quadruples, Triples. Assignment statements, Boolean expressions. Code Optimization: Principal sources of optimization, Optimization of Basic blocks. Code generation: Issues in the design of a code generator. A simple code generator. Case study: MiniC Code Generator for the MiniC Architecture"
+            }
+        ],
+        "text_books": [
+            "Aho A., M. S Lam, R. Sethi and D Ullman, “Compilers – Principles Techniques and Tools”, Pearson Education India; 2nd edition (2013)",
+            "K. C. Louden, “Compiler Construction – Principles and Practice”, Cengage Learning Indian Edition, 2006."
+        ],
+        "reference_books": [
+            "A. I Hollub, Compiler  Design in C, Pearson Education India; 1st edition (2015)",
+            "AW Appel, M Ginsburg, “Modern Compiler Implementation in C”, Cambridge University Press, 2004.",
+            "K. Muneeswaran, “Compiler Design” ,Oxford University Press, Illustrated edition (2012)"
+        ]
+    },
+    {
+        "course_name": "Multimedia Technologies",
+        "course_code": "BCS 308",
+        "category": "DCC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT-I",
+                "hours": 10,
+                "content": "Introduction: Brief introduction about multimedia concepts. Multimedia objects. Text, graphics, sound, video, images, internet and web, world wide web, html, XML, Angular JS, CSS. Hardware and software requirements. Multimedia software tools, hardware. Concept of Non- Temporal and Temporal Media. Basic Characteristics of Non-Temporal Media, Hypertext and Hypermedia. Presentations, Synchronization, Events, Scripts and Interactivity."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT-II",
+                "hours": 10,
+                "content": "Data representation and compression: Data representation, Basic concepts of Compression, basic compression techniques, video audio data compression techniques, image format. Huffman coding, Shannon Fano algorithm, Huffman algorithms, adaptive coding, arithmetic coding higher order modeling, finite context modeling, dictionary based compression, sliding window compression, LZ77, LZW compression, compression ratio loss less and lossy compression."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT-III",
+                "hours": 10,
+                "content": "Multimedia system architecture & database: Introduction to Multimedia PC/Workstation Architecture, Characteristics of MMX instruction set, I/O systems: Overview of USB port and IEEE 1394 interface, Operating System Support for Multimedia, Multimedia Database Design, Content Based Information Retrieval: Text Retrieval, Image Retrieval, Video Retrieval, Overview of MPEG-7, and design of video-on-Demand Systems."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT-IV",
+                "hours": 10,
+                "content": "Multimedia & its Applications: Speech (digital audio concepts, sampling variables, loss; loss less and silence compression), Images (multiple monitors, bitmaps, vector drawing, lossy graphic compression, JPEG compression, Zigzag coding), Multimedia network and QoS support, multimedia wireless networks, heterogeneous network, multimedia applications. Latest trends in multimedia and case study related to multimedia technologies."
+            }
+        ],
+        "text_books": [
+            "D. Hillman, “Multimedia Technology & Applications”, Galgotia Publications. First edition 2008.",
+            "N. Chapman & J. Chapman, “Digital Multimedia”, Wiley Pub. Third edition 2009."
+        ],
+        "reference_books": [
+            "O. Marsh. “Multimedia Technology and Applications.” Larsen and Keller Edu. 2017.",
+            "R. Agrawal, “Multimedia Systems”, Excel Books. 2013.",
+            "D.P. Mukherjee, “Fundamentals of Computer Graphics and Multimedia”, PHI 2004.",
+            "Z. Li & M. S. Drew. “Fundamentals of Multimedia.” Prentice Hall India Learning Private Limited (2005)"
+        ]
+    },
+    {
+        "course_name": "Human Computer Interaction",
+        "course_code": "BCS 310",
+        "category": "DEC",
+        "credits": "4",
+        "semester": "5",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 10,
+                "content": "Introduction: Importance of user interface, definition, importance of good design, Benefits of good design, A brief history on screen design. Graphical User Interface: Popularity of Graphics, the concept of direct manipulation, graphical system, characteristics, web user interface popularity, characteristics-principles of user interface."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 11,
+                "content": "Design process: Human interaction with computers, importance of human characteristics, human considerations, human interaction speeds, understanding business junctions. Limitations and constraints of mobile and hand-held platforms and issues related to network, power, memory and UI responsiveness required with reference to other computing platforms."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 11,
+                "content": "Screen Designing (UI Design): Design goals, screen planning and purpose, organizing screen elements, ordering of screen data and content, screen navigation and flow, visually pleasing composition, amount of information, focus and emphasis, presenting information simply and meaningfully, information retrieval on web, statistical graphics, technological consideration in interface design. Windows: Navigation schemes selection of window, selection of devices based and screen-based controls."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 10,
+                "content": "Components and Software Tools: Components: text and messages, Icons and increases, multimedia, colors, user problems. Software tools: Specification methods interface, building tools. Interacting Devices: Keyboard and function keys, touch screen technology, pointing devices, speech recognition digitization and generation, image and video displays (LED,LCD,HD displays), voice activated commands and its implementation"
+            }
+        ],
+        "text_books": [
+            "W. O Galitz, “The essential guide to user interface design”, Wiley, Third Edition, 2007.",
+            "B. Shneidermann, “Designing the User Interface: Strategies for Effective Human- Computer Interaction”, 5th Edition,Pearson Education ,2014."
+        ],
+        "reference_books": [
+            "A. Dix, J. Fincay, G. Goryd, Abowd, R. Bealg, “ Human Computer Interaction” , 3rdEdition, Pearson Education,2004.",
+            "Sharp ,Rogers,  Preece, “Ineraction Design Beyond Human-Computer Interaction”, 5th Edition, Wiley, 2019",
+            "D. Stone, C. Jarrett, M. Woodroffe, and S. Minocha, “User Interface Design and Evaluation( interactive technologies) , Morgan Kaufmann; Revised of \"The Miracle of Col ed. edition (2005)"
+        ]
+    },
+    {
+        "course_name": "Advanced Computer Architecture",
+        "course_code": "BCS 312",
+        "category": "DEC",
+        "credits": "4",
+        "semester": "5",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 12,
+                "content": "Introduction & Fundamentals: The concept of computer Architecture: Interpretation of concept of computer architecture at different level abstraction, Multi-level hierarchical frame work, description of computer architecture, Introduction to parallel processing: Basic concept, types of level of parallelism, classification of parallel architecture, Basic parallel techniques, relationship between language and parallel architecture. Principles of scalable performance: Performance Metrics and Measures, Speedup Performance Law, Scalability Analysis & approaches, Processor and memory hierarchy: Design Space of Processor, ISA, CISC & RISC, Memory Hierarchy Technology, Virtual Memory Technology"
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 10,
+                "content": "Instruction Level Parallel Processor (Parallelism): Pipelined Processors: Basic concept, ILP: Basics, Exploiting ILP, Limits on ILP, design space of pipelines, performance of pipeline, reservation table, And DLX Case Study. VLIW architecture, Superscalar Processor: Super Scalar and super- pipeline Design, A case study of ARM 64-bit processor."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 12,
+                "content": "Data parallel Architecture and MIMD architectures: SIMD Architecture: Design space, fine grain SIMD architecture, coarse grain SIMD architecture, Associative and Neural Architecture, Systolic Architecture, Vector Architectures: Wordlength, vectorization, pipelining, and vector instruction format. Thread and Process Level Parallel Architecture (MIMD Architecture): Multi-threaded Architecture: Design space, computational model, Data flow architecture, hybrid multi shared architecture Distributed memory MIMD, Architecture: Design space, interconnection networks, topology, fine grain system, medium grain system, coarse grain system, Cache Coherence and synchronisation Mechanism Shared memory MIMD Architecture."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT-IV",
+                "hours": 10,
+                "content": "Parallel Algorithm and Programming: MPI: Basics of MPI Open MP: Open MP Implementation in ‘C’, Directives: Conditional Compilation, Internal Control Variables, Parallel Construct, Work Sharing Constructs, Combined Parallel Work-Sharing constructs, Master and Synchronisation Constructs POSIX thread: IEEE POSIX Threads: Creating and Exiting Threads, Simultaneous Execution of threads."
+            }
+        ],
+        "text_books": [
+            "1 D. Sima, T. Fountain , P. Karsuk , “Advanced Computer Architectures: A Design Space Approach”, Pearson Education India; 1st edition, 2002. 2 K. Hwang , N. Jotwani , “Advance Computer Architecture : Parallelism, Scalability, Programmability”, McGraw Hill Education; 3rdedition, 2017."
+        ],
+        "reference_books": [
+            "1 Quinn, “Parallel Programming in C with MPI and Open MP”, McGraw Hill Edu.; 1st Ed. 2017. 2 J. P. Hayes, “Computer Architecture and Organization”, McGraw Hill Education; 3rd ed. 2017."
+        ]
+    },
+    {
+        "course_name": "Cloud Computing",
+        "course_code": "BIT 304",
+        "category": "DCC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 10,
+                "content": "Cloud Computing Fundamentals: Introduction of cloud computing, History of cloud computing, Trends in computing, Grid computing, Cluster computing, Distributed computing, Utility computing, Fog computing, NIST definition and characteristics of cloud computing, Cloud as green and smart, Cloud as IaaS, PaaS, SaaS, BPaaS and  HaaS, SPI framework, SPI vs. traditional IT Model, Cloud deployment models, Benefits and challenges."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 10,
+                "content": "Virtualization and Cloud Architecture: Virtualization concept, Resource virtualization, Server virtualization, Storage virtualization and Network virtualization, Storage Network Design: Architecture of storage, Analysis and planning, Storage models, Cloud optimized storage, Virtual Box and Microsoft Hyper-V."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 10,
+                "content": "Cloud Security: Web services, Web 2.0, Web OS, Security challenges and preventive measures: Infrastructure layer, Network layer and Application layer of cloud computing architecture, Security models in cloud, Resource management in cloud computing, Static and dynamic load balancing in cloud computing, Identity access management and Trust  in cloud computing, Thin client."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 10,
+                "content": "Cloud providers and case studies: Amazon EC2, Amazon EC service level agreement and recent developments, GoGrid, Salesforce.com, Force.com, Google App Engine, Rackspace, Government of India Cloud, IBM cloud, Eucalyptus cloud, Analysis of Case Studies when deciding to adopt cloud computing architecture."
+            }
+        ],
+        "text_books": [
+            "B. Sosinsky, “Cloud Computing Bible”, 1st Edition, Wiley-India, 2011/ Latest Edition.",
+            "Thomas Erl, Zaigam Mahmood, Ricardo Puttini, “Cloud Computing Concepts, Technology & Architecture”, 1st Edition, Pearson India, 2013/ Latest Edition. Reference Material",
+            "A. Shawish and M. Salama, “Cloud computing: paradigms and technologies.” In Inter-cooperative collective intelligence: Techniques and applications, Springer, 2014/ Latest Edition.",
+            "M. Miller, “Cloud Computing: Web-Based Applications That Change the Way You Work and Collaborate Online”, 1st Edition, Pearson Education India, 2008/ Latest Edition",
+            "https://swayam.gov.in/course/4413-cloud-computing"
+        ],
+        "reference_books": []
+    },
+    {
+        "course_name": "Internet of Things",
+        "course_code": "BIT 310",
+        "category": "DEC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 10,
+                "content": "Introduction: Definition, Functional requirements, Characteristics, Foundations, architectures, challenges and issues, Physical design of IoT, Logical design of IoT, Web 3.0 of IoT, IoT World Forum (IoTWF) and Alternative IoT models, IoT Communication Models, IoT in Global Context, Real world scenarios, Different Areas, Examples Trends in the Adaption of the IoT (Cloud Computing, Big Data Analytics, Concepts of Web of Things, Concept of Cloud of Things with emphasis on Mobile Cloud Computing, Smart Objects)."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 10,
+                "content": "Components in IoT: Control Units, Sensors, Communication modules, Power Sources, Communication Technologies, RFID, Bluetooth, Zigbee, Wi-fi, RF links, Mobile Internet, Wired Communication; IoT Protocol and Technology: RFID, NFC, Wireless Networks,  WSN, RTLS , GPS, Agents , Multi – Agent Systems, IoT Protocols: M2M, BacNet, ModBus, Bluetooth, Wi- Fi,  ZigBee; Web of Things (WoT): WoT vs. IoT, Architecture; Cloud of Things (CoT): Grid/SOA and Cloud Computing, Standards, Cloud Providers and Systems, Architecture."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 10,
+                "content": "Data Analytics for IoT: Introduction, Machine Learning, Big Data Analytics Tools and Technology, Apache Hadoop, Using Hadoop MapReduce for Batch Data Analysis, Apache Oozie, Apache Spark, Apache Storm, Apache Kafka, Edge Streaming Analytics and Network Analytics, Xively Cloud for IoT, Using Apache Storm for Real-time Data Analysis, Structural Health Monitoring Case Study, Tools for IoT: Chef, Chef Case Studies, Puppet, Puppet Case Study – Multi-tier Deployment, NETCONF-YANG Case Studies, IoT Code Generator."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 10,
+                "content": "Domain specific applications of IoT: Home automation, Industry applications, Surveillance applications, Smart Homes, Ambient Assisted Living, Intelligent Transport, Other IoT application: Use-Case Examples; Developing IoT solutions: Introduction to Python, Introduction to different IoT tools, Introduction to Arduino and Raspberry Pi Implementation of IoT with Arduino and Raspberry, Cloud Computing, Fog Computing, Connected Vehicles, Data Aggregation for the IoT in Smart Cities, Privacy and Security Issues in IoT."
+            }
+        ],
+        "text_books": [],
+        "reference_books": []
+    },
+    {
+        "course_name": "Computer Graphics",
+        "course_code": "BCS 314",
+        "category": "DEC",
+        "credits": "4",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 10,
+                "content": "Introduction to computer graphics: Introduction, Application of computer graphics, Video Display Devices, Raster Scan Systems, Random Scan Systems, Graphics Monitors and Work Stations, Input Devices, Hard Copy Devices, Graphics Software. Colour Models: RGB, HSV etc. Output primitives: DDA Line drawing algorithm, Bresenham’s Line Drawing Algorithm, Mid-point circle algorithm, Mid-point Ellipse algorithms, filling algorithms, boundary fill and flood fill algorithms, scanline filling."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 11,
+                "content": "Transformations: Basic 2D Transformations, Matrix representations & Homogeneous Coordinates, Matrix Representations for basic 2D and 3D transformations (Translation, Scaling, Rotation), Composite Transformations, reflection and shear transformations, affine transformation, transformations between coordinate systems. Two-dimensional viewing: The viewing Pipeline, Window to view port coordinate transformation, Clipping Operations: Point Clipping, Line Clipping (Cohen Sutherland and Liang-Barsky), Polygon Clipping, Sutherland-Hodgeman polygon clipping, Wailer-Atherton polygon clipping, curve clipping, Text clipping."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 10,
+                "content": "Curves and Surfaces: Representation of surfaces, polygon meshes, plane equations, parametric cubic curves, Hermite Curves, Bezier Curves, 4 point and 5 point Bezier curves using Bernstein Polynomials, Conditions for smoothly joining curve segments, Bezier bi-cubic surface patch, B- Spline Curves, Cubic B-Spline curves using uniform knot vectors, Testing for first and second order continuities. Visible surface detection, Back Face Detection, Depth Buffer (Z-Buffer, A-Buffer) Method. Scan Line Method, Depth Sorting Method, Area Subdivision Method."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 11,
+                "content": "Three-Dimensional Concepts: 3D Transformations, Parallel Projection and Perspective Projection. Shading and Illumination Model: Shading, Illumination Model for diffused Reflection, Ambient light, Specular Reflection Model, Reflection Vector. Shading Models, Flat shading, Gourard Shading, Phong Model. Case studies:Design case studies to perform 2D representations of lines and curves, perform 2D and 3D transformations on different objects."
+            }
+        ],
+        "text_books": [
+            "1 D. Hearn and M. P. Baker, “Computer Graphics C version”, Pearson Education; 2nd ed.  (2014) 2 Z. Xiang & R. Plastock “Computer Graphics”, Schaum’s Series, McGraw Hill Edu. 2nd Ed (2006)"
+        ],
+        "reference_books": [
+            "1 D. Rogers and J. Adams, “Mathematical Elements for Computer Graphics”, McGraw Hill Education; 2nd edition (2017) 2 Foley, V. Dam, Feiner and Hughes, “Computer Graphics Principles & practice”, Pearson Education India; 2nd edition (2002)"
+        ]
+    },
+    {
+        "course_name": "Principles of Management",
+        "course_code": "HMC 302",
+        "category": "HMC",
+        "credits": "2",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 7,
+                "content": "Introduction: Concept, Nature, Process and Significance of Management; Managerial levels, Development of Management Thought: Classical, Neo-Classical, Behavioral, Systems and Contingency Approaches."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 7,
+                "content": "Planning: Nature, Scope and Objectives of Planning; Types of plans; Planning Process; Organizing: Nature, Process and Significance; Principles of an Organization; Span of Control; Types   of   an   Organization."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 7,
+                "content": "Staffing: Concept, Nature and Importance of Staffing. Motivating and Leading: Nature and Importance of Motivation; Types of Motivation; Leadership: Meaning and Importance; Traits of a leader."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 7,
+                "content": "Controlling: Nature and Scope  of  Control; Types  of  Control;  Control  Process;  Control Techniques– Traditional and Modern; Effective Control System."
+            }
+        ],
+        "text_books": [
+            "S.P. Robbins, “Fundamentals Management: Essentials Concepts Applications”, Pearson Education, 2014.",
+            "Gilbert, J.A.F. Stoner and R.E. Freeman, “Management”, Pearson Education, 2014. H. Koontz, “Essentials of Management”, McGraw Hill Education, 2012."
+        ],
+        "reference_books": [
+            "C. B. Gupta, “Management Concepts and Practices”, Sultan",
+            "W. Ghillyer, “Management- A Real World Approach”, McGraw Hill Education, 2010.",
+            "K. Mukherjee, “Principles of Management”, McGraw Hill Education, 2012."
+        ]
+    },
+    {
+        "course_name": "Marketing Management",
+        "course_code": "HMC 304",
+        "category": "HMC",
+        "credits": "2",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 7,
+                "content": "Introduction to Marketing: Nature, Scope and Importance of Marketing, Basic concepts, Marketing Environment."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 7,
+                "content": "Product: Product Levels, Product Mix, Product Strategy, Product Development, Product Lifecycle and Product Mix Pricing Decisions."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 7,
+                "content": "Place: Meaning & importance, Types of Channels, Channels Strategies, Designing and Managing Marketing Channel."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 7,
+                "content": "Promotion: Promotion Mix, Push vs. Pull Strategy; Promotional Objectives, Advertising- Meaning and Importance, Types, Media Decisions, Promotion Mix, Personal Selling-Nature, Importance and Process."
+            }
+        ],
+        "text_books": [
+            "P. Kotler, P.Y. Agnihotri and E.U. Haque, “Principles of Marketing- A South Asian Perspective”, Pearson Education, 2012.",
+            "T.  Ramaswamy  and  S.  Namkumar, “Marketing Management Global Perspective: Indian Context”, McMillan, Delhi, 2013."
+        ],
+        "reference_books": [
+            "R. Saxena, “Marketing Management”, McGraw Hill Education, 2012.",
+            "C.W. Lamb, J.F. Hair, C. McDaniel, D. Sharma, “MKTG: a South Asian Perspective with Coursemate”, Cengage Learning, 2016.",
+            "R. Winer, “Marketing Management”, Pearson Education, 2012."
+        ]
+    },
+    {
+        "course_name": "Financial Management",
+        "course_code": "HMC 306",
+        "category": "HMC",
+        "credits": "2",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 7,
+                "content": "Financial Management Definition, scope, objectives of Financial Management, Functions of a finance manager, Time value of money. Sources of Finance for different Organizations."
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 7,
+                "content": "Capital Structure: Meaning of Capital Structure: Factors Determining Capital Structure. Cost of Capital: Concept, Importance and Classification."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 7,
+                "content": "Capital Budgeting: Concept, Importance and Appraisal Methods: Pay Back Period, Accounting, Rate of Return, Net Present Value Method (NPV), Profitability Index, and IRR. Capital Rationing."
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 7,
+                "content": "Working Capital Management: Operating cycle, Working Capital Estimation, Inventory Management: EOQ Problem."
+            }
+        ],
+        "text_books": [
+            "M.Y. Khan and P.K. Jain, “Financial Management”, McGraw Hill Education, 8 th Edition, 2018.",
+            "I. M. Pandey, “Financial Management”, Vikas Publishing House, 2015."
+        ],
+        "reference_books": [
+            "S. Kapil, “Financial Management”, Pearson Education, 2012.",
+            "C. Prasanna, “Financial Management: Theory and Practice”, McGraw Hill, 2017.",
+            "S.N. Maheshwari, “Financial Management: Principles and Practice”, Sultan Chand, LN, 2019."
+        ]
+    },
+    {
+        "course_name": "Human Resource Management",
+        "course_code": "HMC 308",
+        "category": "HMC",
+        "credits": "2",
+        "semester": "6",
+        "units": [
+            {
+                "unit_number": 1,
+                "unit_name": "UNIT I",
+                "hours": 7,
+                "content": "Human Resource Management: Introduction to Concept and Functions of HRM, Role, Status and Competencies of HR Manager, HR Policies, Evolution of HRM. Emerging Challenges of Human Resource Management;"
+            },
+            {
+                "unit_number": 2,
+                "unit_name": "UNIT II",
+                "hours": 7,
+                "content": "Human Resource Planning: Human Resource Planning- Quantitative and Qualitative dimensions; Recruitment – Concept and sources; (E-recruitment, recruitment process outsourcing etc.); Selection – Concept and process; test and interview; placement induction. Job analysis – job description and job specification."
+            },
+            {
+                "unit_number": 3,
+                "unit_name": "UNIT III",
+                "hours": 7,
+                "content": "Training and Development: Concept and Importance; Identifying Training and Development Needs; Designing Training Programs; Role Specific and Competency Based Training; Evaluating Training Effectiveness; Performance appraisal: nature and objectives; Modern Techniques of performance appraisal;"
+            },
+            {
+                "unit_number": 4,
+                "unit_name": "UNIT IV",
+                "hours": 7,
+                "content": "Human Resource Development: Orientation Program; Requisite of an effective Program, Evaluation of Orientation Program. Strategic HRM: HRD audit, ethics and CSR"
+            }
+        ],
+        "text_books": [
+            "G. Dessler. “A Framework for Human Resource Management”, Pearson Education, 2017, 15th Edition.",
+            "D. A. Decenzo, S. P. Robbins, S. L. Verhulst, “Human Resource Management”, Wiley India Private Limited, 2015."
+        ],
+        "reference_books": [
+            "Bohlendar and Snell, “Principles of Human Resource Management”, Cengage Learning, 2013.",
+            "B. Becker, M. Huselid, D. Ulrich, “The HR Scorecard”, 1st edition, Harvard Business Review Press, 2001."
+        ]
+    }
+]
